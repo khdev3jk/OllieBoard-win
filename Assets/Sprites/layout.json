@@ -1,0 +1,132 @@
+{
+  "anchor" : {
+    "x" : 64,
+    "y" : 122
+  },
+  "animations" : {
+    "bored" : {
+      "fps" : 2,
+      "frames" : 4,
+      "loop" : true,
+      "row" : 6
+    },
+    "carry" : {
+      "fps" : 10,
+      "frames" : 8,
+      "loop" : true,
+      "row" : 4
+    },
+    "dragged" : {
+      "fps" : 8,
+      "frames" : 4,
+      "loop" : true,
+      "row" : 10
+    },
+    "grumpy" : {
+      "fps" : 8,
+      "frames" : 4,
+      "loop" : true,
+      "row" : 9
+    },
+    "happy" : {
+      "fps" : 10,
+      "frames" : 6,
+      "loop" : true,
+      "row" : 5
+    },
+    "idle" : {
+      "fps" : 4,
+      "frames" : 4,
+      "loop" : true,
+      "row" : 0
+    },
+    "kick" : {
+      "fps" : 12,
+      "frames" : 7,
+      "loop" : false,
+      "row" : 3
+    },
+    "run" : {
+      "fps" : 16,
+      "frames" : 6,
+      "loop" : true,
+      "row" : 2
+    },
+    "sad" : {
+      "fps" : 3,
+      "frames" : 4,
+      "loop" : true,
+      "row" : 13
+    },
+    "skill1" : {
+      "fps" : 8,
+      "frames" : 8,
+      "loop" : true,
+      "row" : 14
+    },
+    "skill2" : {
+      "fps" : 8,
+      "frames" : 8,
+      "loop" : true,
+      "row" : 15
+    },
+    "sleep" : {
+      "fps" : 2,
+      "frames" : 4,
+      "loop" : true,
+      "row" : 8
+    },
+    "surprised" : {
+      "fps" : 6,
+      "frames" : 2,
+      "loop" : true,
+      "row" : 11
+    },
+    "walk" : {
+      "fps" : 12,
+      "frames" : 8,
+      "loop" : true,
+      "row" : 1
+    },
+    "work" : {
+      "fps" : 6,
+      "frames" : 4,
+      "loop" : true,
+      "row" : 12
+    },
+    "yawn" : {
+      "fps" : 5,
+      "frames" : 8,
+      "loop" : false,
+      "row" : 7
+    }
+  },
+  "effects" : [
+    "heart",
+    "note",
+    "anger",
+    "zzz",
+    "dots",
+    "sweat",
+    "exclaim",
+    "sparkle",
+    "code",
+    "check",
+    "chest",
+    "flower1",
+    "flower2",
+    "flower3",
+    "flame",
+    "glow",
+    "puff",
+    "wall",
+    "coin",
+    "boom",
+    "tank",
+    "truck",
+    "dog",
+    "rabbit"
+  ],
+  "frameSize" : 128,
+  "pixelScale" : 2
+}

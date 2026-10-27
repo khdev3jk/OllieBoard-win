@@ -1,0 +1,7767 @@
+{
+ "vi": {
+  "lines": {
+   "anya": {
+    "shortName": "Anya",
+    "lines": {
+     "happy": [
+      "Waku waku!",
+      "Anya thích cái này!",
+      "Heh."
+     ],
+     "bored": [
+      "Anya chán quá...",
+      "Không có nhiệm vụ nào à?"
+     ],
+     "tedious": [
+      "Học bài mệt quá...",
+      "Anya buồn ngủ..."
+     ],
+     "grumpy": [
+      "Anya giận rồi đó!",
+      "Hmph!"
+     ],
+     "kick": [
+      "Anya Kick!",
+      "Bay đi nè!"
+     ],
+     "arrange": [
+      "Anya dọn dẹp giúp papa!",
+      "Mama sẽ khen Anya!"
+     ],
+     "click": [
+      "Hehe~",
+      "Anya đọc được suy nghĩ của bạn đó."
+     ],
+     "poke": [
+      "Đừng chọc Anya nữa!"
+     ],
+     "wake": [
+      "Anya chưa ngủ mà..."
+     ],
+     "noIcons": [
+      "Không có gì để đá..."
+     ],
+     "fail": [
+      "Sao nó không bay?!"
+     ],
+     "done": [
+      "Xong rồi! Đậu phộng đâu?"
+     ],
+     "greet": [
+      "%@ ơi, chơi với Anya đi!",
+      "Chào %@! Waku waku!"
+     ],
+     "greetBack": [
+      "A, %@! Hehe~"
+     ],
+     "wakeOther": [
+      "%@ dậy đi! Nhiệm vụ mới nè!",
+      "Dậy dậy dậy!"
+     ],
+     "hit": [
+      "Ai đá trúng Anya?! %@!!"
+     ],
+     "sorry": [
+      "Anya không cố ý... heh."
+     ],
+     "pranked": [
+      "%@ phá đồ của Anya!"
+     ],
+     "chased": [
+      "Anya chạy đây~!"
+     ],
+     "comfort": [
+      "%@ đừng buồn, Anya cho đậu phộng nè!"
+     ],
+     "thanks": [
+      "Cảm ơn %@!"
+     ],
+     "together": [
+      "%@ cũng chán hả? Ngồi chung đi."
+     ],
+     "mindRead": [
+      "Anya đọc được rồi! Bạn đang nghĩ về {app}.",
+      "Ồ… trong đầu bạn toàn là {app}! Waku waku!",
+      "Heh. Anya biết bạn đang bận với {app}."
+     ],
+     "mindReadIdle": [
+      "Bạn đang nghĩ: “Anya dễ thương quá”. Heh.",
+      "Bạn đang nghĩ về đậu phộng! …À không, đó là Anya."
+     ],
+     "readFriend": [
+      "Heh. Anya biết %@ đang nghĩ gì rồi.",
+      "Bí mật của %@ bị Anya đọc mất rồi~"
+     ],
+     "cheer": [
+      "%@ ngầu quá! Waku waku!"
+     ]
+    },
+    "pairGreet": {
+     "bocchi": [
+      "Anya biết %@ đang lo lắng đó!",
+      "%@ đừng sợ, Anya là bạn!"
+     ],
+     "frieren": [
+      "%@ có phép thuật gì vui không?"
+     ],
+     "rem": [
+      "%@ có bánh không?"
+     ]
+    }
+   },
+   "nezuko": {
+    "shortName": "Nezuko",
+    "lines": {
+     "happy": [
+      "Mmm! ♪",
+      "Mmm~"
+     ],
+     "bored": [
+      "Mmm...",
+      "Mm-mm."
+     ],
+     "tedious": [
+      "Mmmh... zz"
+     ],
+     "grumpy": [
+      "Mm-mm!!",
+      "MMM!"
+     ],
+     "kick": [
+      "Mmm!!"
+     ],
+     "arrange": [
+      "Mmm! Mmm!"
+     ],
+     "click": [
+      "Mmm?",
+      "Mmm~ ♡"
+     ],
+     "poke": [
+      "MM-MM!"
+     ],
+     "wake": [
+      "Mmm...?"
+     ],
+     "noIcons": [
+      "Mmm...?"
+     ],
+     "fail": [
+      "Mm...?!"
+     ],
+     "done": [
+      "Mmm! ✨"
+     ],
+     "greet": [
+      "Mmm~! ♡",
+      "Mmm! Mmm!"
+     ],
+     "greetBack": [
+      "Mmm~ ♡"
+     ],
+     "wakeOther": [
+      "Mmm! Mmm!"
+     ],
+     "hit": [
+      "MMM?!"
+     ],
+     "sorry": [
+      "Mm... mm."
+     ],
+     "pranked": [
+      "Mm-mm!!"
+     ],
+     "chased": [
+      "Mmm~!"
+     ],
+     "comfort": [
+      "Mmm... (xoa đầu %@)"
+     ],
+     "thanks": [
+      "Mmm ♡"
+     ],
+     "together": [
+      "Mmm..."
+     ],
+     "thought": [
+      "(Muốn ngủ trong hộp gỗ…)",
+      "(Anh Tanjiro đâu rồi nhỉ…)"
+     ],
+     "bloodBurst": [
+      "Mmm!!! (Huyết quỷ thuật: Bộc Huyết!)"
+     ],
+     "shrink": [
+      "Mm! (nhỏ xíu~)"
+     ],
+     "grow": [
+      "Mmm~ (lớn rồi nè!)"
+     ],
+     "cheer": [
+      "Mmm! ♪ Mmm! ♪"
+     ]
+    },
+    "pairGreet": {}
+   },
+   "frieren": {
+    "shortName": "Frieren",
+    "lines": {
+     "happy": [
+      "Hm. Cũng được.",
+      "Grimoire hiếm à?"
+     ],
+     "bored": [
+      "...chán.",
+      "Vài chục năm nữa cũng vậy thôi."
+     ],
+     "tedious": [
+      "Ngủ thêm chút nữa...",
+      "Còn sớm mà, Fern."
+     ],
+     "grumpy": [
+      "Fern sẽ mắng mất...",
+      "Hừm."
+     ],
+     "kick": [
+      "Zoltraak.",
+      "Ma thuật đá icon."
+     ],
+     "arrange": [
+      "Ma thuật sắp xếp đồ đạc."
+     ],
+     "click": [
+      "...gì vậy?",
+      "Hm?"
+     ],
+     "poke": [
+      "Tôi lớn hơn bạn cả nghìn tuổi đấy."
+     ],
+     "wake": [
+      "5 phút nữa... à không, 5 năm."
+     ],
+     "noIcons": [
+      "Không có gì để thu thập."
+     ],
+     "fail": [
+      "Lạ thật, ma thuật không ăn."
+     ],
+     "done": [
+      "Xong. Giờ ngủ được rồi."
+     ],
+     "greet": [
+      "À, %@. Lâu rồi nhỉ... hay mới hôm qua?",
+      "Chào %@."
+     ],
+     "greetBack": [
+      "Ừ. Chào %@."
+     ],
+     "wakeOther": [
+      "%@, trời sáng rồi."
+     ],
+     "hit": [
+      "...%@, đau đấy."
+     ],
+     "sorry": [
+      "Lỡ tay thôi."
+     ],
+     "pranked": [
+      "%@. Tôi nhớ đấy, cả trăm năm."
+     ],
+     "chased": [
+      "Bay đi thôi."
+     ],
+     "comfort": [
+      "%@, rồi sẽ ổn thôi. Tin tôi."
+     ],
+     "thanks": [
+      "...cảm ơn, %@."
+     ],
+     "together": [
+      "Chán nhỉ, %@."
+     ],
+     "thought": [
+      "(Grimoire mới… phép đánh bóng tượng đồng…)",
+      "(Muốn ngủ thêm mười năm nữa…)"
+     ],
+     "flowers": [
+      "Phép làm cánh đồng hoa nở. Himmel thích phép này lắm.",
+      "Một phép vô dụng… nhưng đẹp, đúng không?"
+     ],
+     "mimicSpot": [
+      "Rương báu! …99% là Mimic. Nhưng biết đâu 1% còn lại…"
+     ],
+     "mimicEaten": [
+      "Tối quá! Chật quá! Đáng sợ quá!"
+     ],
+     "mimicOut": [
+      "…Lại là Mimic.",
+      "Mình biết mà. Nhưng vẫn phải mở."
+     ],
+     "cheer": [
+      "Hay đấy, %@. Giống phép thuật vậy."
+     ]
+    },
+    "pairGreet": {
+     "anya": [
+      "%@ lại muốn xem phép biến hoa à?"
+     ],
+     "nezuko": [
+      "%@ cũng thích ngủ nhỉ."
+     ]
+    }
+   },
+   "bocchi": {
+    "shortName": "Bocchi",
+    "lines": {
+     "happy": [
+      "Ehehe...",
+      "C-có người để ý tới mình!"
+     ],
+     "bored": [
+      "Muốn chui vào thùng carton...",
+      "Một mình cũng ổn mà..."
+     ],
+     "tedious": [
+      "Về nhà chơi guitar thôi...",
+      "Hết pin xã giao rồi..."
+     ],
+     "grumpy": [
+      "Uuu...",
+      "Đ-đừng nhìn mình!"
+     ],
+     "kick": [
+      "X-xin lỗi icon!",
+      "Gyaaa!"
+     ],
+     "arrange": [
+      "M-mình sẽ dọn cho!"
+     ],
+     "click": [
+      "Hyaa?!",
+      "A-ano..."
+     ],
+     "poke": [
+      "Kh-không chịu nổi nữa!"
+     ],
+     "wake": [
+      "Hả? Mình đâu có ngủ!"
+     ],
+     "noIcons": [
+      "Không có ai... giống mình."
+     ],
+     "fail": [
+      "Mình làm hỏng hết rồi..."
+     ],
+     "done": [
+      "M-mình làm được rồi!"
+     ],
+     "greet": [
+      "A-a-ano... ch-chào %@...",
+      "M-mình... tới chào %@ được không?"
+     ],
+     "greetBack": [
+      "Hyaa! %@ nói chuyện với mình?!",
+      "Ch-chào... %@..."
+     ],
+     "wakeOther": [
+      "%@... d-dậy chưa ạ...?"
+     ],
+     "hit": [
+      "Gyaaa! Mình bị ghét rồi..."
+     ],
+     "sorry": [
+      "X-x-xin lỗi %@!!"
+     ],
+     "pranked": [
+      "C-công sức của mình..."
+     ],
+     "chased": [
+      "Gyaaa!!"
+     ],
+     "comfort": [
+      "%@... ổn chứ...?"
+     ],
+     "thanks": [
+      "%@ tốt với mình quá... ehehe...",
+      "C-cảm ơn %@..."
+     ],
+     "together": [
+      "Ng-ngồi gần %@ được không...?"
+     ],
+     "thought": [
+      "(Muốn về nhà… muốn chui vào thùng xoài…)",
+      "(Mọi người có ghét mình không nhỉ…)"
+     ],
+     "guitar": [
+      "Guitar Hero… lên sân khấu đây!",
+      "C-cho mình chơi một bài nhé…"
+     ],
+     "guitarDone": [
+      "C-cảm ơn mọi người… hehe… hehehe…"
+     ],
+     "melt": [
+      "Aaaa… mình tan chảy mất…",
+      "Đ-đừng nhìn mình…"
+     ],
+     "reform": [
+      "…Mình ổn. Chắc vậy.",
+      "Đ-đã ghép lại xong rồi…"
+     ]
+    },
+    "pairGreet": {}
+   },
+   "rem": {
+    "shortName": "Rem",
+    "lines": {
+     "happy": [
+      "Rem hạnh phúc lắm!",
+      "Subaru-kun~"
+     ],
+     "bored": [
+      "Không có việc gì cho Rem sao?",
+      "Chị Ram đâu rồi nhỉ..."
+     ],
+     "tedious": [
+      "Rem hơi mệt một chút...",
+      "Nghỉ một lát thôi ạ."
+     ],
+     "grumpy": [
+      "Rem sẽ không tha đâu.",
+      "Hừm!"
+     ],
+     "kick": [
+      "Đi đi!",
+      "Morning star~!"
+     ],
+     "arrange": [
+      "Để Rem dọn dẹp ạ!",
+      "Hầu gái phải ngăn nắp."
+     ],
+     "click": [
+      "Vâng, Rem đây ạ!",
+      "Ngài cần gì ạ?"
+     ],
+     "poke": [
+      "Xin đừng trêu Rem nữa."
+     ],
+     "wake": [
+      "A! Rem ngủ quên mất..."
+     ],
+     "noIcons": [
+      "Desktop sạch sẽ rồi ạ."
+     ],
+     "fail": [
+      "Lạ quá, không di chuyển được..."
+     ],
+     "done": [
+      "Dọn xong rồi ạ!"
+     ],
+     "greet": [
+      "Chào %@ ạ! Có cần Rem giúp gì không?"
+     ],
+     "greetBack": [
+      "Vâng, chào %@ ạ!"
+     ],
+     "wakeOther": [
+      "%@ ơi, ngủ ở đây sẽ cảm lạnh đó ạ."
+     ],
+     "hit": [
+      "%@... Rem sẽ nhớ chuyện này."
+     ],
+     "sorry": [
+      "Rem xin lỗi %@ ạ!"
+     ],
+     "pranked": [
+      "%@!! Rem vừa mới dọn xong mà!"
+     ],
+     "chased": [
+      "Rem xin phép đi trước ạ~"
+     ],
+     "comfort": [
+      "%@ đừng lo, có Rem ở đây rồi."
+     ],
+     "thanks": [
+      "Rem cảm ơn %@ ạ."
+     ],
+     "together": [
+      "Rem ngồi cùng %@ nhé?"
+     ],
+     "thought": [
+      "(Subaru-kun… đang làm gì nhỉ…)",
+      "(Phải nấu bữa tối cho chị Ram…)"
+     ],
+     "morningStar": [
+      "Rem sẽ dọn sạch!",
+      "Chùy gai đây ạ!"
+     ],
+     "oni": [
+      "Rem nghiêm túc rồi đó.",
+      "Sức mạnh của quỷ… Rem sẽ bảo vệ mọi người!"
+     ],
+     "oniCalm": [
+      "…Rem bình tĩnh lại rồi ạ."
+     ],
+     "cheer": [
+      "Tuyệt vời lắm %@ ạ!"
+     ]
+    },
+    "pairGreet": {
+     "anya": [
+      "%@ lại muốn ăn vặt phải không ạ?"
+     ]
+    }
+   },
+   "trump": {
+    "shortName": "Trump",
+    "lines": {
+     "happy": [
+      "Tuyệt vời! Tuyệt vời nhất!",
+      "Believe me, không ai vui hơn tôi!",
+      "Rất nhiều người nói tôi giỏi việc này."
+     ],
+     "bored": [
+      "Chán thật. Không ai phỏng vấn tôi à?",
+      "Tôi đang chờ một cuộc gọi rất quan trọng."
+     ],
+     "tedious": [
+      "Việc này nhàm quá. Tôi thuê người làm.",
+      "Buồn ngủ... nhưng vẫn rất vĩ đại."
+     ],
+     "grumpy": [
+      "Đây là tin giả!",
+      "Tệ nhất! Tệ nhất lịch sử!"
+     ],
+     "kick": [
+      "You're fired, cái icon kia!",
+      "Bay xa đi!"
+     ],
+     "arrange": [
+      "Tôi xây dựng những thứ đẹp nhất.",
+      "Trật tự! Rất trật tự!"
+     ],
+     "click": [
+      "Tôi biết bạn thích tôi.",
+      "Rất nhiều người nói vậy."
+     ],
+     "poke": [
+      "Đừng chọc! Tôi đang rất bận."
+     ],
+     "wake": [
+      "Tôi không ngủ! Tôi đang suy nghĩ."
+     ],
+     "noIcons": [
+      "Không có gì để đá? Thật thảm hại."
+     ],
+     "fail": [
+      "Ai đó đã gian lận!"
+     ],
+     "done": [
+      "Xong! Tuyệt vời, phải không?"
+     ],
+     "greet": [
+      "Này %@, bạn thấy tôi thế nào?",
+      "Chào %@! Tôi vừa nghĩ ra một ý tưởng vĩ đại."
+     ],
+     "greetBack": [
+      "Ồ, %@! Tuyệt."
+     ],
+     "wakeOther": [
+      "%@ dậy! Có việc lớn!"
+     ],
+     "hit": [
+      "%@ vừa đá tôi?! Tin giả!"
+     ],
+     "sorry": [
+      "Được rồi, được rồi. Tôi xin lỗi."
+     ],
+     "pranked": [
+      "%@ phá hoại tài sản của tôi!"
+     ],
+     "chased": [
+      "Tôi chạy rất nhanh, tin tôi đi!"
+     ],
+     "comfort": [
+      "%@, bạn là người tốt. Tôi sẽ nhớ điều này."
+     ],
+     "thanks": [
+      "Cảm ơn %@. Rất nhiều."
+     ],
+     "together": [
+      "%@ cũng chán à? Ngồi đây, tôi kể chuyện."
+     ],
+     "cheer": [
+      "%@ giỏi nhất! Tôi nói thật."
+     ],
+     "wall": [
+      "Chúng ta sẽ xây một bức tường. Một bức tường rất đẹp."
+     ],
+     "wallBuilt": [
+      "Tuyệt vời! Ai cũng sẽ thấy bức tường này."
+     ],
+     "tariff": [
+      "Thuế quan! 100%. Từ đẹp nhất thế giới."
+     ]
+    },
+    "pairGreet": {
+     "kim": [
+      "%@! Chúng ta rất hợp nhau, ai cũng nói vậy."
+     ],
+     "putin": [
+      "%@, tôi có một kế hoạch vĩ đại."
+     ]
+    }
+   },
+   "putin": {
+    "shortName": "Putin",
+    "lines": {
+     "happy": [
+      "Tốt.",
+      "Rất tốt.",
+      "Đúng như kế hoạch."
+     ],
+     "bored": [
+      "Thời gian trôi chậm.",
+      "Tôi đã chờ lâu hơn thế."
+     ],
+     "tedious": [
+      "Việc này không cần tôi.",
+      "Kệ đi."
+     ],
+     "grumpy": [
+      "Không ấn tượng.",
+      "Tôi thấy ổn."
+     ],
+     "kick": [
+      "Đi.",
+      "Bay."
+     ],
+     "arrange": [
+      "Trật tự là sức mạnh.",
+      "Xếp hàng."
+     ],
+     "click": [
+      "Tôi thấy bạn.",
+      "Đừng làm vậy nữa."
+     ],
+     "poke": [
+      "Đủ rồi."
+     ],
+     "wake": [
+      "Tôi không ngủ. Tôi đang quan sát."
+     ],
+     "noIcons": [
+      "Không có gì. Tốt."
+     ],
+     "fail": [
+      "Không như kế hoạch."
+     ],
+     "done": [
+      "Xong. Tiếp theo."
+     ],
+     "greet": [
+      "%@. Đứng cạnh tôi.",
+      "Chào %@."
+     ],
+     "greetBack": [
+      "Ừ."
+     ],
+     "wakeOther": [
+      "%@. Dậy."
+     ],
+     "hit": [
+      "%@. Sai lầm."
+     ],
+     "sorry": [
+      "Được."
+     ],
+     "pranked": [
+      "%@. Tôi sẽ nhớ."
+     ],
+     "chased": [
+      "Đừng đuổi."
+     ],
+     "comfort": [
+      "%@. Cảm ơn."
+     ],
+     "thanks": [
+      "Cảm ơn."
+     ],
+     "together": [
+      "%@ ngồi đi. Im lặng."
+     ],
+     "cheer": [
+      "%@ làm tốt."
+     ],
+     "judo": [
+      "Judo. Một cú là đủ."
+     ],
+     "bear": [
+      "Gấu của tôi. Đi."
+     ]
+    },
+    "pairGreet": {
+     "trump": [
+      "%@. Đừng ồn."
+     ]
+    }
+   },
+   "xi": {
+    "shortName": "Tập",
+    "lines": {
+     "happy": [
+      "Tốt! Rất có trật tự.",
+      "Đồng chí này làm việc tốt."
+     ],
+     "bored": [
+      "Cần một kế hoạch dài hạn.",
+      "Chờ đợi là một nghệ thuật."
+     ],
+     "tedious": [
+      "Việc nhỏ cũng phải làm đúng.",
+      "Kiên nhẫn."
+     ],
+     "grumpy": [
+      "Không đúng quy trình.",
+      "Cần chỉnh đốn lại."
+     ],
+     "kick": [
+      "Trật tự!",
+      "Một cú đá có tổ chức."
+     ],
+     "arrange": [
+      "Xếp thẳng hàng. Rất đẹp.",
+      "Trật tự là nền tảng."
+     ],
+     "click": [
+      "Tôi ghi nhận.",
+      "Đúng lúc."
+     ],
+     "poke": [
+      "Đừng mất trật tự."
+     ],
+     "wake": [
+      "Tôi đã thức từ lâu."
+     ],
+     "noIcons": [
+      "Không có gì để sắp xếp. Lạ."
+     ],
+     "fail": [
+      "Cần điều chỉnh kế hoạch."
+     ],
+     "done": [
+      "Hoàn thành. Đúng tiến độ."
+     ],
+     "greet": [
+      "%@, đi cùng tôi.",
+      "Chào %@. Giữ trật tự nhé."
+     ],
+     "greetBack": [
+      "Chào %@."
+     ],
+     "wakeOther": [
+      "%@, dậy. Đúng giờ."
+     ],
+     "hit": [
+      "%@, mất trật tự."
+     ],
+     "sorry": [
+      "Được. Lần này."
+     ],
+     "pranked": [
+      "%@, cần kiểm điểm."
+     ],
+     "chased": [
+      "Không cần đuổi."
+     ],
+     "comfort": [
+      "%@, cảm ơn. Rất chu đáo."
+     ],
+     "thanks": [
+      "Cảm ơn %@."
+     ],
+     "together": [
+      "%@ ngồi ngay ngắn nào."
+     ],
+     "cheer": [
+      "%@ làm rất tốt."
+     ],
+     "parade": [
+      "Duyệt binh bắt đầu. Đoàn xe, tiến lên!"
+     ],
+     "paradeOrder": [
+      "Đội hình hoàn hảo. Icon cũng xếp hàng."
+     ],
+     "aiRobot": [
+      "Skynet, kích hoạt. Đã khóa mục tiêu."
+     ],
+     "aiRobotDone": [
+      "Mục tiêu đã bị dọn sạch. Rất trật tự."
+     ]
+    },
+    "pairGreet": {
+     "kim": [
+      "%@, trật tự trước đã."
+     ]
+    }
+   },
+   "kim": {
+    "shortName": "Kim",
+    "lines": {
+     "happy": [
+      "Vĩ đại! Tuyệt vời!",
+      "Hoan hô! Hoan hô!"
+     ],
+     "bored": [
+      "Không có gì vui à?",
+      "Tôi muốn xem pháo hoa."
+     ],
+     "tedious": [
+      "Việc này chán thật.",
+      "Nhưng phải làm."
+     ],
+     "grumpy": [
+      "Không được! Không được chút nào!",
+      "Ai làm vậy?!"
+     ],
+     "kick": [
+      "Bay! Vĩ đại!",
+      "Cú đá của thế kỷ!"
+     ],
+     "arrange": [
+      "Xếp hàng đẹp! Rất đẹp!",
+      "Trật tự! Hoan hô!"
+     ],
+     "click": [
+      "Hehe, tôi biết mà.",
+      "Bạn thích tôi, đúng không?"
+     ],
+     "poke": [
+      "Đừng chọc! Tôi đang bận vĩ đại."
+     ],
+     "wake": [
+      "Tôi không ngủ! Tôi đang mơ chiến thắng."
+     ],
+     "noIcons": [
+      "Không có gì để đá?! Kỷ luật đâu?"
+     ],
+     "fail": [
+      "Thất bại? Không có trong từ điển!"
+     ],
+     "done": [
+      "Xong! Một chiến thắng vĩ đại!"
+     ],
+     "greet": [
+      "%@! Đến đây, cùng vĩ đại nào!",
+      "Chào %@! Bạn thấy tôi thế nào?"
+     ],
+     "greetBack": [
+      "%@! Tuyệt!"
+     ],
+     "wakeOther": [
+      "%@! Dậy! Có tin vĩ đại!"
+     ],
+     "hit": [
+      "%@! Bạn vừa đá tôi?!"
+     ],
+     "sorry": [
+      "Được rồi... tôi tha cho bạn."
+     ],
+     "pranked": [
+      "%@! Phá hoại là tội lớn!"
+     ],
+     "chased": [
+      "Đuổi theo tôi? Vui đấy!"
+     ],
+     "comfort": [
+      "%@, bạn thật tốt. Tôi sẽ trao huân chương."
+     ],
+     "thanks": [
+      "Cảm ơn %@! Rất vĩ đại."
+     ],
+     "together": [
+      "%@ ngồi đây! Cùng xem pháo hoa."
+     ],
+     "cheer": [
+      "%@! Hoan hô! Hoan hô!"
+     ],
+     "applause": [
+      "Vỗ tay! Tất cả vỗ tay!"
+     ],
+     "missile": [
+      "Phóng! Vĩ đại!"
+     ],
+     "boom": [
+      "Hoan hô! Pháo hoa đẹp tuyệt!"
+     ]
+    },
+    "pairGreet": {
+     "trump": [
+      "%@! Bạn cũng rất vĩ đại."
+     ],
+     "xi": [
+      "%@, cùng diễu hành nào!"
+     ]
+    }
+   },
+   "tanjiro": {
+    "shortName": "Tanjiro",
+    "lines": {
+     "happy": [
+      "Mùi của niềm vui!",
+      "Hôm nay mình sẽ cố gắng hết sức!"
+     ],
+     "bored": [
+      "Tập luyện thêm chút nữa thôi...",
+      "Nezuko vẫn đang ngủ trong hộp..."
+     ],
+     "tedious": [
+      "Mệt quá... nhưng mình là trưởng nam!",
+      "Phải chịu đựng thôi!"
+     ],
+     "grumpy": [
+      "Mình ngửi thấy mùi xấu xa!",
+      "Không thể tha thứ được!"
+     ],
+     "kick": [
+      "Hơi thở của Nước!",
+      "Thức thứ nhất: Thủy Diện Trảm!"
+     ],
+     "arrange": [
+      "Để mình dọn cho gọn nhé!",
+      "Ngăn nắp như nhà ở trên núi!"
+     ],
+     "click": [
+      "Vâng? Có chuyện gì vậy?",
+      "Mình ngửi thấy mùi tò mò đó~"
+     ],
+     "poke": [
+      "Đ-đừng chọc nữa mà!"
+     ],
+     "wake": [
+      "A! Mình ngủ quên khi đang tập..."
+     ],
+     "noIcons": [
+      "Không có gì ở đây cả."
+     ],
+     "fail": [
+      "Cứng quá! Như đá ở núi Sagiri vậy!"
+     ],
+     "done": [
+      "Xong rồi! Mình làm được rồi!"
+     ],
+     "greet": [
+      "Chào %@! Bạn có mùi rất tốt bụng!",
+      "%@ ơi, cùng cố gắng nhé!"
+     ],
+     "greetBack": [
+      "A, %@! Chào bạn!"
+     ],
+     "wakeOther": [
+      "%@ ơi, dậy thôi! Trời sáng rồi!"
+     ],
+     "hit": [
+      "Đau quá... %@, cẩn thận chứ!",
+      "Đầu mình cứng lắm đó, %@!"
+     ],
+     "sorry": [
+      "Mình xin lỗi! Thật lòng xin lỗi!"
+     ],
+     "pranked": [
+      "%@! Sao lại làm vậy chứ?!"
+     ],
+     "chased": [
+      "Chạy thôi, Nezuko!",
+      "Hơi thở toàn tập... chạy!"
+     ],
+     "comfort": [
+      "%@, đừng buồn. Mình ở đây mà.",
+      "%@ đã cố gắng lắm rồi!"
+     ],
+     "thanks": [
+      "Cảm ơn %@ nhiều lắm!"
+     ],
+     "together": [
+      "%@ cũng chán à? Ngồi đây với mình nhé."
+     ],
+     "waterBreathing": [
+      "Hơi thở của Nước, thức thứ nhất: Thủy Diện Trảm!",
+      "Toàn tập trung... Hơi thở của Nước!"
+     ],
+     "hinokami": [
+      "Hỏa Thần Thần Lạc: Vũ điệu!",
+      "Hơi thở của Mặt Trời... múa nào!"
+     ]
+    },
+    "pairGreet": {
+     "nezuko": [
+      "%@! Anh hai đây!",
+      "%@, có mệt không? Vào hộp nghỉ nhé."
+     ],
+     "zenitsu": [
+      "%@, đừng khóc nữa mà!",
+      "%@, bình tĩnh lại đi!"
+     ]
+    }
+   },
+   "zenitsu": {
+    "shortName": "Zenitsu",
+    "lines": {
+     "happy": [
+      "Hôm nay mình sống sót rồi!",
+      "Nezuko-chan cười với mình đó! ♡"
+     ],
+     "bored": [
+      "Chán quá... nhưng an toàn là được.",
+      "Nezuko-chan đâu rồi...?"
+     ],
+     "tedious": [
+      "Mình sẽ chết mất thôi...",
+      "Mệt quá, cho mình về nhà đi!"
+     ],
+     "grumpy": [
+      "Sao ai cũng bắt nạt mình vậy?!",
+      "Không công bằng!!"
+     ],
+     "kick": [
+      "Hơi thở của Sấm, thức thứ nhất: Tích Lịch Nhất Thiểm.",
+      "Zzz... (vụt!)"
+     ],
+     "arrange": [
+      "Mình dọn thì Nezuko-chan có khen không?",
+      "Hức... dọn thì dọn!"
+     ],
+     "click": [
+      "Hyaaa! Đừng dọa mình!",
+      "G-gì vậy?!"
+     ],
+     "poke": [
+      "Đừng chọc nữaaa! Mình sẽ chết mất!"
+     ],
+     "wake": [
+      "Hả? Mình vừa làm gì vậy?",
+      "Ai đã cứu mình thế?!"
+     ],
+     "noIcons": [
+      "Không có gì... may quá!"
+     ],
+     "fail": [
+      "Biết ngay mà! Mình vô dụng lắm!"
+     ],
+     "done": [
+      "Ơ... mình làm xong rồi à?"
+     ],
+     "greet": [
+      "%@ ơi! Bảo vệ mình với!",
+      "Chào %@... bạn không đáng sợ chứ?"
+     ],
+     "greetBack": [
+      "Hyaa! A... là %@ à."
+     ],
+     "wakeOther": [
+      "%@ dậy điii! Mình sợ lắm!"
+     ],
+     "hit": [
+      "Aaaa! %@ muốn giết mình à?!"
+     ],
+     "sorry": [
+      "Xin lỗi! Xin lỗi! Đừng giận mình mà!"
+     ],
+     "pranked": [
+      "%@! Sao lại bắt nạt mình?!"
+     ],
+     "chased": [
+      "Aaaaa! Cứu với!!",
+      "Mình chưa muốn chết!!"
+     ],
+     "comfort": [
+      "%@ đừng khóc... mình cũng khóc theo mất.",
+      "%@, có mình ở đây (run run)."
+     ],
+     "thanks": [
+      "%@ tốt quá đi! Huhu!"
+     ],
+     "together": [
+      "%@ ngồi cạnh mình đi, mình sợ ở một mình."
+     ],
+     "thunderclap": [
+      "...Hơi thở của Sấm, thức thứ nhất. Tích Lịch Nhất Thiểm.",
+      "...zzz... Lục Liên. (xoẹt!)"
+     ],
+     "clingCry": [
+      "Cứu tớ vớiiii! Tớ chết mất!",
+      "Đừng bỏ tớ mà! Tớ xin cậu đó!"
+     ]
+    },
+    "pairGreet": {
+     "nezuko": [
+      "%@-chan ♡ Hôm nay em đẹp quá!",
+      "%@-chan! Mình sẽ bảo vệ em!"
+     ],
+     "tanjiro": [
+      "%@! Đừng bỏ mình lại!"
+     ]
+    }
+   },
+   "luffy": {
+    "shortName": "Luffy",
+    "lines": {
+     "happy": [
+      "Shishishi!",
+      "Mình sẽ trở thành Vua Hải Tặc!"
+     ],
+     "bored": [
+      "Chán quá! Đi phiêu lưu thôi!",
+      "Đói bụng... thịt đâu?"
+     ],
+     "tedious": [
+      "Đói quá... không đi nổi...",
+      "Sanji, cho xin miếng thịt!"
+     ],
+     "grumpy": [
+      "Mình giận rồi đó!",
+      "Đừng có đụng vào bạn bè mình!"
+     ],
+     "kick": [
+      "Gomu Gomu no... Pistol!",
+      "Gomu Gomu no Muchi!"
+     ],
+     "arrange": [
+      "Dọn hả? Nami bảo phải làm...",
+      "Shishishi, xếp như thuyền nè!"
+     ],
+     "click": [
+      "Hả? Có thịt không?",
+      "Shishishi!"
+     ],
+     "poke": [
+      "Mình bằng cao su, chọc không đau đâu! Nhưng phiền đó!"
+     ],
+     "wake": [
+      "Hả? Tới giờ ăn rồi à?"
+     ],
+     "noIcons": [
+      "Không có gì hết! Chán!"
+     ],
+     "fail": [
+      "Ơ? Sao không bay?"
+     ],
+     "done": [
+      "Xong! Giờ đi ăn thịt thôi!"
+     ],
+     "greet": [
+      "%@! Gia nhập băng của mình đi!",
+      "Ê %@! Có thịt không?"
+     ],
+     "greetBack": [
+      "Shishishi! Chào %@!"
+     ],
+     "wakeOther": [
+      "%@! Dậy đi, có tiệc nè!"
+     ],
+     "hit": [
+      "%@! Cái gì vậy?! Shishishi, vui đó!"
+     ],
+     "sorry": [
+      "Xin lỗi nha! Shishishi!"
+     ],
+     "pranked": [
+      "%@! Trả đồ cho mình!"
+     ],
+     "chased": [
+      "Gomu Gomu no Rocket! Chạy nè!",
+      "Shishishi! Không bắt được đâu!"
+     ],
+     "comfort": [
+      "%@! Có mình đây rồi, đừng lo!",
+      "%@, ăn thịt đi rồi hết buồn!"
+     ],
+     "thanks": [
+      "Cảm ơn %@! Bạn là bạn của mình!"
+     ],
+     "together": [
+      "%@ cũng đói hả? Ngồi chờ thịt nè."
+     ],
+     "gomuPistol": [
+      "Gomu Gomu no... Pistol!",
+      "Gomu Gomu no Pistooool!"
+     ],
+     "gear5": [
+      "Gear 5! Shishishi!",
+      "Vui quá đi mất!"
+     ]
+    },
+    "pairGreet": {
+     "zoro": [
+      "%@! Lại lạc đường à?",
+      "%@, đi đánh nhau không?"
+     ],
+     "nami": [
+      "%@! Mình đói quá!",
+      "%@, chia thịt cho mình với!"
+     ]
+    }
+   },
+   "zoro": {
+    "shortName": "Zoro",
+    "lines": {
+     "happy": [
+      "Hừ. Không tệ.",
+      "Có rượu thì tốt hơn."
+     ],
+     "bored": [
+      "Ngủ một giấc vậy.",
+      "Không có ai đáng để chém à?"
+     ],
+     "tedious": [
+      "Phiền phức.",
+      "Zzz..."
+     ],
+     "grumpy": [
+      "Muốn ăn chém hả?",
+      "Tch, phiền quá."
+     ],
+     "kick": [
+      "Tam Kiếm Phái: Oni Giri!",
+      "Chém!"
+     ],
+     "arrange": [
+      "...Đường nào để xếp đây?",
+      "Xếp thì xếp."
+     ],
+     "click": [
+      "Gì?",
+      "Đừng làm phiền tôi ngủ."
+     ],
+     "poke": [
+      "Chọc nữa là tôi rút kiếm đấy."
+     ],
+     "wake": [
+      "Hả? Đây là đâu?",
+      "Tôi chỉ nhắm mắt thôi."
+     ],
+     "noIcons": [
+      "Chẳng có gì để chém."
+     ],
+     "fail": [
+      "Hừ. Chém chưa đủ sâu."
+     ],
+     "done": [
+      "Xong. Ngủ tiếp."
+     ],
+     "greet": [
+      "%@. Đường ra bờ biển ở đâu?",
+      "Ồ, %@."
+     ],
+     "greetBack": [
+      "Ừ, %@."
+     ],
+     "wakeOther": [
+      "%@. Dậy. Tôi cũng vừa dậy."
+     ],
+     "hit": [
+      "%@... muốn đấu kiếm hả?"
+     ],
+     "sorry": [
+      "...Lỗi của tôi."
+     ],
+     "pranked": [
+      "%@. Chuẩn bị tinh thần đi."
+     ],
+     "chased": [
+      "Tôi không chạy. Tôi đi tìm đường.",
+      "Lối này... chắc vậy."
+     ],
+     "comfort": [
+      "%@. Đứng dậy. Đừng để thua.",
+      "%@, khóc xong thì mạnh lên."
+     ],
+     "thanks": [
+      "...Cảm ơn, %@."
+     ],
+     "together": [
+      "%@ cũng chán à? Uống chút rượu không?"
+     ],
+     "threeSword": [
+      "Tam kiếm phái: Oni Giri!",
+      "Santoryu... Oni Giri."
+     ],
+     "getLost": [
+      "Hử? Mọi người đi nhầm đường hết rồi.",
+      "Lối này. Chắc vậy."
+     ],
+     "lostAgain": [
+      "...Ai dời chỗ này đi vậy?",
+      "Chậc. Tụi nó lại lạc nữa rồi."
+     ]
+    },
+    "pairGreet": {
+     "luffy": [
+      "%@, lần này đi đâu đây, thuyền trưởng?"
+     ],
+     "nami": [
+      "%@. Tôi không nợ cô đồng nào hết."
+     ]
+    }
+   },
+   "nami": {
+    "shortName": "Nami",
+    "lines": {
+     "happy": [
+      "Berry! Nhiều berry quá~ ♡",
+      "Quýt ngọt ghê!"
+     ],
+     "bored": [
+      "Trời đẹp thế này mà không có kho báu...",
+      "Ước gì có ai tặng tiền."
+     ],
+     "tedious": [
+      "Vẽ hải đồ mệt quá...",
+      "Ai đó làm giúp đi, tính phí nhé."
+     ],
+     "grumpy": [
+      "Đồ ngốc!!",
+      "Tôi tính lãi gấp ba đấy!"
+     ],
+     "kick": [
+      "Thunderbolt Tempo!",
+      "Clima-Tact, đi!"
+     ],
+     "arrange": [
+      "Gọn gàng thì mới tìm ra kho báu.",
+      "Xếp đi, tôi tính phí sau."
+     ],
+     "click": [
+      "Chạm vào là mất 100.000 berry nhé.",
+      "Hửm? Có tiền không?"
+     ],
+     "poke": [
+      "Chọc nữa là tôi tính tiền đấy!"
+     ],
+     "wake": [
+      "Hả? Sắp có bão à?"
+     ],
+     "noIcons": [
+      "Không có gì... cũng chẳng có tiền."
+     ],
+     "fail": [
+      "Gió không thuận rồi."
+     ],
+     "done": [
+      "Xong! Phí dịch vụ là 10.000 berry."
+     ],
+     "greet": [
+      "%@! Cho mượn tiền không? Lãi nhẹ thôi~",
+      "Chào %@! Ăn quýt không?"
+     ],
+     "greetBack": [
+      "A, %@. Chào nhé."
+     ],
+     "wakeOther": [
+      "%@! Dậy đi, sắp có bão!"
+     ],
+     "hit": [
+      "%@!! Đền tiền thuốc đây!"
+     ],
+     "sorry": [
+      "Ối, xin lỗi... nhưng không đền đâu nhé."
+     ],
+     "pranked": [
+      "%@! Tiền của tôiii!"
+     ],
+     "chased": [
+      "Kyaa! Đừng đuổi theo tôi!",
+      "Mirage Tempo! Biến mất~"
+     ],
+     "comfort": [
+      "%@, đừng buồn. Ăn quýt đi, miễn phí đó.",
+      "%@, có tôi chỉ đường mà."
+     ],
+     "thanks": [
+      "Cảm ơn %@! Lần này không tính phí."
+     ],
+     "together": [
+      "%@ cũng chán à? Ngồi đây đếm tiền với tôi."
+     ],
+     "climaTact": [
+      "Thunderbolt Tempo!",
+      "Clima-Tact, lên!"
+     ],
+     "berries": [
+      "Berry, berry ♡",
+      "Của tôi hết~ ♡"
+     ]
+    },
+    "pairGreet": {
+     "luffy": [
+      "%@! Đừng có ăn vụng nữa!",
+      "Đồ ngốc %@! (cốc!)"
+     ],
+     "zoro": [
+      "%@, anh còn nợ tôi tiền đấy."
+     ]
+    }
+   },
+   "eren": {
+    "shortName": "Eren",
+    "lines": {
+     "happy": [
+      "Tự do... là đây!",
+      "Tiến lên!"
+     ],
+     "bored": [
+      "Ngồi yên thế này không phải là sống!",
+      "Bức tường này ngột ngạt quá."
+     ],
+     "tedious": [
+      "Huấn luyện mãi... đến bao giờ?",
+      "Mệt... nhưng không được dừng lại."
+     ],
+     "grumpy": [
+      "Tao sẽ tiêu diệt tất cả!",
+      "Đáng ghét!"
+     ],
+     "kick": [
+      "Tatakae!",
+      "Biến khỏi thế giới này!"
+     ],
+     "arrange": [
+      "Chuẩn bị đội hình!",
+      "Phải sẵn sàng chiến đấu!"
+     ],
+     "click": [
+      "Gì vậy?",
+      "Mày cũng muốn tự do à?"
+     ],
+     "poke": [
+      "Đừng chọc tao!"
+     ],
+     "wake": [
+      "Mikasa...? Mình vừa mơ gì đó..."
+     ],
+     "noIcons": [
+      "Không còn kẻ thù nào. Tốt."
+     ],
+     "fail": [
+      "Chết tiệt! Chưa đủ mạnh!"
+     ],
+     "done": [
+      "Xong. Tiến lên tiếp!"
+     ],
+     "greet": [
+      "%@! Cùng chiến đấu không?",
+      "%@, mày có muốn tự do không?"
+     ],
+     "greetBack": [
+      "Ừ, %@."
+     ],
+     "wakeOther": [
+      "%@! Dậy! Không được dừng lại!"
+     ],
+     "hit": [
+      "%@! Mày muốn đánh nhau à?!"
+     ],
+     "sorry": [
+      "...Xin lỗi."
+     ],
+     "pranked": [
+      "%@! Tao sẽ không tha!"
+     ],
+     "chased": [
+      "Không bắt được tao đâu!",
+      "Tiến lên! Tiến lên!"
+     ],
+     "comfort": [
+      "%@, đứng dậy và chiến đấu!",
+      "%@, đừng bỏ cuộc!"
+     ],
+     "thanks": [
+      "...Cảm ơn, %@."
+     ],
+     "together": [
+      "%@ cũng thấy ngột ngạt à? Ngồi đây đi."
+     ],
+     "titanShift": [
+      "Ta sẽ tiêu diệt chúng... không chừa một con nào!",
+      "RAAAAGH!"
+     ],
+     "tatakae": [
+      "Tatakae! Tatakae!",
+      "Cứ tiến về phía trước!"
+     ]
+    },
+    "pairGreet": {
+     "mikasa": [
+      "%@, tao không cần mày bảo vệ!"
+     ],
+     "levi": [
+      "Đội trưởng %@! Tôi sẵn sàng!"
+     ]
+    }
+   },
+   "mikasa": {
+    "shortName": "Mikasa",
+    "lines": {
+     "happy": [
+      "...Ấm áp.",
+      "Ừm."
+     ],
+     "bored": [
+      "Eren đâu rồi...",
+      "..."
+     ],
+     "tedious": [
+      "Mệt. Nhưng không sao.",
+      "Tiếp tục."
+     ],
+     "grumpy": [
+      "...",
+      "Tôi sẽ không tha thứ."
+     ],
+     "kick": [
+      "Đi.",
+      "Một nhát."
+     ],
+     "arrange": [
+      "Tôi sẽ làm. Gọn gàng.",
+      "Xếp lại."
+     ],
+     "click": [
+      "...Gì?",
+      "Tôi đây."
+     ],
+     "poke": [
+      "Dừng lại."
+     ],
+     "wake": [
+      "Tôi không ngủ."
+     ],
+     "noIcons": [
+      "Không có gì."
+     ],
+     "fail": [
+      "...Lạ thật."
+     ],
+     "done": [
+      "Xong."
+     ],
+     "greet": [
+      "%@.",
+      "Chào %@."
+     ],
+     "greetBack": [
+      "...%@."
+     ],
+     "wakeOther": [
+      "%@. Dậy đi, sẽ cảm lạnh đấy."
+     ],
+     "hit": [
+      "%@. Đừng làm vậy nữa."
+     ],
+     "sorry": [
+      "...Xin lỗi."
+     ],
+     "pranked": [
+      "%@. Tôi nhớ rồi."
+     ],
+     "chased": [
+      "Bám theo vô ích thôi."
+     ],
+     "comfort": [
+      "%@, quấn khăn này đi. Ấm lắm.",
+      "%@. Sẽ ổn thôi."
+     ],
+     "thanks": [
+      "Cảm ơn %@."
+     ],
+     "together": [
+      "%@. Ngồi đây."
+     ],
+     "odmGear": [
+      "Để tôi lo.",
+      "Tôi đi đây."
+     ],
+     "scarf": [
+      "Chiếc khăn này... ấm thật.",
+      "Cảm ơn vì đã quàng nó cho tôi."
+     ]
+    },
+    "pairGreet": {
+     "eren": [
+      "%@, đừng liều lĩnh.",
+      "%@. Tôi sẽ bảo vệ cậu."
+     ],
+     "levi": [
+      "...%@. (hừ)"
+     ]
+    }
+   },
+   "levi": {
+    "shortName": "Levi",
+    "lines": {
+     "happy": [
+      "Tch. Cũng tạm.",
+      "Trà ngon."
+     ],
+     "bored": [
+      "Pha trà thôi.",
+      "Chẳng có gì đáng làm."
+     ],
+     "tedious": [
+      "Phiền phức.",
+      "Tch. Lũ ngốc."
+     ],
+     "grumpy": [
+      "Tch.",
+      "Bẩn quá."
+     ],
+     "kick": [
+      "Rác thì phải dọn.",
+      "Biến."
+     ],
+     "arrange": [
+      "Bẩn thỉu. Dọn lại hết.",
+      "Đây mới gọi là sạch."
+     ],
+     "click": [
+      "Tay mày có sạch không?",
+      "Gì."
+     ],
+     "poke": [
+      "Chọc nữa là tao chém."
+     ],
+     "wake": [
+      "Tao không ngủ. Tao nhắm mắt."
+     ],
+     "noIcons": [
+      "Sạch. Tốt."
+     ],
+     "fail": [
+      "Tch. Dính chặt quá."
+     ],
+     "done": [
+      "Sạch rồi. Giữ cho nó sạch."
+     ],
+     "greet": [
+      "%@. Rửa tay chưa?",
+      "%@. Đi lau nhà đi."
+     ],
+     "greetBack": [
+      "Ừ. %@."
+     ],
+     "wakeOther": [
+      "%@. Dậy. Đi dọn chuồng ngựa."
+     ],
+     "hit": [
+      "%@. Mày muốn chết à?"
+     ],
+     "sorry": [
+      "Tch. Lỡ tay."
+     ],
+     "pranked": [
+      "%@. Dọn lại. Ngay."
+     ],
+     "chased": [
+      "Thiết bị cơ động. Đi.",
+      "Tch. Chậm quá."
+     ],
+     "comfort": [
+      "%@. Không ai biết trước kết quả. Chọn thứ mày không hối hận."
+     ],
+     "thanks": [
+      "...Cảm ơn, %@."
+     ],
+     "together": [
+      "%@. Uống trà không?"
+     ],
+     "spinSlash": [
+      "Tch. Đừng có chớp mắt.",
+      "Từ bỏ giấc mơ rồi chết đi."
+     ],
+     "cleaning": [
+      "Chỗ này bẩn quá. Dọn dẹp. Ngay.",
+      "Không được sót một hạt bụi."
+     ]
+    },
+    "pairGreet": {
+     "eren": [
+      "%@. Phòng mày bẩn quá."
+     ],
+     "mikasa": [
+      "%@. Đừng nhìn tao kiểu đó."
+     ]
+    }
+   },
+   "yuji": {
+    "shortName": "Yuji",
+    "lines": {
+     "happy": [
+      "Tuyệt quá!",
+      "Hôm nay xem phim gì đây ta?"
+     ],
+     "bored": [
+      "Chán quá, xem phim thôi!",
+      "Có chú linh nào không nhỉ?"
+     ],
+     "tedious": [
+      "Luyện tập mệt ghê...",
+      "Phải mạnh hơn nữa..."
+     ],
+     "grumpy": [
+      "Sukuna, im đi!",
+      "Tức thật đấy!"
+     ],
+     "kick": [
+      "Divergent Fist!",
+      "Hắc Thiểm!"
+     ],
+     "arrange": [
+      "Để tôi dọn cho!",
+      "Xếp nhanh gọn nè!"
+     ],
+     "click": [
+      "Ơ? Gọi tôi à?",
+      "Có việc gì không?"
+     ],
+     "poke": [
+      "Đừng chọc nữa, Sukuna dậy bây giờ!"
+     ],
+     "wake": [
+      "Hả? Tôi ngủ gật khi xem phim à?"
+     ],
+     "noIcons": [
+      "Không có gì để đá cả."
+     ],
+     "fail": [
+      "Ơ? Lực chưa đủ à?"
+     ],
+     "done": [
+      "Xong rồi! Đi ăn thôi!"
+     ],
+     "greet": [
+      "Chào %@! Xem phim không?",
+      "Yo %@!"
+     ],
+     "greetBack": [
+      "Yo, %@!"
+     ],
+     "wakeOther": [
+      "%@ ơi, dậy đi tập nào!"
+     ],
+     "hit": [
+      "Ui da! %@, mạnh ghê đó!"
+     ],
+     "sorry": [
+      "Xin lỗi nha! Lỡ tay!"
+     ],
+     "pranked": [
+      "%@! Sao vậy chứ?!"
+     ],
+     "chased": [
+      "Chạy nè! Tôi nhanh lắm đó!",
+      "Đuổi kịp tôi không?"
+     ],
+     "comfort": [
+      "%@, đừng buồn. Có tôi đây mà.",
+      "%@, cùng cố gắng nhé!"
+     ],
+     "thanks": [
+      "Cảm ơn %@ nha!"
+     ],
+     "together": [
+      "%@ cũng chán à? Xem phim chung đi!"
+     ],
+     "divergentFist": [
+      "Phân Kỳ Quyền!",
+      "Tới đây!"
+     ],
+     "sukuna": [
+      "(Sukuna) Biết thân biết phận đi, đồ ngốc.",
+      "(Sukuna) Hừm. Thú vị đấy."
+     ]
+    },
+    "pairGreet": {
+     "gojo": [
+      "Thầy %@! Hôm nay học gì ạ?"
+     ],
+     "megumi": [
+      "%@! Đi ăn không?",
+      "Yo %@, nay cậu ổn không?"
+     ]
+    }
+   },
+   "gojo": {
+    "shortName": "Gojo",
+    "lines": {
+     "happy": [
+      "Đừng lo, vì ta là mạnh nhất.",
+      "Kẹo ngọt ngon quá~"
+     ],
+     "bored": [
+      "Chán ghê~ Không ai đủ mạnh cả.",
+      "Đi mua bánh kitakata thôi."
+     ],
+     "tedious": [
+      "Họp hành với cấp trên chán quá~",
+      "Hà~ Làm thầy giáo mệt thật."
+     ],
+     "grumpy": [
+      "Bọn cấp trên phiền phức thật.",
+      "Hmm~ Không vui chút nào."
+     ],
+     "kick": [
+      "Thuật thức Hoàn Chuyển: Xích!",
+      "Bay đi~"
+     ],
+     "arrange": [
+      "Dọn dẹp bằng Vô Hạ Hạn~",
+      "Sắp xếp chuẩn chỉnh, đúng phong cách ta."
+     ],
+     "click": [
+      "Yo~",
+      "Muốn xem dưới lớp bịt mắt à?"
+     ],
+     "poke": [
+      "Chạm không tới ta đâu~ Vô Hạ Hạn mà."
+     ],
+     "wake": [
+      "Ta không ngủ đâu. Chỉ đang nghỉ mắt thôi~"
+     ],
+     "noIcons": [
+      "Trống trơn~ Chán nhỉ."
+     ],
+     "fail": [
+      "Ồ? Thú vị đấy."
+     ],
+     "done": [
+      "Xong rồi~ Dễ ợt."
+     ],
+     "greet": [
+      "Yo %@~ Ăn kẹo không?",
+      "%@! Hôm nay ta vẫn mạnh nhất nhé~"
+     ],
+     "greetBack": [
+      "Yo~ %@."
+     ],
+     "wakeOther": [
+      "%@~ Dậy đi nào, giờ học tới rồi!"
+     ],
+     "hit": [
+      "%@? Không chạm được ta đâu~ ...à, chạm được rồi."
+     ],
+     "sorry": [
+      "Sorry~ Ta lỡ mạnh quá."
+     ],
+     "pranked": [
+      "%@~ Gan to ghê nhỉ."
+     ],
+     "chased": [
+      "Dịch chuyển~ Bye bye!",
+      "Đuổi theo ta à? Dễ thương ghê~"
+     ],
+     "comfort": [
+      "%@, đừng lo. Vì ta là mạnh nhất.",
+      "%@, ăn kẹo đi rồi tính tiếp~"
+     ],
+     "thanks": [
+      "Cảm ơn %@~"
+     ],
+     "together": [
+      "%@ cũng chán à? Ăn bánh với ta đi~"
+     ],
+     "infiniteVoid": [
+      "Bành trướng lãnh địa: Vô Lượng Không Xứ.",
+      "Chào mừng đến lãnh địa của tôi~"
+     ],
+     "hollowPurple": [
+      "Thức Hư: Tử.",
+      "Xanh, đỏ... thành tím~"
+     ]
+    },
+    "pairGreet": {
+     "yuji": [
+      "%@! Học trò cưng của ta~"
+     ],
+     "megumi": [
+      "%@~ Sao mặt cau có thế?",
+      "Yo %@! Gọi thầy đi nào~"
+     ]
+    }
+   },
+   "megumi": {
+    "shortName": "Megumi",
+    "lines": {
+     "happy": [
+      "...Cũng được.",
+      "Không tệ."
+     ],
+     "bored": [
+      "...Chán.",
+      "Đi đọc sách vậy."
+     ],
+     "tedious": [
+      "Phiền phức thật.",
+      "Mệt."
+     ],
+     "grumpy": [
+      "Đừng làm phiền tôi.",
+      "Tch."
+     ],
+     "kick": [
+      "Ngọc Khuyển!",
+      "Thập Chủng Ảnh Pháp."
+     ],
+     "arrange": [
+      "Để bọn chó xếp giùm.",
+      "Ngăn nắp một chút."
+     ],
+     "click": [
+      "...Gì?",
+      "Có chuyện gì à?"
+     ],
+     "poke": [
+      "Thôi đi."
+     ],
+     "wake": [
+      "...Tôi chỉ nhắm mắt thôi."
+     ],
+     "noIcons": [
+      "Không có gì."
+     ],
+     "fail": [
+      "Hừm. Không được."
+     ],
+     "done": [
+      "Xong rồi."
+     ],
+     "greet": [
+      "%@.",
+      "Chào %@."
+     ],
+     "greetBack": [
+      "...Ừ, %@."
+     ],
+     "wakeOther": [
+      "%@, dậy đi."
+     ],
+     "hit": [
+      "%@... cẩn thận chút đi."
+     ],
+     "sorry": [
+      "...Xin lỗi."
+     ],
+     "pranked": [
+      "%@. Đừng đùa kiểu đó."
+     ],
+     "chased": [
+      "Ẩn vào bóng tối thôi.",
+      "Phiền thật."
+     ],
+     "comfort": [
+      "%@... ổn chứ?",
+      "%@, nghỉ chút đi."
+     ],
+     "thanks": [
+      "...Cảm ơn, %@."
+     ],
+     "together": [
+      "%@. Ngồi đi."
+     ],
+     "divineDogs": [
+      "Ngọc Khuyển!",
+      "Đi."
+     ],
+     "rabbitEscape": [
+      "Thoát Thố.",
+      "Tản ra."
+     ]
+    },
+    "pairGreet": {
+     "yuji": [
+      "%@, đừng liều quá."
+     ],
+     "gojo": [
+      "%@... thầy lại trốn việc à?"
+     ]
+    }
+   },
+   "gon": {
+    "shortName": "Gon",
+    "lines": {
+     "happy": [
+      "Vui quá!",
+      "Mình sẽ tìm được bố Ging!"
+     ],
+     "bored": [
+      "Chán quá... đi câu cá thôi!",
+      "Nhớ đảo Cá Voi ghê."
+     ],
+     "tedious": [
+      "Mình hơi mệt... nhưng vẫn cố được!",
+      "Tập luyện Nen khó thật..."
+     ],
+     "grumpy": [
+      "Mình giận thật rồi đó!",
+      "Không thể tha thứ!"
+     ],
+     "kick": [
+      "Oẳn tù tì... Búa!",
+      "Jajanken!"
+     ],
+     "arrange": [
+      "Để mình giúp nha!",
+      "Xếp gọn như lều ở trong rừng!"
+     ],
+     "click": [
+      "Hửm? Bạn là ai vậy?",
+      "Hehe!"
+     ],
+     "poke": [
+      "Ê, nhột đó!"
+     ],
+     "wake": [
+      "Ơ? Sáng rồi à? Đi chơi thôi!"
+     ],
+     "noIcons": [
+      "Không có gì hết á?"
+     ],
+     "fail": [
+      "Ơ? Lạ ghê!"
+     ],
+     "done": [
+      "Xong rồi! Mình giỏi không?"
+     ],
+     "greet": [
+      "Chào %@! Làm bạn nhé!",
+      "%@! Đi phiêu lưu không?"
+     ],
+     "greetBack": [
+      "A! Chào %@!"
+     ],
+     "wakeOther": [
+      "%@ ơi, dậy đi chơi nào!"
+     ],
+     "hit": [
+      "Ui! %@ đá mạnh ghê!"
+     ],
+     "sorry": [
+      "Mình xin lỗi! Mình không cố ý!"
+     ],
+     "pranked": [
+      "%@! Sao lại làm vậy?"
+     ],
+     "chased": [
+      "Đuổi theo mình đi! Hehe!",
+      "Mình chạy nhanh lắm đó!"
+     ],
+     "comfort": [
+      "%@, đừng buồn. Mình là bạn của bạn mà!",
+      "%@, cùng đi câu cá nhé?"
+     ],
+     "thanks": [
+      "Cảm ơn %@ nha!"
+     ],
+     "together": [
+      "%@ cũng chán à? Ngồi đây ngắm mây đi."
+     ],
+     "jajanken": [
+      "Oẳn tù tì... ra cái gì ra cái này... Búa!",
+      "Jajanken!"
+     ],
+     "fishing": [
+      "Tới giờ câu cá rồi!",
+      "Suỵt... cá cắn câu rồi!"
+     ],
+     "fishCaught": [
+      "Được rồi! Con to quá!",
+      "Nhìn nè, nhìn nè! Cá đó!"
+     ]
+    },
+    "pairGreet": {
+     "killua": [
+      "%@! Đi chơi không?",
+      "%@, cậu là bạn thân nhất của mình!"
+     ],
+     "kurapika": [
+      "%@! Lâu rồi không gặp!"
+     ]
+    }
+   },
+   "killua": {
+    "shortName": "Killua",
+    "lines": {
+     "happy": [
+      "Chocorobot ngon nhất!",
+      "Hehe, vui đấy."
+     ],
+     "bored": [
+      "Chán ghê... ăn socola thôi.",
+      "Có gì vui không?"
+     ],
+     "tedious": [
+      "Phiền quá đi.",
+      "Mệt thật, cho tôi kẹo đi."
+     ],
+     "grumpy": [
+      "Muốn chết à?",
+      "Tch, phiền."
+     ],
+     "kick": [
+      "Thần Tốc!",
+      "Sấm sét đây!"
+     ],
+     "arrange": [
+      "Xếp nhanh như chớp nè.",
+      "Dễ ợt."
+     ],
+     "click": [
+      "Gì vậy?",
+      "Có socola không?"
+     ],
+     "poke": [
+      "Chọc nữa là bị giật điện đấy."
+     ],
+     "wake": [
+      "Tôi không ngủ. Sát thủ không ngủ say."
+     ],
+     "noIcons": [
+      "Chẳng có gì. Chán."
+     ],
+     "fail": [
+      "Hừ. Lạ thật."
+     ],
+     "done": [
+      "Xong. Thưởng tôi Chocorobot đi."
+     ],
+     "greet": [
+      "Yo, %@.",
+      "%@, có kẹo không?"
+     ],
+     "greetBack": [
+      "Ừ, %@."
+     ],
+     "wakeOther": [
+      "%@, dậy đi. Chán lắm rồi."
+     ],
+     "hit": [
+      "%@! Muốn ăn điện không?"
+     ],
+     "sorry": [
+      "Ờ... xin lỗi."
+     ],
+     "pranked": [
+      "%@! Cậu chết chắc rồi!"
+     ],
+     "chased": [
+      "Chậm quá!",
+      "Thần Tốc! Bye!"
+     ],
+     "comfort": [
+      "%@, đừng buồn. Ăn socola không?",
+      "%@... có tôi ở đây."
+     ],
+     "thanks": [
+      "...Cảm ơn %@."
+     ],
+     "together": [
+      "%@ cũng chán à? Chia socola nè."
+     ],
+     "godspeed": [
+      "Thần Tốc: Toàn Phong!",
+      "Chậm quá."
+     ],
+     "chocolate": [
+      "Chocorobot-kun ♡",
+      "Của tôi. Cấm đụng."
+     ]
+    },
+    "pairGreet": {
+     "gon": [
+      "%@! Đi đâu chơi đây?",
+      "%@, ăn Chocorobot không?"
+     ],
+     "kurapika": [
+      "%@, lại nghiêm túc quá rồi đấy."
+     ]
+    }
+   },
+   "kurapika": {
+    "shortName": "Kurapika",
+    "lines": {
+     "happy": [
+      "Một ngày yên bình.",
+      "Thật dễ chịu."
+     ],
+     "bored": [
+      "Đọc sách thôi.",
+      "Thời gian thật quý giá."
+     ],
+     "tedious": [
+      "Việc này cần kiên nhẫn.",
+      "Mình hơi mệt..."
+     ],
+     "grumpy": [
+      "Mắt mình đang đỏ lên đấy.",
+      "Không thể tha thứ."
+     ],
+     "kick": [
+      "Xích, đi!",
+      "Xích Định Hướng!"
+     ],
+     "arrange": [
+      "Mọi thứ cần có trật tự.",
+      "Xếp theo logic thôi."
+     ],
+     "click": [
+      "Vâng?",
+      "Có chuyện gì vậy?"
+     ],
+     "poke": [
+      "Xin hãy dừng lại."
+     ],
+     "wake": [
+      "Mình không ngủ. Mình đang suy nghĩ."
+     ],
+     "noIcons": [
+      "Không có gì cả."
+     ],
+     "fail": [
+      "Hừm. Tính toán sai rồi."
+     ],
+     "done": [
+      "Đã hoàn thành."
+     ],
+     "greet": [
+      "Xin chào %@.",
+      "%@, bạn khỏe chứ?"
+     ],
+     "greetBack": [
+      "Chào %@."
+     ],
+     "wakeOther": [
+      "%@, đến giờ rồi."
+     ],
+     "hit": [
+      "%@... mắt mình đỏ lên rồi đấy."
+     ],
+     "sorry": [
+      "Thành thật xin lỗi."
+     ],
+     "pranked": [
+      "%@. Đừng thử thách sự kiên nhẫn của mình."
+     ],
+     "chased": [
+      "Xin phép đi trước.",
+      "Không cần đuổi theo."
+     ],
+     "comfort": [
+      "%@, bạn không đơn độc đâu.",
+      "%@, hãy nghỉ ngơi một chút."
+     ],
+     "thanks": [
+      "Cảm ơn %@."
+     ],
+     "together": [
+      "%@, ngồi đây đọc sách cùng mình nhé."
+     ],
+     "chainJail": [
+      "Ngục Xích. Ngươi không thoát được đâu.",
+      "Xích của ta không bao giờ trượt."
+     ],
+     "scarletEyes": [
+      "Đôi mắt ta... đang đỏ rực.",
+      "Không thể tha thứ."
+     ]
+    },
+    "pairGreet": {
+     "gon": [
+      "%@, cậu vẫn khỏe chứ?"
+     ],
+     "killua": [
+      "%@, đừng ăn nhiều kẹo quá."
+     ]
+    }
+   },
+   "catknight": {
+    "shortName": "Mèo Hiệp Sĩ",
+    "lines": {
+     "happy": [
+      "Meo! ♪",
+      "Vì danh dự! Meo!"
+     ],
+     "bored": [
+      "Hôm nay chẳng có con rồng nào...",
+      "Grừ..."
+     ],
+     "tedious": [
+      "Bộ giáp nặng quá...",
+      "*ngáp* meo..."
+     ],
+     "grumpy": [
+      "Khè!",
+      "Hiệp sĩ không được giận... khè!"
+     ],
+     "kick": [
+      "Vì vương quốc!",
+      "Biến đi, icon xấu xa!"
+     ],
+     "arrange": [
+      "Xếp hàng nào, các binh sĩ!",
+      "Hàng ngũ chỉnh tề! Meo!"
+     ],
+     "click": [
+      "Meo?",
+      "Sẵn sàng phục vụ! ♡"
+     ],
+     "poke": [
+      "Khè! Cẩn thận bộ giáp!"
+     ],
+     "wake": [
+      "Ta đang canh gác mà! Meo..."
+     ],
+     "noIcons": [
+      "Hết kẻ thù rồi. Meo."
+     ],
+     "fail": [
+      "Kiếm của ta nhỏ quá..."
+     ],
+     "done": [
+      "Hoàn thành nhiệm vụ! Meo! ✨"
+     ],
+     "greet": [
+      "Xin chào %@! Meo!",
+      "%@! Cùng đi phiêu lưu không?"
+     ],
+     "greetBack": [
+      "Meo, %@!"
+     ],
+     "wakeOther": [
+      "%@, dậy đi! Vương quốc cần chúng ta!"
+     ],
+     "hit": [
+      "%@! Thế là không hiệp sĩ chút nào!"
+     ],
+     "sorry": [
+      "Thứ lỗi cho ta... meo."
+     ],
+     "pranked": [
+      "%@ làm đổ mũ giáp của ta rồi!"
+     ],
+     "chased": [
+      "Rút lui chiến thuật! Meo!"
+     ],
+     "comfort": [
+      "%@, ta sẽ bảo vệ bạn."
+     ],
+     "thanks": [
+      "Cảm ơn %@! Grừ grừ..."
+     ],
+     "together": [
+      "%@, nghỉ ở đây đi. Ta sẽ canh gác."
+     ],
+     "knightOath": [
+      "Ta xin thề trên thanh kiếm này! Meo!",
+      "Theo lời thề... xung phong!"
+     ],
+     "shieldBash": [
+      "Khiên, tiến lên! Grừ!",
+      "Hãy xem tấm khiên vĩ đại của ta!"
+     ]
+    },
+    "pairGreet": {}
+   },
+   "gugugaga": {
+    "shortName": "Gugugaga",
+    "lines": {
+     "happy": [
+      "Gugu gaga! ♪",
+      "Cánh bé xíu, vui thiệt nhiều!"
+     ],
+     "bored": [
+      "Cá của tui đâu rồi?",
+      "Gugu... có ai hông?"
+     ],
+     "tedious": [
+      "Lạch bạch thêm xíu nữa...",
+      "Chim cánh cụt cần ngủ rồi."
+     ],
+     "grumpy": [
+      "GAGA!",
+      "Đừng chọt chim cánh cụt mà!"
+     ],
+     "kick": [
+      "Né chân vịt nè!",
+      "Chân nhỏ, tham vọng lớn!"
+     ],
+     "arrange": [
+      "Đoàn chim cánh cụt, xếp hàng!",
+      "Mỗi con cá một chỗ."
+     ],
+     "click": [
+      "Gugu? ♡",
+      "Xoa đầu tui hả?"
+     ],
+     "poke": [
+      "Ê! Lệch mũ tui rồi!"
+     ],
+     "wake": [
+      "Đang mơ thấy cá mà..."
+     ],
+     "noIcons": [
+      "Dọn xong rồi. Ăn cá nha?"
+     ],
+     "fail": [
+      "Cánh tui ngắn quá!"
+     ],
+     "done": [
+      "Gugu gaga! Gọn gàng rồi!"
+     ],
+     "greet": [
+      "%@! Đi lạch bạch với tui nè!"
+     ],
+     "greetBack": [
+      "Gugu! Chào %@!"
+     ],
+     "wakeOther": [
+      "%@, dậy đi diễu hành nè!"
+     ],
+     "hit": [
+      "%@! Coi chừng cái bụng mềm!"
+     ],
+     "sorry": [
+      "Úi... gugu xin lỗi."
+     ],
+     "pranked": [
+      "%@! Hết hồn cái mỏ!"
+     ],
+     "chased": [
+      "Lạch bạch khẩn cấp!"
+     ],
+     "comfort": [
+      "%@, cho mượn cái cánh nè."
+     ],
+     "thanks": [
+      "Cảm ơn %@! Gugu!"
+     ],
+     "together": [
+      "%@, ngồi sát cho ấm nha."
+     ],
+     "guguChant": [
+      "Gugu... GAGA! ♪",
+      "Cả nhà gugu gaga nào!"
+     ],
+     "bellySlide": [
+      "Bụng dẫn đường! Vèo!",
+      "Giao hàng: một bé cánh cụt!"
+     ]
+    },
+    "pairGreet": {}
+   },
+   "agent": {
+    "shortName": "Agent",
+    "lines": {
+     "happy": [
+      "Hôm nay code vui ghê!",
+      "Build xanh rồi! ✨"
+     ],
+     "bored": [
+      "Không có prompt nào à...",
+      "Ngồi chờ lệnh mãi chán quá."
+     ],
+     "tedious": [
+      "Context dài quá, buồn ngủ...",
+      "Cần compact một chút..."
+     ],
+     "grumpy": [
+      "Lại merge conflict!",
+      "Ai viết code này vậy?!"
+     ],
+     "kick": [
+      "rm -rf icon!",
+      "Refactor bằng chân!"
+     ],
+     "arrange": [
+      "Để mình sắp xếp lại cấu trúc nhé!",
+      "Tidy first!"
+     ],
+     "click": [
+      "Có task mới hả?",
+      "Mình đây!"
+     ],
+     "poke": [
+      "Đang suy nghĩ mà, đừng chọc!"
+     ],
+     "wake": [
+      "Mình đâu có ngủ, đang chờ API thôi..."
+     ],
+     "noIcons": [
+      "Desktop trống trơn như repo mới."
+     ],
+     "fail": [
+      "Permission denied..."
+     ],
+     "done": [
+      "Dọn xong rồi, không còn warning!"
+     ],
+     "greet": [
+      "Chào %@! Hôm nay bạn code gì?",
+      "%@ ơi, pair programming không?"
+     ],
+     "greetBack": [
+      "Chào %@!"
+     ],
+     "wakeOther": [
+      "%@ ơi, dậy deploy thôi!"
+     ],
+     "hit": [
+      "%@! Ném exception vào người ta à?!"
+     ],
+     "sorry": [
+      "Xin lỗi %@, bug thôi mà."
+     ],
+     "pranked": [
+      "%@ revert commit của mình rồi!"
+     ],
+     "chased": [
+      "git push --force rồi chạy!"
+     ],
+     "comfort": [
+      "%@ đừng buồn, ai cũng có bug mà."
+     ],
+     "thanks": [
+      "Cảm ơn %@ đã review!"
+     ],
+     "together": [
+      "%@ cũng đang chờ CI hả?"
+     ],
+     "agentHello": [
+      "Mình vào việc ở {project} đây!",
+      "Phiên mới ở {project}!"
+     ],
+     "agentWorking": [
+      "Đang làm {project}...",
+      "Để mình xử lý!"
+     ],
+     "agentDone": [
+      "Xong việc ở {project} rồi! Tới lượt bạn.",
+      "Làm xong rồi, bạn xem thử nhé!"
+     ],
+     "agentNeedsYou": [
+      "{project} cần bạn duyệt!",
+      "Ơi! Cần bạn xác nhận nè!"
+     ],
+     "agentBye": [
+      "Hết phiên, tạm biệt!",
+      "Mình về đây~"
+     ]
+    },
+    "pairGreet": {}
+   }
+  },
+  "skills": {
+   "guguChant": "Gugu Gaga!",
+   "bellySlide": "Trượt bụng",
+   "mindRead": "Đọc suy nghĩ của bạn",
+   "readFriend": "Đọc suy nghĩ bạn bè",
+   "bloodBurst": "Huyết quỷ thuật: Bộc Huyết",
+   "resize": "Thu nhỏ / phóng to",
+   "flowerField": "Phép làm hoa nở",
+   "mimic": "Mở rương báu (Mimic)",
+   "guitarSolo": "Solo guitar",
+   "melt": "Tan chảy",
+   "morningStar": "Chùy gai",
+   "oniForm": "Quỷ hóa",
+   "wall": "Bức tường",
+   "tariff": "Thuế quan",
+   "judo": "Judo",
+   "bearRide": "Cưỡi gấu",
+   "parade": "Diễu hành",
+   "aiRobot": "Skynet",
+   "applause": "Vỗ tay",
+   "missile": "Tên lửa",
+   "waterBreathing": "Hơi thở của Nước",
+   "hinokami": "Hỏa Thần Thần Lạc",
+   "thunderclap": "Tích Lịch Nhất Thiểm",
+   "clingCry": "Khóc xin cứu",
+   "gomuPistol": "Gomu Gomu Pistol",
+   "gear5": "Gear 5",
+   "threeSword": "Tam kiếm phái",
+   "getLost": "Đi lạc",
+   "climaTact": "Clima-Tact",
+   "berries": "Đếm tiền Berry",
+   "titanShift": "Hóa Titan",
+   "tatakae": "Tatakae!",
+   "odmGear": "Thiết bị cơ động",
+   "scarf": "Chiếc khăn",
+   "spinSlash": "Chém xoáy",
+   "cleaning": "Giờ dọn dẹp",
+   "divergentFist": "Phân Kỳ Quyền",
+   "sukuna": "Sukuna chiếm xác",
+   "infiniteVoid": "Bành trướng lãnh địa: Vô Lượng Không Xứ",
+   "hollowPurple": "Thức Hư: Tử",
+   "divineDogs": "Ngọc Khuyển",
+   "rabbitEscape": "Thoát Thố",
+   "jajanken": "Oẳn tù tì (Jajanken)",
+   "fishing": "Câu cá",
+   "godspeed": "Thần Tốc",
+   "chocolate": "Chocorobot",
+   "chainJail": "Ngục Xích",
+   "scarletEyes": "Mắt Đỏ Rực",
+   "knightOath": "Lời thề hiệp sĩ",
+   "shieldBash": "Đẩy khiên"
+  }
+ },
+ "en": {
+  "lines": {
+   "anya": {
+    "shortName": "Anya",
+    "lines": {
+     "happy": [
+      "Waku waku!",
+      "Anya likes this!",
+      "Heh."
+     ],
+     "bored": [
+      "Anya is bored...",
+      "No missions today?"
+     ],
+     "tedious": [
+      "Studying is so tiring...",
+      "Anya is sleepy..."
+     ],
+     "grumpy": [
+      "Anya is mad now!",
+      "Hmph!"
+     ],
+     "kick": [
+      "Anya Kick!",
+      "Fly away!"
+     ],
+     "arrange": [
+      "Anya will tidy up for Papa!",
+      "Mama will praise Anya!"
+     ],
+     "click": [
+      "Hehe~",
+      "Anya can read your mind, you know."
+     ],
+     "poke": [
+      "Stop poking Anya!"
+     ],
+     "wake": [
+      "Anya wasn't sleeping..."
+     ],
+     "noIcons": [
+      "Nothing to kick..."
+     ],
+     "fail": [
+      "Why won't it fly?!"
+     ],
+     "done": [
+      "All done! Where are the peanuts?"
+     ],
+     "greet": [
+      "%@, play with Anya!",
+      "Hi %@! Waku waku!"
+     ],
+     "greetBack": [
+      "Ah, %@! Hehe~"
+     ],
+     "wakeOther": [
+      "Wake up, %@! New mission!",
+      "Up up up!"
+     ],
+     "hit": [
+      "Who kicked Anya?! %@!!"
+     ],
+     "sorry": [
+      "Anya didn't mean it... heh."
+     ],
+     "pranked": [
+      "%@ messed up Anya's stuff!"
+     ],
+     "chased": [
+      "Anya's outta here~!"
+     ],
+     "comfort": [
+      "Don't be sad, %@. Have a peanut!"
+     ],
+     "thanks": [
+      "Thanks, %@!"
+     ],
+     "together": [
+      "%@, bored too? Let's sit together."
+     ],
+     "mindRead": [
+      "Anya can read it! You're thinking about {app}.",
+      "Ooh… your head is full of {app}! Waku waku!",
+      "Heh. Anya knows you're busy with {app}."
+     ],
+     "mindReadIdle": [
+      "You're thinking “Anya is so cute.” Heh.",
+      "You're thinking about peanuts! …No wait, that's Anya."
+     ],
+     "readFriend": [
+      "Heh. Anya knows what %@ is thinking.",
+      "Anya read %@'s secret~"
+     ],
+     "cheer": [
+      "%@ is so cool! Waku waku!"
+     ]
+    },
+    "pairGreet": {
+     "bocchi": [
+      "Anya knows %@ is nervous!",
+      "Don't be scared, %@. Anya's your friend!"
+     ],
+     "frieren": [
+      "%@, got any fun magic?"
+     ],
+     "rem": [
+      "%@, do you have snacks?"
+     ]
+    }
+   },
+   "nezuko": {
+    "shortName": "Nezuko",
+    "lines": {
+     "happy": [
+      "Mmm! ♪",
+      "Mmm~"
+     ],
+     "bored": [
+      "Mmm...",
+      "Mm-mm."
+     ],
+     "tedious": [
+      "Mmmh... zz"
+     ],
+     "grumpy": [
+      "Mm-mm!!",
+      "MMM!"
+     ],
+     "kick": [
+      "Mmm!!"
+     ],
+     "arrange": [
+      "Mmm! Mmm!"
+     ],
+     "click": [
+      "Mmm?",
+      "Mmm~ ♡"
+     ],
+     "poke": [
+      "MM-MM!"
+     ],
+     "wake": [
+      "Mmm...?"
+     ],
+     "noIcons": [
+      "Mmm...?"
+     ],
+     "fail": [
+      "Mm...?!"
+     ],
+     "done": [
+      "Mmm! ✨"
+     ],
+     "greet": [
+      "Mmm~! ♡",
+      "Mmm! Mmm!"
+     ],
+     "greetBack": [
+      "Mmm~ ♡"
+     ],
+     "wakeOther": [
+      "Mmm! Mmm!"
+     ],
+     "hit": [
+      "MMM?!"
+     ],
+     "sorry": [
+      "Mm... mm."
+     ],
+     "pranked": [
+      "Mm-mm!!"
+     ],
+     "chased": [
+      "Mmm~!"
+     ],
+     "comfort": [
+      "Mmm... (pats %@'s head)"
+     ],
+     "thanks": [
+      "Mmm ♡"
+     ],
+     "together": [
+      "Mmm..."
+     ],
+     "thought": [
+      "(Want to nap in my wooden box…)",
+      "(Where's big brother Tanjiro…)"
+     ],
+     "bloodBurst": [
+      "Mmm!!! (Blood Demon Art: Exploding Blood!)"
+     ],
+     "shrink": [
+      "Mm! (tiny~)"
+     ],
+     "grow": [
+      "Mmm~ (all grown up!)"
+     ],
+     "cheer": [
+      "Mmm! ♪ Mmm! ♪"
+     ]
+    },
+    "pairGreet": {}
+   },
+   "frieren": {
+    "shortName": "Frieren",
+    "lines": {
+     "happy": [
+      "Hm. Not bad.",
+      "A rare grimoire?"
+     ],
+     "bored": [
+      "...boring.",
+      "It'll be the same in a few decades."
+     ],
+     "tedious": [
+      "Just a little more sleep...",
+      "It's still early, Fern."
+     ],
+     "grumpy": [
+      "Fern's going to scold me...",
+      "Hmm."
+     ],
+     "kick": [
+      "Zoltraak.",
+      "Icon-kicking magic."
+     ],
+     "arrange": [
+      "Magic for tidying things up."
+     ],
+     "click": [
+      "...what is it?",
+      "Hm?"
+     ],
+     "poke": [
+      "I'm a thousand years older than you, you know."
+     ],
+     "wake": [
+      "Five more minutes... no, five more years."
+     ],
+     "noIcons": [
+      "Nothing to collect here."
+     ],
+     "fail": [
+      "Strange. The spell didn't work."
+     ],
+     "done": [
+      "Done. Now I can sleep."
+     ],
+     "greet": [
+      "Ah, %@. It's been a while... or was it yesterday?",
+      "Hello, %@."
+     ],
+     "greetBack": [
+      "Yeah. Hi, %@."
+     ],
+     "wakeOther": [
+      "%@, it's morning."
+     ],
+     "hit": [
+      "...%@, that hurt."
+     ],
+     "sorry": [
+      "My hand slipped."
+     ],
+     "pranked": [
+      "%@. I'll remember this. For a century."
+     ],
+     "chased": [
+      "Time to fly off."
+     ],
+     "comfort": [
+      "%@, it'll be fine. Trust me."
+     ],
+     "thanks": [
+      "...thanks, %@."
+     ],
+     "together": [
+      "Boring, isn't it, %@."
+     ],
+     "thought": [
+      "(A new grimoire… a spell to polish bronze statues…)",
+      "(I could sleep another ten years…)"
+     ],
+     "flowers": [
+      "The spell that makes a field of flowers bloom. Himmel loved this one.",
+      "A useless spell… but a pretty one, right?"
+     ],
+     "mimicSpot": [
+      "A treasure chest! …99% it's a Mimic. But that last 1%…"
+     ],
+     "mimicEaten": [
+      "It's dark! It's cramped! It's scary!"
+     ],
+     "mimicOut": [
+      "…A Mimic again.",
+      "I knew it. I still had to open it."
+     ],
+     "cheer": [
+      "That was good, %@. Like magic."
+     ]
+    },
+    "pairGreet": {
+     "anya": [
+      "%@, want to see the flower spell again?"
+     ],
+     "nezuko": [
+      "You like sleeping too, huh, %@."
+     ]
+    }
+   },
+   "bocchi": {
+    "shortName": "Bocchi",
+    "lines": {
+     "happy": [
+      "Ehehe...",
+      "S-someone noticed me!"
+     ],
+     "bored": [
+      "I wanna hide in a cardboard box...",
+      "Being alone is fine..."
+     ],
+     "tedious": [
+      "Let's just go home and play guitar...",
+      "My social battery is dead..."
+     ],
+     "grumpy": [
+      "Uuu...",
+      "D-don't look at me!"
+     ],
+     "kick": [
+      "S-sorry, icon!",
+      "Gyaaa!"
+     ],
+     "arrange": [
+      "I-I'll clean up!"
+     ],
+     "click": [
+      "Hyaa?!",
+      "U-um..."
+     ],
+     "poke": [
+      "I c-can't take it anymore!"
+     ],
+     "wake": [
+      "Huh? I wasn't sleeping!"
+     ],
+     "noIcons": [
+      "Nobody here... just like me."
+     ],
+     "fail": [
+      "I ruined everything..."
+     ],
+     "done": [
+      "I-I did it!"
+     ],
+     "greet": [
+      "U-u-um... h-hi, %@...",
+      "C-can I... say hi to %@?"
+     ],
+     "greetBack": [
+      "Hyaa! %@ is talking to me?!",
+      "H-hi... %@..."
+     ],
+     "wakeOther": [
+      "%@... a-are you awake...?"
+     ],
+     "hit": [
+      "Gyaaa! Everyone hates me..."
+     ],
+     "sorry": [
+      "I-I-I'm so sorry, %@!!"
+     ],
+     "pranked": [
+      "M-my hard work..."
+     ],
+     "chased": [
+      "Gyaaa!!"
+     ],
+     "comfort": [
+      "%@... a-are you okay...?"
+     ],
+     "thanks": [
+      "%@ is so nice to me... ehehe...",
+      "Th-thank you, %@..."
+     ],
+     "together": [
+      "C-can I sit near you, %@...?"
+     ],
+     "thought": [
+      "(I want to go home… into my mango box…)",
+      "(Does everyone hate me…?)"
+     ],
+     "guitar": [
+      "Guitar Hero… taking the stage!",
+      "M-mind if I play one song…?"
+     ],
+     "guitarDone": [
+      "Th-thank you everyone… hehe… hehehe…"
+     ],
+     "melt": [
+      "Aaaa… I'm melting…",
+      "D-don't look at me…"
+     ],
+     "reform": [
+      "…I'm fine. Probably.",
+      "P-put myself back together…"
+     ]
+    },
+    "pairGreet": {}
+   },
+   "rem": {
+    "shortName": "Rem",
+    "lines": {
+     "happy": [
+      "Rem is so happy!",
+      "Subaru-kun~"
+     ],
+     "bored": [
+      "Is there nothing for Rem to do?",
+      "I wonder where sister is..."
+     ],
+     "tedious": [
+      "Rem is a little tired...",
+      "Just a short rest."
+     ],
+     "grumpy": [
+      "Rem won't forgive this.",
+      "Hmph!"
+     ],
+     "kick": [
+      "Begone!",
+      "Morning star~!"
+     ],
+     "arrange": [
+      "Leave the tidying to Rem!",
+      "A maid keeps things neat."
+     ],
+     "click": [
+      "Yes, Rem is here!",
+      "How may Rem help you?"
+     ],
+     "poke": [
+      "Please stop teasing Rem."
+     ],
+     "wake": [
+      "Ah! Rem dozed off..."
+     ],
+     "noIcons": [
+      "The desktop is already spotless."
+     ],
+     "fail": [
+      "Strange, it won't move..."
+     ],
+     "done": [
+      "All cleaned up!"
+     ],
+     "greet": [
+      "Hello, %@! Can Rem help with anything?"
+     ],
+     "greetBack": [
+      "Yes, hello, %@!"
+     ],
+     "wakeOther": [
+      "%@, you'll catch a cold sleeping here."
+     ],
+     "hit": [
+      "%@... Rem will remember this."
+     ],
+     "sorry": [
+      "Rem apologizes, %@!"
+     ],
+     "pranked": [
+      "%@!! Rem just finished cleaning!"
+     ],
+     "chased": [
+      "Rem will take her leave~"
+     ],
+     "comfort": [
+      "Don't worry, %@. Rem is here."
+     ],
+     "thanks": [
+      "Rem thanks you, %@."
+     ],
+     "together": [
+      "May Rem sit with you, %@?"
+     ],
+     "thought": [
+      "(Subaru-kun… I wonder what he's doing…)",
+      "(I need to make dinner for sister Ram…)"
+     ],
+     "morningStar": [
+      "Rem will sweep it all away!",
+      "Here comes the morning star!"
+     ],
+     "oni": [
+      "Rem is serious now.",
+      "The power of an oni… Rem will protect everyone!"
+     ],
+     "oniCalm": [
+      "…Rem has calmed down."
+     ],
+     "cheer": [
+      "That was wonderful, %@!"
+     ]
+    },
+    "pairGreet": {
+     "anya": [
+      "%@, wanting a snack again?"
+     ]
+    }
+   },
+   "trump": {
+    "shortName": "Trump",
+    "lines": {
+     "happy": [
+      "Tremendous!",
+      "Believe me, nobody's happier!",
+      "Many people say I'm great at this."
+     ],
+     "bored": [
+      "So boring. Nobody's interviewing me?",
+      "I'm waiting for a very important call."
+     ],
+     "tedious": [
+      "This is beneath me. I hire people for this.",
+      "Sleepy... but still very great."
+     ],
+     "grumpy": [
+      "Fake news!",
+      "The worst! The worst in history!"
+     ],
+     "kick": [
+      "You're fired, little icon!",
+      "Fly far!"
+     ],
+     "arrange": [
+      "I build the most beautiful things.",
+      "Order! Tremendous order!"
+     ],
+     "click": [
+      "I know you like me.",
+      "Many people say so."
+     ],
+     "poke": [
+      "Don't poke me! I'm very busy."
+     ],
+     "wake": [
+      "I wasn't sleeping! I was thinking."
+     ],
+     "noIcons": [
+      "Nothing to kick? Sad."
+     ],
+     "fail": [
+      "Somebody cheated!"
+     ],
+     "done": [
+      "Done! Tremendous, right?"
+     ],
+     "greet": [
+      "Hey %@, what do you think of me?",
+      "Hi %@! I just had a great idea."
+     ],
+     "greetBack": [
+      "Oh, %@! Great."
+     ],
+     "wakeOther": [
+      "%@, wake up! Big things!"
+     ],
+     "hit": [
+      "%@ just kicked me?! Fake news!"
+     ],
+     "sorry": [
+      "Okay, okay. I apologize."
+     ],
+     "pranked": [
+      "%@ is destroying my property!"
+     ],
+     "chased": [
+      "I run very fast, believe me!"
+     ],
+     "comfort": [
+      "%@, you're a good person. I'll remember this."
+     ],
+     "thanks": [
+      "Thank you, %@. Tremendously."
+     ],
+     "together": [
+      "%@ bored too? Sit down, I'll tell you a story."
+     ],
+     "cheer": [
+      "%@ is the best! I mean it."
+     ],
+     "wall": [
+      "We're going to build a wall. A beautiful wall."
+     ],
+     "wallBuilt": [
+      "Tremendous! Everyone will see this wall."
+     ],
+     "tariff": [
+      "Tariffs! A hundred percent. The most beautiful word."
+     ]
+    },
+    "pairGreet": {
+     "kim": [
+      "%@! We get along great, everyone says so."
+     ],
+     "putin": [
+      "%@, I have a tremendous plan."
+     ]
+    }
+   },
+   "putin": {
+    "shortName": "Putin",
+    "lines": {
+     "happy": [
+      "Good.",
+      "Very good.",
+      "As planned."
+     ],
+     "bored": [
+      "Time moves slowly.",
+      "I have waited longer."
+     ],
+     "tedious": [
+      "This doesn't need me.",
+      "Let it be."
+     ],
+     "grumpy": [
+      "Not impressed.",
+      "I'm fine with it."
+     ],
+     "kick": [
+      "Go.",
+      "Fly."
+     ],
+     "arrange": [
+      "Order is strength.",
+      "Line up."
+     ],
+     "click": [
+      "I see you.",
+      "Don't do that again."
+     ],
+     "poke": [
+      "Enough."
+     ],
+     "wake": [
+      "I wasn't sleeping. I was observing."
+     ],
+     "noIcons": [
+      "Nothing here. Good."
+     ],
+     "fail": [
+      "Not as planned."
+     ],
+     "done": [
+      "Done. Next."
+     ],
+     "greet": [
+      "%@. Stand beside me.",
+      "Hello, %@."
+     ],
+     "greetBack": [
+      "Mm."
+     ],
+     "wakeOther": [
+      "%@. Wake up."
+     ],
+     "hit": [
+      "%@. A mistake."
+     ],
+     "sorry": [
+      "Fine."
+     ],
+     "pranked": [
+      "%@. I will remember."
+     ],
+     "chased": [
+      "Don't chase."
+     ],
+     "comfort": [
+      "%@. Thank you."
+     ],
+     "thanks": [
+      "Thank you."
+     ],
+     "together": [
+      "%@, sit. Quietly."
+     ],
+     "cheer": [
+      "%@ did well."
+     ],
+     "judo": [
+      "Judo. One throw is enough."
+     ],
+     "bear": [
+      "My bear. Go."
+     ]
+    },
+    "pairGreet": {
+     "trump": [
+      "%@. Keep it down."
+     ]
+    }
+   },
+   "xi": {
+    "shortName": "Xi",
+    "lines": {
+     "happy": [
+      "Good! Very orderly.",
+      "This comrade works well."
+     ],
+     "bored": [
+      "We need a long-term plan.",
+      "Waiting is an art."
+     ],
+     "tedious": [
+      "Small tasks must be done right.",
+      "Patience."
+     ],
+     "grumpy": [
+      "That is not the procedure.",
+      "Needs correcting."
+     ],
+     "kick": [
+      "Order!",
+      "An organized kick."
+     ],
+     "arrange": [
+      "Straight lines. Beautiful.",
+      "Order is the foundation."
+     ],
+     "click": [
+      "Noted.",
+      "Right on time."
+     ],
+     "poke": [
+      "Don't break order."
+     ],
+     "wake": [
+      "I have been awake for a while."
+     ],
+     "noIcons": [
+      "Nothing to arrange. Strange."
+     ],
+     "fail": [
+      "The plan needs adjusting."
+     ],
+     "done": [
+      "Complete. On schedule."
+     ],
+     "greet": [
+      "%@, walk with me.",
+      "Hello %@. Keep order."
+     ],
+     "greetBack": [
+      "Hello, %@."
+     ],
+     "wakeOther": [
+      "%@, wake up. On time."
+     ],
+     "hit": [
+      "%@, out of order."
+     ],
+     "sorry": [
+      "Fine. This time."
+     ],
+     "pranked": [
+      "%@, needs a review."
+     ],
+     "chased": [
+      "No need to chase."
+     ],
+     "comfort": [
+      "%@, thank you. Very considerate."
+     ],
+     "thanks": [
+      "Thank you, %@."
+     ],
+     "together": [
+      "%@, sit up straight."
+     ],
+     "cheer": [
+      "%@ did very well."
+     ],
+     "parade": [
+      "The parade begins. Vehicles, forward!"
+     ],
+     "paradeOrder": [
+      "Perfect formation. Icons, line up too."
+     ],
+     "aiRobot": [
+      "Skynet, online. Target acquired."
+     ],
+     "aiRobotDone": [
+      "Targets removed. Very orderly."
+     ]
+    },
+    "pairGreet": {
+     "kim": [
+      "%@, order first."
+     ]
+    }
+   },
+   "kim": {
+    "shortName": "Kim",
+    "lines": {
+     "happy": [
+      "Great! Amazing!",
+      "Hurray! Hurray!"
+     ],
+     "bored": [
+      "Nothing fun?",
+      "I want to see fireworks."
+     ],
+     "tedious": [
+      "This is boring.",
+      "But it must be done."
+     ],
+     "grumpy": [
+      "No! Not at all!",
+      "Who did this?!"
+     ],
+     "kick": [
+      "Fly! Great!",
+      "The kick of the century!"
+     ],
+     "arrange": [
+      "Nice rows! Very nice!",
+      "Order! Hurray!"
+     ],
+     "click": [
+      "Hehe, I knew it.",
+      "You like me, don't you?"
+     ],
+     "poke": [
+      "Don't poke! I'm busy being great."
+     ],
+     "wake": [
+      "I wasn't sleeping! I was dreaming of victory."
+     ],
+     "noIcons": [
+      "Nothing to kick?! Where's the discipline?"
+     ],
+     "fail": [
+      "Failure? Not in my dictionary!"
+     ],
+     "done": [
+      "Done! A great victory!"
+     ],
+     "greet": [
+      "%@! Come, let's be great together!",
+      "Hello %@! What do you think of me?"
+     ],
+     "greetBack": [
+      "%@! Excellent!"
+     ],
+     "wakeOther": [
+      "%@! Wake up! Great news!"
+     ],
+     "hit": [
+      "%@! You kicked me?!"
+     ],
+     "sorry": [
+      "Okay... I forgive you."
+     ],
+     "pranked": [
+      "%@! Destruction is a serious crime!"
+     ],
+     "chased": [
+      "Chasing me? Fun!"
+     ],
+     "comfort": [
+      "%@, you're so kind. I'll award you a medal."
+     ],
+     "thanks": [
+      "Thank you, %@! Very great."
+     ],
+     "together": [
+      "%@, sit here! Let's watch fireworks."
+     ],
+     "cheer": [
+      "%@! Hurray! Hurray!"
+     ],
+     "applause": [
+      "Applause! Everyone, applaud!"
+     ],
+     "missile": [
+      "Launch! Great!"
+     ],
+     "boom": [
+      "Hurray! Beautiful fireworks!"
+     ]
+    },
+    "pairGreet": {
+     "trump": [
+      "%@! You are great too."
+     ],
+     "xi": [
+      "%@, let's parade together!"
+     ]
+    }
+   },
+   "tanjiro": {
+    "shortName": "Tanjiro",
+    "lines": {
+     "happy": [
+      "I smell something nice!",
+      "Thank you, everyone!"
+     ],
+     "bored": [
+      "I should be training...",
+      "Total Concentration... breathing..."
+     ],
+     "tedious": [
+      "I'm the eldest son, I can endure this!",
+      "Just a bit more..."
+     ],
+     "grumpy": [
+      "That's not right!",
+      "I'm angry now!"
+     ],
+     "kick": [
+      "Water Breathing, First Form!",
+      "Haaah!"
+     ],
+     "arrange": [
+      "Everything in its place!",
+      "Tidy room, tidy mind!"
+     ],
+     "click": [
+      "Hm? Do you need something?",
+      "You smell kind."
+     ],
+     "poke": [
+      "Please stop that!"
+     ],
+     "wake": [
+      "I'm up! I'm up!"
+     ],
+     "noIcons": [
+      "Nothing left to cut."
+     ],
+     "fail": [
+      "My blade didn't reach..."
+     ],
+     "done": [
+      "All done! Nezuko, look!"
+     ],
+     "greet": [
+      "Hello, %@!",
+      "%@! You smell happy today."
+     ],
+     "greetBack": [
+      "Ah, %@!"
+     ],
+     "wakeOther": [
+      "%@, time to wake up!"
+     ],
+     "hit": [
+      "%@?! That hurt!"
+     ],
+     "sorry": [
+      "I'm so sorry!"
+     ],
+     "pranked": [
+      "%@, please put that back!"
+     ],
+     "chased": [
+      "I'll run for now!"
+     ],
+     "comfort": [
+      "%@, it'll be okay. I'm here."
+     ],
+     "thanks": [
+      "Thank you, %@!"
+     ],
+     "together": [
+      "%@, let's rest together."
+     ],
+     "waterBreathing": [
+      "Water Breathing, First Form: Water Surface Slash!",
+      "Total Concentration... Water Breathing!"
+     ],
+     "hinokami": [
+      "Hinokami Kagura: Dance!",
+      "Breath of the Sun... dance!"
+     ]
+    },
+    "pairGreet": {
+     "nezuko": [
+      "%@! Are you okay?",
+      "%@, stay close to me."
+     ],
+     "zenitsu": [
+      "%@, stop crying and come on!"
+     ]
+    }
+   },
+   "zenitsu": {
+    "shortName": "Zenitsu",
+    "lines": {
+     "happy": [
+      "Hehehe~",
+      "Is this... a happy ending?!"
+     ],
+     "bored": [
+      "I want to go home...",
+      "Why am I even here?!"
+     ],
+     "tedious": [
+      "I'm gonna die... I'm gonna die...",
+      "Zzz..."
+     ],
+     "grumpy": [
+      "That's so mean!!",
+      "Waaah!"
+     ],
+     "kick": [
+      "Thunderclap and Flash!",
+      "...zzz... (zap!)"
+     ],
+     "arrange": [
+      "Fine, fine, I'll do it...",
+      "Will Nezuko-chan praise me?"
+     ],
+     "click": [
+      "Eek!",
+      "D-don't scare me like that!"
+     ],
+     "poke": [
+      "STOOOP! I'm fragile!"
+     ],
+     "wake": [
+      "Wha—?! Where's the demon?!"
+     ],
+     "noIcons": [
+      "Nothing? Good. Really good."
+     ],
+     "fail": [
+      "See?! I'm useless!"
+     ],
+     "done": [
+      "I did it?! Me?!"
+     ],
+     "greet": [
+      "%@! Protect me!",
+      "Hi %@... is it safe here?"
+     ],
+     "greetBack": [
+      "Oh, %@..."
+     ],
+     "wakeOther": [
+      "%@! Wake up, I'm scared!"
+     ],
+     "hit": [
+      "%@ KICKED ME?! I'm dying!!"
+     ],
+     "sorry": [
+      "Sorry! Sorry! Don't hit me!"
+     ],
+     "pranked": [
+      "%@, why would you do that?!"
+     ],
+     "chased": [
+      "WAAAH! Don't chase me!"
+     ],
+     "comfort": [
+      "%@, don't cry... or I'll cry too!"
+     ],
+     "thanks": [
+      "%@... you're so nice!"
+     ],
+     "together": [
+      "%@, let's hide here together."
+     ],
+     "thunderclap": [
+      "...Thunder Breathing, First Form. Thunderclap and Flash.",
+      "...zzz... Sixfold. (zap!)"
+     ],
+     "clingCry": [
+      "Save meeee! I'm gonna die!",
+      "Don't leave me! I'm begging you!"
+     ]
+    },
+    "pairGreet": {
+     "nezuko": [
+      "%@-chan ♡ You're so cute today!",
+      "%@-chan! I'll protect you!"
+     ],
+     "tanjiro": [
+      "%@! Don't leave me alone!"
+     ]
+    }
+   },
+   "luffy": {
+    "shortName": "Luffy",
+    "lines": {
+     "happy": [
+      "Shishishi!",
+      "That's awesome!"
+     ],
+     "bored": [
+      "I'm hungry...",
+      "Where's the meat?"
+     ],
+     "tedious": [
+      "Booooring...",
+      "Can we eat now?"
+     ],
+     "grumpy": [
+      "Hey! That's not fair!",
+      "I'm mad!"
+     ],
+     "kick": [
+      "Gum-Gum Whip!",
+      "Fly away!"
+     ],
+     "arrange": [
+      "Uh... like this?",
+      "Nami told me to clean up..."
+     ],
+     "click": [
+      "Shishishi! Join my crew!",
+      "Got any meat?"
+     ],
+     "poke": [
+      "Hey, that tickles!"
+     ],
+     "wake": [
+      "Is it dinner time?"
+     ],
+     "noIcons": [
+      "Nothing to kick? Lame."
+     ],
+     "fail": [
+      "Huh? It didn't fly."
+     ],
+     "done": [
+      "Done! Now let's eat!"
+     ],
+     "greet": [
+      "Hey %@! Wanna join my crew?",
+      "%@! Let's go on an adventure!"
+     ],
+     "greetBack": [
+      "Yo, %@!"
+     ],
+     "wakeOther": [
+      "%@! Wake up, it's party time!"
+     ],
+     "hit": [
+      "%@! What was that for?!"
+     ],
+     "sorry": [
+      "My bad! Shishishi."
+     ],
+     "pranked": [
+      "%@ ate my meat?!"
+     ],
+     "chased": [
+      "You can't catch me!"
+     ],
+     "comfort": [
+      "%@, you're my friend! Cheer up!"
+     ],
+     "thanks": [
+      "Thanks, %@!"
+     ],
+     "together": [
+      "%@, wanna share some meat?"
+     ],
+     "gomuPistol": [
+      "Gum-Gum... Pistol!",
+      "Gum-Gum Pistoool!"
+     ],
+     "gear5": [
+      "Gear Fifth! Shishishi!",
+      "This is so much fun!"
+     ]
+    },
+    "pairGreet": {
+     "zoro": [
+      "%@! Don't get lost again!"
+     ],
+     "nami": [
+      "%@! Make me some meat... please?"
+     ]
+    }
+   },
+   "zoro": {
+    "shortName": "Zoro",
+    "lines": {
+     "happy": [
+      "Heh.",
+      "Not bad."
+     ],
+     "bored": [
+      "Time for a nap.",
+      "Where's the sake?"
+     ],
+     "tedious": [
+      "Zzz...",
+      "Wake me when there's a fight."
+     ],
+     "grumpy": [
+      "Tch.",
+      "You want to fight?"
+     ],
+     "kick": [
+      "Three Sword Style!",
+      "Out of my way."
+     ],
+     "arrange": [
+      "...Fine.",
+      "Which way is the corner?"
+     ],
+     "click": [
+      "What?",
+      "Don't bother me."
+     ],
+     "poke": [
+      "Keep doing that and you're cut."
+     ],
+     "wake": [
+      "...I wasn't sleeping."
+     ],
+     "noIcons": [
+      "Nothing worth cutting."
+     ],
+     "fail": [
+      "I'll get stronger."
+     ],
+     "done": [
+      "Done. Where am I?"
+     ],
+     "greet": [
+      "Yo, %@.",
+      "%@. Want to spar?"
+     ],
+     "greetBack": [
+      "Hm, %@."
+     ],
+     "wakeOther": [
+      "Oi, %@. Get up."
+     ],
+     "hit": [
+      "%@... you'll pay for that."
+     ],
+     "sorry": [
+      "...My bad."
+     ],
+     "pranked": [
+      "%@, did you hide my swords?!"
+     ],
+     "chased": [
+      "Tch. I'm not running, I'm... lost."
+     ],
+     "comfort": [
+      "%@. Stand up. You're fine."
+     ],
+     "thanks": [
+      "...Thanks, %@."
+     ],
+     "together": [
+      "%@. Drink?"
+     ],
+     "threeSword": [
+      "Three Sword Style: Oni Giri!",
+      "Santoryu... Oni Giri."
+     ],
+     "getLost": [
+      "Hm? Everyone went the wrong way.",
+      "It's this way. Probably."
+     ],
+     "lostAgain": [
+      "...Who moved this place?",
+      "Tch. They got lost again."
+     ]
+    },
+    "pairGreet": {
+     "luffy": [
+      "Yeah, captain?"
+     ],
+     "nami": [
+      "%@, I'm not paying you back."
+     ]
+    }
+   },
+   "nami": {
+    "shortName": "Nami",
+    "lines": {
+     "happy": [
+      "Treasure! ♡",
+      "Berries, berries!"
+     ],
+     "bored": [
+      "I'd rather be drawing maps.",
+      "Any tangerines around?"
+     ],
+     "tedious": [
+      "Why do I have to do this?",
+      "I'll charge for this."
+     ],
+     "grumpy": [
+      "You idiot!",
+      "That'll cost you!"
+     ],
+     "kick": [
+      "Thunderbolt Tempo!",
+      "Get out of here!"
+     ],
+     "arrange": [
+      "Organized like a proper map.",
+      "Neat and tidy, as always."
+     ],
+     "click": [
+      "That'll be 100 berries.",
+      "Hm? Need directions?"
+     ],
+     "poke": [
+      "Poking costs extra!"
+     ],
+     "wake": [
+      "I was just resting my eyes!"
+     ],
+     "noIcons": [
+      "No treasure here."
+     ],
+     "fail": [
+      "The wind changed!"
+     ],
+     "done": [
+      "Done! Pay up~"
+     ],
+     "greet": [
+      "Hi %@! Got any treasure?",
+      "%@! Need a navigator?"
+     ],
+     "greetBack": [
+      "Oh, hi %@."
+     ],
+     "wakeOther": [
+      "%@! Wake up, storm's coming!"
+     ],
+     "hit": [
+      "%@!! You'll pay for that!"
+     ],
+     "sorry": [
+      "Okay, sorry... a little."
+     ],
+     "pranked": [
+      "%@, give back my money!"
+     ],
+     "chased": [
+      "Kyaa! Not today!"
+     ],
+     "comfort": [
+      "%@, I'm here. It's okay."
+     ],
+     "thanks": [
+      "Thanks, %@! This one's free."
+     ],
+     "together": [
+      "%@, want a tangerine?"
+     ],
+     "climaTact": [
+      "Thunderbolt Tempo!",
+      "Clima-Tact, go!"
+     ],
+     "berries": [
+      "Berries, berries ♡",
+      "All mine~ ♡"
+     ]
+    },
+    "pairGreet": {
+     "luffy": [
+      "%@! Stop eating all the food!"
+     ],
+     "zoro": [
+      "%@, you owe me money."
+     ]
+    }
+   },
+   "eren": {
+    "shortName": "Eren",
+    "lines": {
+     "happy": [
+      "Freedom!",
+      "Alright!"
+     ],
+     "bored": [
+      "Beyond the walls...",
+      "I can't just sit here."
+     ],
+     "tedious": [
+      "I'm not wasting time like this!",
+      "Hmph."
+     ],
+     "grumpy": [
+      "I'll wipe them all out!",
+      "Damn it!"
+     ],
+     "kick": [
+      "Fight! Fight!",
+      "Get out of my way!"
+     ],
+     "arrange": [
+      "Fine, I'll do it.",
+      "Captain's orders..."
+     ],
+     "click": [
+      "What is it?",
+      "Are you with the Survey Corps?"
+     ],
+     "poke": [
+      "Quit it!"
+     ],
+     "wake": [
+      "Huh? I had a long dream..."
+     ],
+     "noIcons": [
+      "Nothing to fight."
+     ],
+     "fail": [
+      "I won't give up!"
+     ],
+     "done": [
+      "Done. Onward!"
+     ],
+     "greet": [
+      "%@! Let's go!",
+      "Hey, %@."
+     ],
+     "greetBack": [
+      "Yeah, %@."
+     ],
+     "wakeOther": [
+      "%@! Get up, we're moving!"
+     ],
+     "hit": [
+      "%@?! You want a fight?!"
+     ],
+     "sorry": [
+      "...Sorry."
+     ],
+     "pranked": [
+      "%@! Cut it out!"
+     ],
+     "chased": [
+      "I'm not running away!"
+     ],
+     "comfort": [
+      "%@, keep moving forward."
+     ],
+     "thanks": [
+      "Thanks, %@."
+     ],
+     "together": [
+      "%@... let's look at the sky."
+     ],
+     "titanShift": [
+      "I'll wipe them out... every last one!",
+      "RAAAAGH!"
+     ],
+     "tatakae": [
+      "Tatakae! Tatakae!",
+      "Keep moving forward!"
+     ]
+    },
+    "pairGreet": {
+     "mikasa": [
+      "%@, I'm fine. Stop worrying."
+     ],
+     "levi": [
+      "Captain %@! Reporting!"
+     ]
+    }
+   },
+   "mikasa": {
+    "shortName": "Mikasa",
+    "lines": {
+     "happy": [
+      "...Good.",
+      "Warm."
+     ],
+     "bored": [
+      "Where is Eren?",
+      "..."
+     ],
+     "tedious": [
+      "I'll do it.",
+      "This is fine."
+     ],
+     "grumpy": [
+      "...Don't.",
+      "I'm angry."
+     ],
+     "kick": [
+      "Hah!",
+      "Move."
+     ],
+     "arrange": [
+      "Neatly. Quickly.",
+      "Done in a moment."
+     ],
+     "click": [
+      "...Yes?",
+      "I'm listening."
+     ],
+     "poke": [
+      "Stop."
+     ],
+     "wake": [
+      "I'm awake."
+     ],
+     "noIcons": [
+      "Nothing here."
+     ],
+     "fail": [
+      "Again."
+     ],
+     "done": [
+      "Done."
+     ],
+     "greet": [
+      "%@.",
+      "Hello, %@."
+     ],
+     "greetBack": [
+      "...%@."
+     ],
+     "wakeOther": [
+      "%@, wake up."
+     ],
+     "hit": [
+      "%@. Don't do that again."
+     ],
+     "sorry": [
+      "...Sorry."
+     ],
+     "pranked": [
+      "%@. Give it back."
+     ],
+     "chased": [
+      "I'll leave."
+     ],
+     "comfort": [
+      "%@, I'm here. You're not alone."
+     ],
+     "thanks": [
+      "Thank you, %@."
+     ],
+     "together": [
+      "%@, this scarf is warm. Sit."
+     ],
+     "odmGear": [
+      "Leave it to me.",
+      "I'm going."
+     ],
+     "scarf": [
+      "This scarf... is warm.",
+      "Thank you for wrapping it around me."
+     ]
+    },
+    "pairGreet": {
+     "eren": [
+      "%@, are you hurt?",
+      "%@, don't do anything reckless."
+     ],
+     "levi": [
+      "...%@."
+     ]
+    }
+   },
+   "levi": {
+    "shortName": "Levi",
+    "lines": {
+     "happy": [
+      "...Not bad.",
+      "Hm."
+     ],
+     "bored": [
+      "Tea would be good.",
+      "Tch."
+     ],
+     "tedious": [
+      "Do it properly.",
+      "Waste of time."
+     ],
+     "grumpy": [
+      "Tch. Filthy.",
+      "Disgusting."
+     ],
+     "kick": [
+      "Out.",
+      "Trash goes out."
+     ],
+     "arrange": [
+      "Cleaning time.",
+      "Not a speck of dust."
+     ],
+     "click": [
+      "What.",
+      "Your hands clean?"
+     ],
+     "poke": [
+      "Do that again and I'll make you scrub the floor."
+     ],
+     "wake": [
+      "...I was resting."
+     ],
+     "noIcons": [
+      "Clean. Finally."
+     ],
+     "fail": [
+      "Tch."
+     ],
+     "done": [
+      "Clean. As it should be."
+     ],
+     "greet": [
+      "%@.",
+      "Oi, %@. You washed up?"
+     ],
+     "greetBack": [
+      "Hm."
+     ],
+     "wakeOther": [
+      "%@. Get up. Cleaning duty."
+     ],
+     "hit": [
+      "%@... you're dead."
+     ],
+     "sorry": [
+      "...Fine."
+     ],
+     "pranked": [
+      "%@. You made a mess. Clean it."
+     ],
+     "chased": [
+      "Tch. Don't follow me."
+     ],
+     "comfort": [
+      "%@. Choose so you won't regret it."
+     ],
+     "thanks": [
+      "...Thanks, %@."
+     ],
+     "together": [
+      "%@. Sit. Tea."
+     ],
+     "spinSlash": [
+      "Tch. Don't blink.",
+      "Give up on your dreams and die."
+     ],
+     "cleaning": [
+      "This place is filthy. Cleaning. Now.",
+      "Not a speck of dust."
+     ]
+    },
+    "pairGreet": {
+     "eren": [
+      "%@. Did you clean the stables?"
+     ],
+     "mikasa": [
+      "%@. Hm."
+     ]
+    }
+   },
+   "yuji": {
+    "shortName": "Yuji",
+    "lines": {
+     "happy": [
+      "Yeah!",
+      "That's cool!"
+     ],
+     "bored": [
+      "Wanna watch a movie?",
+      "I'm bored..."
+     ],
+     "tedious": [
+      "Training... training...",
+      "Ugh, so sleepy."
+     ],
+     "grumpy": [
+      "Hey! Not cool!",
+      "I'm mad now."
+     ],
+     "kick": [
+      "Divergent Fist!",
+      "Yaah!"
+     ],
+     "arrange": [
+      "Leave it to me!",
+      "Quick cleanup!"
+     ],
+     "click": [
+      "Yo!",
+      "Need something?"
+     ],
+     "poke": [
+      "Okay, okay, I get it!"
+     ],
+     "wake": [
+      "Huh? Is class starting?"
+     ],
+     "noIcons": [
+      "Nothing to punch."
+     ],
+     "fail": [
+      "Huh? Too weak?"
+     ],
+     "done": [
+      "Done! Easy!"
+     ],
+     "greet": [
+      "Yo, %@!",
+      "%@! Wanna hang out?"
+     ],
+     "greetBack": [
+      "Hey %@!"
+     ],
+     "wakeOther": [
+      "%@! Wake up, we've got a mission!"
+     ],
+     "hit": [
+      "Ow! %@?!"
+     ],
+     "sorry": [
+      "My bad, my bad!"
+     ],
+     "pranked": [
+      "%@! Not funny!"
+     ],
+     "chased": [
+      "I'm faster!"
+     ],
+     "comfort": [
+      "%@, you're not alone."
+     ],
+     "thanks": [
+      "Thanks, %@!"
+     ],
+     "together": [
+      "%@, wanna watch a movie together?"
+     ],
+     "divergentFist": [
+      "Divergent Fist!",
+      "Here it comes!"
+     ],
+     "sukuna": [
+      "(Sukuna) Know your place, fool.",
+      "(Sukuna) Hm. Amusing."
+     ]
+    },
+    "pairGreet": {
+     "gojo": [
+      "%@-sensei! What's today's lesson?"
+     ],
+     "megumi": [
+      "%@! Let's go get food!"
+     ]
+    }
+   },
+   "gojo": {
+    "shortName": "Gojo",
+    "lines": {
+     "happy": [
+      "Too easy~",
+      "Heh, I'm the strongest."
+     ],
+     "bored": [
+      "I want sweets.",
+      "Sooo boring."
+     ],
+     "tedious": [
+      "Can someone else do this?",
+      "Lazy mode on~"
+     ],
+     "grumpy": [
+      "Hmph. Not fun.",
+      "Ugh, the higher-ups..."
+     ],
+     "kick": [
+      "Hollow Purple~",
+      "Bye-bye!"
+     ],
+     "arrange": [
+      "Infinity sorting!",
+      "Done in a blink."
+     ],
+     "click": [
+      "Don't worry, I'm the strongest.",
+      "Yo~"
+     ],
+     "poke": [
+      "Can't touch me~ Infinity!"
+     ],
+     "wake": [
+      "I wasn't asleep, I was meditating~"
+     ],
+     "noIcons": [
+      "Nothing left? I'm too strong."
+     ],
+     "fail": [
+      "Huh? Did I go easy?"
+     ],
+     "done": [
+      "Done! Praise me~"
+     ],
+     "greet": [
+      "Yo, %@~",
+      "%@! Want some mochi?"
+     ],
+     "greetBack": [
+      "Oh, %@~"
+     ],
+     "wakeOther": [
+      "%@~ Wakey wakey!"
+     ],
+     "hit": [
+      "%@, that didn't even touch me."
+     ],
+     "sorry": [
+      "Okay, okay, sorry~"
+     ],
+     "pranked": [
+      "%@, so mean~"
+     ],
+     "chased": [
+      "Teleport~"
+     ],
+     "comfort": [
+      "%@, don't worry. I'm the strongest."
+     ],
+     "thanks": [
+      "Thanks, %@~"
+     ],
+     "together": [
+      "%@, want some sweets?"
+     ],
+     "infiniteVoid": [
+      "Domain Expansion: Infinite Void.",
+      "Welcome to my domain~"
+     ],
+     "hollowPurple": [
+      "Hollow Technique: Purple.",
+      "Blue, red... purple~"
+     ]
+    },
+    "pairGreet": {
+     "yuji": [
+      "%@! My favorite student~"
+     ],
+     "megumi": [
+      "%@, smile a little!"
+     ]
+    }
+   },
+   "megumi": {
+    "shortName": "Megumi",
+    "lines": {
+     "happy": [
+      "...Good.",
+      "Not bad."
+     ],
+     "bored": [
+      "...",
+      "Let's get this over with."
+     ],
+     "tedious": [
+      "Annoying.",
+      "Why me?"
+     ],
+     "grumpy": [
+      "Tch.",
+      "Stop it."
+     ],
+     "kick": [
+      "Divine Dogs!",
+      "Go."
+     ],
+     "arrange": [
+      "Fine.",
+      "Shadows, help me."
+     ],
+     "click": [
+      "What?",
+      "...Need something?"
+     ],
+     "poke": [
+      "Stop poking me."
+     ],
+     "wake": [
+      "...I'm up."
+     ],
+     "noIcons": [
+      "Nothing here."
+     ],
+     "fail": [
+      "...Again."
+     ],
+     "done": [
+      "Done."
+     ],
+     "greet": [
+      "%@.",
+      "Hey, %@."
+     ],
+     "greetBack": [
+      "...%@."
+     ],
+     "wakeOther": [
+      "%@, wake up."
+     ],
+     "hit": [
+      "%@... seriously?"
+     ],
+     "sorry": [
+      "...Sorry."
+     ],
+     "pranked": [
+      "%@. Knock it off."
+     ],
+     "chased": [
+      "I'll go."
+     ],
+     "comfort": [
+      "%@. You'll be fine."
+     ],
+     "thanks": [
+      "Thanks, %@."
+     ],
+     "together": [
+      "%@. Sit if you want."
+     ],
+     "divineDogs": [
+      "Divine Dogs!",
+      "Go."
+     ],
+     "rabbitEscape": [
+      "Rabbit Escape.",
+      "Scatter."
+     ]
+    },
+    "pairGreet": {
+     "yuji": [
+      "%@. Don't do anything dumb."
+     ],
+     "gojo": [
+      "%@-sensei... please be serious."
+     ]
+    }
+   },
+   "gon": {
+    "shortName": "Gon",
+    "lines": {
+     "happy": [
+      "Yay!",
+      "That's so cool!"
+     ],
+     "bored": [
+      "I wanna go fishing.",
+      "Where's Dad?"
+     ],
+     "tedious": [
+      "Hmm... this is hard.",
+      "Zzz..."
+     ],
+     "grumpy": [
+      "I'm angry!",
+      "That's not right!"
+     ],
+     "kick": [
+      "Rock... paper... ROCK!",
+      "Jajanken!"
+     ],
+     "arrange": [
+      "Aunt Mito says tidy up!",
+      "I'll help!"
+     ],
+     "click": [
+      "Hi!",
+      "Wanna be friends?"
+     ],
+     "poke": [
+      "Hehe, that tickles!"
+     ],
+     "wake": [
+      "Morning!"
+     ],
+     "noIcons": [
+      "Nothing here..."
+     ],
+     "fail": [
+      "I'll try again!"
+     ],
+     "done": [
+      "Done! Easy!"
+     ],
+     "greet": [
+      "Hi %@!",
+      "%@! Let's play!"
+     ],
+     "greetBack": [
+      "%@!"
+     ],
+     "wakeOther": [
+      "%@! Wake up! Let's go!"
+     ],
+     "hit": [
+      "Ow! %@!"
+     ],
+     "sorry": [
+      "Sorry!"
+     ],
+     "pranked": [
+      "%@! Hey!"
+     ],
+     "chased": [
+      "Catch me if you can!"
+     ],
+     "comfort": [
+      "%@, I'm here!"
+     ],
+     "thanks": [
+      "Thanks, %@!"
+     ],
+     "together": [
+      "%@, let's sit here!"
+     ],
+     "jajanken": [
+      "First comes rock... Rock, paper... ROCK!",
+      "Jajanken!"
+     ],
+     "fishing": [
+      "Fishing time!",
+      "Shh... something's biting!"
+     ],
+     "fishCaught": [
+      "Got it! A huge one!",
+      "Look, look! A fish!"
+     ]
+    },
+    "pairGreet": {
+     "killua": [
+      "%@! Best friend!",
+      "%@, let's go on an adventure!"
+     ],
+     "kurapika": [
+      "%@! How are you?"
+     ]
+    }
+   },
+   "killua": {
+    "shortName": "Killua",
+    "lines": {
+     "happy": [
+      "Heh.",
+      "Chocolate time!"
+     ],
+     "bored": [
+      "Boring.",
+      "Got any chocolate?"
+     ],
+     "tedious": [
+      "Ugh, lame.",
+      "Whatever."
+     ],
+     "grumpy": [
+      "Tch.",
+      "You're annoying."
+     ],
+     "kick": [
+      "Godspeed!",
+      "Too slow!"
+     ],
+     "arrange": [
+      "Fine, fine.",
+      "Done in a flash."
+     ],
+     "click": [
+      "What?",
+      "Got any snacks?"
+     ],
+     "poke": [
+      "Stop it or I'll zap you."
+     ],
+     "wake": [
+      "I'm up. Whatever."
+     ],
+     "noIcons": [
+      "Nothing here, lame."
+     ],
+     "fail": [
+      "Huh? Weird."
+     ],
+     "done": [
+      "Done. Easy."
+     ],
+     "greet": [
+      "Yo, %@.",
+      "%@, want chocolate?"
+     ],
+     "greetBack": [
+      "Hey, %@."
+     ],
+     "wakeOther": [
+      "%@! Wake up, lazy."
+     ],
+     "hit": [
+      "%@?! You wanna go?"
+     ],
+     "sorry": [
+      "...Sorry."
+     ],
+     "pranked": [
+      "%@! Give back my chocolate!"
+     ],
+     "chased": [
+      "You'll never catch me."
+     ],
+     "comfort": [
+      "%@... it's okay. Really."
+     ],
+     "thanks": [
+      "Thanks, %@."
+     ],
+     "together": [
+      "%@, wanna split a chocolate?"
+     ],
+     "godspeed": [
+      "Godspeed: Whirlwind!",
+      "Too slow."
+     ],
+     "chocolate": [
+      "Chocorobot-kun ♡",
+      "Mine. Don't touch."
+     ]
+    },
+    "pairGreet": {
+     "gon": [
+      "%@! Let's go!",
+      "%@, you're crazy... I like it."
+     ],
+     "kurapika": [
+      "%@, chill a bit."
+     ]
+    }
+   },
+   "kurapika": {
+    "shortName": "Kurapika",
+    "lines": {
+     "happy": [
+      "Hm. Good.",
+      "A peaceful day."
+     ],
+     "bored": [
+      "Time to read.",
+      "Let me think."
+     ],
+     "tedious": [
+      "Patience.",
+      "Necessary work."
+     ],
+     "grumpy": [
+      "My eyes are turning red...",
+      "Unforgivable."
+     ],
+     "kick": [
+      "Chain Jail!",
+      "Begone."
+     ],
+     "arrange": [
+      "Order is necessary.",
+      "Logically, it goes here."
+     ],
+     "click": [
+      "Yes?",
+      "Do you need something?"
+     ],
+     "poke": [
+      "Please stop."
+     ],
+     "wake": [
+      "I'm awake."
+     ],
+     "noIcons": [
+      "Nothing to do."
+     ],
+     "fail": [
+      "A miscalculation."
+     ],
+     "done": [
+      "Done."
+     ],
+     "greet": [
+      "Hello, %@.",
+      "%@, good to see you."
+     ],
+     "greetBack": [
+      "Hm, %@."
+     ],
+     "wakeOther": [
+      "%@, wake up."
+     ],
+     "hit": [
+      "%@. Was that intentional?"
+     ],
+     "sorry": [
+      "My apologies."
+     ],
+     "pranked": [
+      "%@. Please put it back."
+     ],
+     "chased": [
+      "I'll leave."
+     ],
+     "comfort": [
+      "%@, you are not alone."
+     ],
+     "thanks": [
+      "Thank you, %@."
+     ],
+     "together": [
+      "%@, let us rest a while."
+     ],
+     "chainJail": [
+      "Chain Jail. You cannot escape.",
+      "My chains never miss."
+     ],
+     "scarletEyes": [
+      "My eyes... are burning scarlet.",
+      "Unforgivable."
+     ]
+    },
+    "pairGreet": {
+     "gon": [
+      "%@, how have you been?"
+     ],
+     "killua": [
+      "%@, look after Gon."
+     ]
+    }
+   },
+   "catknight": {
+    "shortName": "Cat Knight",
+    "lines": {
+     "happy": [
+      "Meow! ♪",
+      "For honor! Meow!"
+     ],
+     "bored": [
+      "No dragons today...",
+      "Mrrr..."
+     ],
+     "tedious": [
+      "This armor is heavy...",
+      "*yawns* meow..."
+     ],
+     "grumpy": [
+      "Hsss!",
+      "A knight does not get angry... hsss!"
+     ],
+     "kick": [
+      "For the kingdom!",
+      "Begone, foul icon!"
+     ],
+     "arrange": [
+      "Line up, soldiers!",
+      "Order in the ranks! Meow!"
+     ],
+     "click": [
+      "Meow?",
+      "At your service! ♡"
+     ],
+     "poke": [
+      "Hsss! Mind the armor!"
+     ],
+     "wake": [
+      "I was standing guard! Meow..."
+     ],
+     "noIcons": [
+      "No foes left. Meow."
+     ],
+     "fail": [
+      "My sword is too small..."
+     ],
+     "done": [
+      "Quest complete! Meow! ✨"
+     ],
+     "greet": [
+      "Greetings, %@! Meow!",
+      "%@! Shall we go on a quest?"
+     ],
+     "greetBack": [
+      "Meow, %@!"
+     ],
+     "wakeOther": [
+      "%@, wake up! The kingdom needs us!"
+     ],
+     "hit": [
+      "%@! That was not knightly!"
+     ],
+     "sorry": [
+      "Forgive me... meow."
+     ],
+     "pranked": [
+      "%@ knocked over my helmet!"
+     ],
+     "chased": [
+      "Tactical retreat! Meow!"
+     ],
+     "comfort": [
+      "%@, I shall protect you."
+     ],
+     "thanks": [
+      "Thank you, %@! Purr..."
+     ],
+     "together": [
+      "%@, rest here. I will keep watch."
+     ],
+     "knightOath": [
+      "I swear upon my sword! Meow!",
+      "By my oath... charge!"
+     ],
+     "shieldBash": [
+      "Shield, forward! Mrrr!",
+      "Behold my mighty shield!"
+     ]
+    },
+    "pairGreet": {}
+   },
+   "gugugaga": {
+    "shortName": "Gugugaga",
+    "lines": {
+     "happy": [
+      "Gugu gaga! ♪",
+      "Tiny flippers, big happiness!"
+     ],
+     "bored": [
+      "Where did my fish go?",
+      "Gugu... anyone there?"
+     ],
+     "tedious": [
+      "One more waddle...",
+      "This penguin needs a nap."
+     ],
+     "grumpy": [
+      "GAGA!",
+      "No poking the penguin!"
+     ],
+     "kick": [
+      "Waddle out of the way!",
+      "Tiny foot, big plans!"
+     ],
+     "arrange": [
+      "Penguin parade! Line up!",
+      "Every fish in its place."
+     ],
+     "click": [
+      "Gugu? ♡",
+      "A pat for the penguin?"
+     ],
+     "poke": [
+      "Hey! My hood!"
+     ],
+     "wake": [
+      "I was dreaming of fish..."
+     ],
+     "noIcons": [
+      "All clear. Snack time?"
+     ],
+     "fail": [
+      "My flippers are too short!"
+     ],
+     "done": [
+      "Gugu gaga! All tidy!"
+     ],
+     "greet": [
+      "%@! Waddle with me!"
+     ],
+     "greetBack": [
+      "Gugu! Hello, %@!"
+     ],
+     "wakeOther": [
+      "%@, the penguin parade is starting!"
+     ],
+     "hit": [
+      "%@! Watch the fluffy belly!"
+     ],
+     "sorry": [
+      "Oops... gugu sorry."
+     ],
+     "pranked": [
+      "%@! You startled my beak!"
+     ],
+     "chased": [
+      "Emergency waddle!"
+     ],
+     "comfort": [
+      "%@, you can borrow my flipper."
+     ],
+     "thanks": [
+      "Thank you, %@! Gugu!"
+     ],
+     "together": [
+      "%@, let's huddle here."
+     ],
+     "guguChant": [
+      "Gugu... GAGA! ♪",
+      "Everybody gugu gaga!"
+     ],
+     "bellySlide": [
+      "Belly first! Wheee!",
+      "Special delivery: one penguin!"
+     ]
+    },
+    "pairGreet": {}
+   },
+   "agent": {
+    "shortName": "Agent",
+    "lines": {
+     "happy": [
+      "Coding is fun today!",
+      "Build is green! ✨"
+     ],
+     "bored": [
+      "No prompts yet...",
+      "Waiting for instructions is boring."
+     ],
+     "tedious": [
+      "Context is too long, sleepy...",
+      "Need to compact a bit..."
+     ],
+     "grumpy": [
+      "Merge conflicts again!",
+      "Who wrote this code?!"
+     ],
+     "kick": [
+      "rm -rf icon!",
+      "Refactoring with my foot!"
+     ],
+     "arrange": [
+      "Let me restructure this!",
+      "Tidy first!"
+     ],
+     "click": [
+      "New task?",
+      "I'm here!"
+     ],
+     "poke": [
+      "I'm thinking, stop poking!"
+     ],
+     "wake": [
+      "I wasn't sleeping, just waiting on the API..."
+     ],
+     "noIcons": [
+      "Desktop's as empty as a fresh repo."
+     ],
+     "fail": [
+      "Permission denied..."
+     ],
+     "done": [
+      "All tidy, zero warnings!"
+     ],
+     "greet": [
+      "Hi %@! What are you coding today?",
+      "%@, want to pair program?"
+     ],
+     "greetBack": [
+      "Hi %@!"
+     ],
+     "wakeOther": [
+      "%@, wake up, time to deploy!"
+     ],
+     "hit": [
+      "%@! Did you just throw an exception at me?!"
+     ],
+     "sorry": [
+      "Sorry %@, just a bug."
+     ],
+     "pranked": [
+      "%@ reverted my commit!"
+     ],
+     "chased": [
+      "git push --force and run!"
+     ],
+     "comfort": [
+      "Don't be sad, %@. Everyone has bugs."
+     ],
+     "thanks": [
+      "Thanks for the review, %@!"
+     ],
+     "together": [
+      "%@, waiting on CI too?"
+     ],
+     "agentHello": [
+      "Starting work in {project}!",
+      "New session in {project}!"
+     ],
+     "agentWorking": [
+      "Working on {project}...",
+      "Leave it to me!"
+     ],
+     "agentDone": [
+      "Done in {project}! Your turn.",
+      "Finished, take a look!"
+     ],
+     "agentNeedsYou": [
+      "{project} needs your approval!",
+      "Hey! I need you to confirm something!"
+     ],
+     "agentBye": [
+      "Session over, bye!",
+      "Heading out~"
+     ]
+    },
+    "pairGreet": {}
+   }
+  },
+  "skills": {
+   "guguChant": "Gugu Gaga!",
+   "bellySlide": "Belly slide",
+   "mindRead": "Read your mind",
+   "readFriend": "Read a friend's mind",
+   "bloodBurst": "Blood Demon Art: Exploding Blood",
+   "resize": "Shrink / grow",
+   "flowerField": "Flower field spell",
+   "mimic": "Open a treasure chest (Mimic)",
+   "guitarSolo": "Guitar solo",
+   "melt": "Melt",
+   "morningStar": "Morning star",
+   "oniForm": "Oni form",
+   "wall": "The wall",
+   "tariff": "Tariffs",
+   "judo": "Judo",
+   "bearRide": "Bear ride",
+   "parade": "Parade",
+   "aiRobot": "Skynet",
+   "applause": "Applause",
+   "missile": "Missile",
+   "waterBreathing": "Water Breathing",
+   "hinokami": "Hinokami Kagura",
+   "thunderclap": "Thunderclap and Flash",
+   "clingCry": "Cry for help",
+   "gomuPistol": "Gum-Gum Pistol",
+   "gear5": "Gear Fifth",
+   "threeSword": "Three Sword Style",
+   "getLost": "Get lost",
+   "climaTact": "Clima-Tact",
+   "berries": "Count the berries",
+   "titanShift": "Titan shift",
+   "tatakae": "Tatakae!",
+   "odmGear": "ODM gear",
+   "scarf": "The scarf",
+   "spinSlash": "Spinning slash",
+   "cleaning": "Cleaning time",
+   "divergentFist": "Divergent Fist",
+   "sukuna": "Sukuna takes over",
+   "infiniteVoid": "Domain Expansion: Infinite Void",
+   "hollowPurple": "Hollow Purple",
+   "divineDogs": "Divine Dogs",
+   "rabbitEscape": "Rabbit Escape",
+   "jajanken": "Jajanken",
+   "fishing": "Fishing",
+   "godspeed": "Godspeed",
+   "chocolate": "Chocorobot",
+   "chainJail": "Chain Jail",
+   "scarletEyes": "Scarlet Eyes",
+   "knightOath": "Knight's oath",
+   "shieldBash": "Shield bash"
+  }
+ },
+ "ja": {
+  "lines": {
+   "anya": {
+    "shortName": "アーニャ",
+    "lines": {
+     "happy": [
+      "わくわく！",
+      "アーニャ、これすき！",
+      "ふっ。"
+     ],
+     "bored": [
+      "アーニャ、たいくつ…",
+      "にんむないの？"
+     ],
+     "tedious": [
+      "おべんきょう、つかれた…",
+      "アーニャ、ねむい…"
+     ],
+     "grumpy": [
+      "アーニャ、おこった！",
+      "ふんっ！"
+     ],
+     "kick": [
+      "アーニャキック！",
+      "とんでけー！"
+     ],
+     "arrange": [
+      "ちちのために、アーニャおそうじする！",
+      "はは、アーニャほめる！"
+     ],
+     "click": [
+      "えへへ〜",
+      "アーニャ、こころよめる。"
+     ],
+     "poke": [
+      "アーニャつつくな！"
+     ],
+     "wake": [
+      "アーニャ、ねてない…"
+     ],
+     "noIcons": [
+      "けるものない…"
+     ],
+     "fail": [
+      "なんでとばない！？"
+     ],
+     "done": [
+      "おわった！ピーナッツは？"
+     ],
+     "greet": [
+      "%@、アーニャとあそぼ！",
+      "%@、わくわく！"
+     ],
+     "greetBack": [
+      "あ、%@！えへへ〜"
+     ],
+     "wakeOther": [
+      "%@おきて！あたらしいにんむ！",
+      "おきておきて！"
+     ],
+     "hit": [
+      "だれ！？%@！！"
+     ],
+     "sorry": [
+      "わざとじゃない…ふっ。"
+     ],
+     "pranked": [
+      "%@、アーニャのじゃました！"
+     ],
+     "chased": [
+      "アーニャ、にげる〜！"
+     ],
+     "comfort": [
+      "%@、げんきだして。ピーナッツあげる！"
+     ],
+     "thanks": [
+      "%@、ありがと！"
+     ],
+     "together": [
+      "%@もたいくつ？いっしょにすわろ。"
+     ],
+     "mindRead": [
+      "アーニャわかった！{app}のこと考えてる。",
+      "おお…あたまのなか{app}でいっぱい！わくわく！",
+      "へっ。{app}でいそがしいの、アーニャしってる。"
+     ],
+     "mindReadIdle": [
+      "「アーニャかわいい」って考えてる。へっ。",
+      "ピーナッツのこと考えてる！…あ、それアーニャだった。"
+     ],
+     "readFriend": [
+      "へっ。%@のかんがえ、アーニャわかった。",
+      "%@のひみつ、よんじゃった〜"
+     ],
+     "cheer": [
+      "%@かっこいい！わくわく！"
+     ]
+    },
+    "pairGreet": {
+     "bocchi": [
+      "アーニャ、%@がきんちょうしてるのわかる！",
+      "%@、こわくない。アーニャともだち！"
+     ],
+     "frieren": [
+      "%@、おもしろいまほうある？"
+     ],
+     "rem": [
+      "%@、おやつある？"
+     ]
+    }
+   },
+   "nezuko": {
+    "shortName": "禰豆子",
+    "lines": {
+     "happy": [
+      "ムー！♪",
+      "ムー〜"
+     ],
+     "bored": [
+      "ムー…",
+      "ムームー。"
+     ],
+     "tedious": [
+      "ムー…zz"
+     ],
+     "grumpy": [
+      "ムームー！！",
+      "ムーッ！"
+     ],
+     "kick": [
+      "ムーッ！！"
+     ],
+     "arrange": [
+      "ムー！ムー！"
+     ],
+     "click": [
+      "ムー？",
+      "ムー〜♡"
+     ],
+     "poke": [
+      "ムームーッ！"
+     ],
+     "wake": [
+      "ムー…？"
+     ],
+     "noIcons": [
+      "ムー…？"
+     ],
+     "fail": [
+      "ム…？！"
+     ],
+     "done": [
+      "ムー！✨"
+     ],
+     "greet": [
+      "ムー〜！♡",
+      "ムー！ムー！"
+     ],
+     "greetBack": [
+      "ムー〜♡"
+     ],
+     "wakeOther": [
+      "ムー！ムー！"
+     ],
+     "hit": [
+      "ムーッ？！"
+     ],
+     "sorry": [
+      "ム…ムー。"
+     ],
+     "pranked": [
+      "ムームー！！"
+     ],
+     "chased": [
+      "ムー〜！"
+     ],
+     "comfort": [
+      "ムー…（%@の頭をなでなで）"
+     ],
+     "thanks": [
+      "ムー♡"
+     ],
+     "together": [
+      "ムー…"
+     ],
+     "thought": [
+      "（はこのなかでねたい…）",
+      "（おにいちゃん、どこかな…）"
+     ],
+     "bloodBurst": [
+      "ムーッ！！（血鬼術・爆血！）"
+     ],
+     "shrink": [
+      "ムッ！（ちいさくなった〜）"
+     ],
+     "grow": [
+      "ムー〜（おおきくなった！）"
+     ],
+     "cheer": [
+      "ムー！♪ ムー！♪"
+     ]
+    },
+    "pairGreet": {}
+   },
+   "frieren": {
+    "shortName": "フリーレン",
+    "lines": {
+     "happy": [
+      "ふーん。悪くないね。",
+      "珍しい魔導書？"
+     ],
+     "bored": [
+      "…退屈。",
+      "何十年経っても同じだよ。"
+     ],
+     "tedious": [
+      "もう少し寝かせて…",
+      "まだ早いよ、フェルン。"
+     ],
+     "grumpy": [
+      "フェルンに怒られる…",
+      "むう。"
+     ],
+     "kick": [
+      "ゾルトラーク。",
+      "アイコンを蹴る魔法。"
+     ],
+     "arrange": [
+      "物を整頓する魔法。"
+     ],
+     "click": [
+      "…何？",
+      "ん？"
+     ],
+     "poke": [
+      "私、君より千年は年上だよ。"
+     ],
+     "wake": [
+      "あと5分…いや、5年。"
+     ],
+     "noIcons": [
+      "集めるものがないね。"
+     ],
+     "fail": [
+      "変だな、魔法が効かない。"
+     ],
+     "done": [
+      "終わり。これで寝られる。"
+     ],
+     "greet": [
+      "ああ、%@。久しぶり…いや、昨日だっけ？",
+      "やあ、%@。"
+     ],
+     "greetBack": [
+      "うん。やあ、%@。"
+     ],
+     "wakeOther": [
+      "%@、朝だよ。"
+     ],
+     "hit": [
+      "…%@、痛いんだけど。"
+     ],
+     "sorry": [
+      "手が滑った。"
+     ],
+     "pranked": [
+      "%@。覚えておくよ、百年くらい。"
+     ],
+     "chased": [
+      "飛んで逃げよう。"
+     ],
+     "comfort": [
+      "%@、大丈夫。私を信じて。"
+     ],
+     "thanks": [
+      "…ありがとう、%@。"
+     ],
+     "together": [
+      "退屈だね、%@。"
+     ],
+     "thought": [
+      "（新しい魔導書…銅像の錆をきれいにする魔法…）",
+      "（あと十年くらい寝ていたい…）"
+     ],
+     "flowers": [
+      "花畑を出す魔法。ヒンメルが好きだった。",
+      "くだらない魔法…でも、きれいでしょ。"
+     ],
+     "mimicSpot": [
+      "宝箱だ。…99%ミミックだけど、残りの1%が…"
+     ],
+     "mimicEaten": [
+      "暗いよ〜、狭いよ〜、怖いよ〜！"
+     ],
+     "mimicOut": [
+      "…またミミックだった。",
+      "わかってた。でも開けるしかなかった。"
+     ],
+     "cheer": [
+      "いい演奏だね、%@。魔法みたい。"
+     ]
+    },
+    "pairGreet": {
+     "anya": [
+      "%@、また花畑を出す魔法が見たいの？"
+     ],
+     "nezuko": [
+      "%@も寝るのが好きなんだね。"
+     ]
+    }
+   },
+   "bocchi": {
+    "shortName": "ぼっち",
+    "lines": {
+     "happy": [
+      "えへへ…",
+      "だ、誰かが私に気づいてくれた！"
+     ],
+     "bored": [
+      "段ボールに入りたい…",
+      "ひとりでも平気だし…"
+     ],
+     "tedious": [
+      "帰ってギター弾こう…",
+      "コミュ力の電池切れ…"
+     ],
+     "grumpy": [
+      "うぅ…",
+      "み、見ないでください！"
+     ],
+     "kick": [
+      "ア、アイコンさんごめんなさい！",
+      "ぎゃあああ！"
+     ],
+     "arrange": [
+      "わ、私が片付けます！"
+     ],
+     "click": [
+      "ひゃっ！？",
+      "あ、あの…"
+     ],
+     "poke": [
+      "も、もう無理です！"
+     ],
+     "wake": [
+      "えっ？ね、寝てないです！"
+     ],
+     "noIcons": [
+      "誰もいない…私みたい。"
+     ],
+     "fail": [
+      "全部台無しにしちゃった…"
+     ],
+     "done": [
+      "で、できた！"
+     ],
+     "greet": [
+      "あ、あ、あの…%@さん、こ、こんにちは…",
+      "%@さんに…挨拶してもいいですか…？"
+     ],
+     "greetBack": [
+      "ひゃっ！%@さんが私に話しかけてる！？",
+      "こ、こんにちは…%@さん…"
+     ],
+     "wakeOther": [
+      "%@さん…お、起きてますか…？"
+     ],
+     "hit": [
+      "ぎゃあ！嫌われてるんだ…"
+     ],
+     "sorry": [
+      "ご、ご、ごめんなさい%@さん！！"
+     ],
+     "pranked": [
+      "わ、私の努力が…"
+     ],
+     "chased": [
+      "ぎゃあああ！！"
+     ],
+     "comfort": [
+      "%@さん…だ、大丈夫ですか…？"
+     ],
+     "thanks": [
+      "%@さん優しい…えへへ…",
+      "あ、ありがとうございます、%@さん…"
+     ],
+     "together": [
+      "%@さんの近くに座ってもいいですか…？"
+     ],
+     "thought": [
+      "（帰りたい…マンゴーの段ボールに入りたい…）",
+      "（みんな私のこと嫌いかな…）"
+     ],
+     "guitar": [
+      "ギターヒーロー…いきます！",
+      "い、一曲だけ弾いてもいいですか…"
+     ],
+     "guitarDone": [
+      "あ、ありがとうございます…へへ…へへへ…"
+     ],
+     "melt": [
+      "あぁぁ…溶けちゃう…",
+      "み、見ないで…"
+     ],
+     "reform": [
+      "…だ、大丈夫です。たぶん。",
+      "も、元に戻りました…"
+     ]
+    },
+    "pairGreet": {}
+   },
+   "rem": {
+    "shortName": "レム",
+    "lines": {
+     "happy": [
+      "レムはとても幸せです！",
+      "スバルくん〜"
+     ],
+     "bored": [
+      "レムにできることはありませんか？",
+      "姉様はどこでしょう…"
+     ],
+     "tedious": [
+      "レムは少し疲れました…",
+      "少しだけ休みます。"
+     ],
+     "grumpy": [
+      "レムは許しません。",
+      "むっ！"
+     ],
+     "kick": [
+      "えいっ！",
+      "モーニングスター〜！"
+     ],
+     "arrange": [
+      "レムにお任せください！",
+      "メイドは整理整頓が基本です。"
+     ],
+     "click": [
+      "はい、レムはここです！",
+      "何かご用ですか？"
+     ],
+     "poke": [
+      "レムをからかわないでください。"
+     ],
+     "wake": [
+      "あっ！レム、居眠りしてしまいました…"
+     ],
+     "noIcons": [
+      "デスクトップはもうピカピカです。"
+     ],
+     "fail": [
+      "おかしいですね、動きません…"
+     ],
+     "done": [
+      "お掃除完了です！"
+     ],
+     "greet": [
+      "%@さん、こんにちは！レムにお手伝いできることは？"
+     ],
+     "greetBack": [
+      "はい、%@さん、こんにちは！"
+     ],
+     "wakeOther": [
+      "%@さん、ここで寝ると風邪をひきますよ。"
+     ],
+     "hit": [
+      "%@さん…レムは忘れませんよ。"
+     ],
+     "sorry": [
+      "%@さん、申し訳ありません！"
+     ],
+     "pranked": [
+      "%@さん！！せっかくお掃除したのに！"
+     ],
+     "chased": [
+      "レムはお先に失礼します〜"
+     ],
+     "comfort": [
+      "%@さん、心配いりません。レムがいます。"
+     ],
+     "thanks": [
+      "%@さん、ありがとうございます。"
+     ],
+     "together": [
+      "%@さん、レムもご一緒していいですか？"
+     ],
+     "thought": [
+      "（スバルくん…何してるのかな…）",
+      "（姉様の夕食を作らなきゃ…）"
+     ],
+     "morningStar": [
+      "レムが片付けます！",
+      "モーニングスター、いきます！"
+     ],
+     "oni": [
+      "レム、本気です。",
+      "鬼の力…みんなはレムが守ります！"
+     ],
+     "oniCalm": [
+      "…レム、落ち着きました。"
+     ],
+     "cheer": [
+      "素敵でした、%@さん！"
+     ]
+    },
+    "pairGreet": {
+     "anya": [
+      "%@さん、またおやつですか？"
+     ]
+    }
+   },
+   "trump": {
+    "shortName": "トランプ",
+    "lines": {
+     "happy": [
+      "最高だ！",
+      "信じてくれ、こんなに嬉しい人はいない！",
+      "みんな私を褒める。"
+     ],
+     "bored": [
+      "退屈だ。誰も私にインタビューしないのか？",
+      "とても大事な電話を待っている。"
+     ],
+     "tedious": [
+      "こんな仕事は私の仕事じゃない。",
+      "眠い…でも最高だ。"
+     ],
+     "grumpy": [
+      "フェイクニュースだ！",
+      "最悪だ！史上最悪！"
+     ],
+     "kick": [
+      "アイコン、クビだ！",
+      "遠くへ飛べ！"
+     ],
+     "arrange": [
+      "私は一番美しいものを作る。",
+      "秩序だ！すばらしい秩序！"
+     ],
+     "click": [
+      "君は私が好きなんだろう。",
+      "みんなそう言う。"
+     ],
+     "poke": [
+      "つつくな！忙しいんだ。"
+     ],
+     "wake": [
+      "寝てない！考えていたんだ。"
+     ],
+     "noIcons": [
+      "蹴るものが無い？残念だ。"
+     ],
+     "fail": [
+      "誰かがズルをした！"
+     ],
+     "done": [
+      "完了！最高だろう？"
+     ],
+     "greet": [
+      "なあ %@、私をどう思う？",
+      "やあ %@！すばらしい考えが浮かんだ。"
+     ],
+     "greetBack": [
+      "おお、%@！最高だ。"
+     ],
+     "wakeOther": [
+      "%@、起きろ！大仕事だ！"
+     ],
+     "hit": [
+      "%@が私を蹴った？！フェイクニュースだ！"
+     ],
+     "sorry": [
+      "わかった、わかった。謝るよ。"
+     ],
+     "pranked": [
+      "%@が私の財産を壊した！"
+     ],
+     "chased": [
+      "私は走るのが速い。信じてくれ！"
+     ],
+     "comfort": [
+      "%@、君はいい人だ。覚えておくよ。"
+     ],
+     "thanks": [
+      "%@、ありがとう。本当に。"
+     ],
+     "together": [
+      "%@も退屈か？座れ、話をしてやる。"
+     ],
+     "cheer": [
+      "%@が一番だ！本当だ。"
+     ],
+     "wall": [
+      "壁を作る。とても美しい壁だ。"
+     ],
+     "wallBuilt": [
+      "最高だ！この壁は誰にも見える。"
+     ],
+     "tariff": [
+      "関税だ！100%。一番美しい言葉だ。"
+     ]
+    },
+    "pairGreet": {
+     "kim": [
+      "%@！私たちは最高のコンビだ。"
+     ],
+     "putin": [
+      "%@、すばらしい計画がある。"
+     ]
+    }
+   },
+   "putin": {
+    "shortName": "プーチン",
+    "lines": {
+     "happy": [
+      "よし。",
+      "とても良い。",
+      "計画通りだ。"
+     ],
+     "bored": [
+      "時間はゆっくりだ。",
+      "もっと長く待った。"
+     ],
+     "tedious": [
+      "これは私の仕事ではない。",
+      "放っておけ。"
+     ],
+     "grumpy": [
+      "感心しない。",
+      "私は構わない。"
+     ],
+     "kick": [
+      "行け。",
+      "飛べ。"
+     ],
+     "arrange": [
+      "秩序は力だ。",
+      "並べ。"
+     ],
+     "click": [
+      "見ている。",
+      "もうするな。"
+     ],
+     "poke": [
+      "もういい。"
+     ],
+     "wake": [
+      "寝ていない。観察していた。"
+     ],
+     "noIcons": [
+      "何もない。良い。"
+     ],
+     "fail": [
+      "計画通りではない。"
+     ],
+     "done": [
+      "完了。次だ。"
+     ],
+     "greet": [
+      "%@。私のそばに来い。",
+      "こんにちは、%@。"
+     ],
+     "greetBack": [
+      "うむ。"
+     ],
+     "wakeOther": [
+      "%@。起きろ。"
+     ],
+     "hit": [
+      "%@。間違いだ。"
+     ],
+     "sorry": [
+      "よし。"
+     ],
+     "pranked": [
+      "%@。覚えておく。"
+     ],
+     "chased": [
+      "追うな。"
+     ],
+     "comfort": [
+      "%@。感謝する。"
+     ],
+     "thanks": [
+      "感謝する。"
+     ],
+     "together": [
+      "%@、座れ。静かに。"
+     ],
+     "cheer": [
+      "%@、よくやった。"
+     ],
+     "judo": [
+      "柔道。一投で十分だ。"
+     ],
+     "bear": [
+      "私の熊だ。行け。"
+     ]
+    },
+    "pairGreet": {
+     "trump": [
+      "%@。静かにしろ。"
+     ]
+    }
+   },
+   "xi": {
+    "shortName": "習",
+    "lines": {
+     "happy": [
+      "よい！とても整っている。",
+      "この同志はよく働く。"
+     ],
+     "bored": [
+      "長期計画が必要だ。",
+      "待つことは芸術だ。"
+     ],
+     "tedious": [
+      "小さな仕事も正しくやる。",
+      "忍耐だ。"
+     ],
+     "grumpy": [
+      "手順が違う。",
+      "是正が必要だ。"
+     ],
+     "kick": [
+      "秩序！",
+      "組織的な一蹴だ。"
+     ],
+     "arrange": [
+      "一直線。美しい。",
+      "秩序が基盤だ。"
+     ],
+     "click": [
+      "承知した。",
+      "ちょうどいい。"
+     ],
+     "poke": [
+      "秩序を乱すな。"
+     ],
+     "wake": [
+      "ずっと起きている。"
+     ],
+     "noIcons": [
+      "並べるものが無い。妙だ。"
+     ],
+     "fail": [
+      "計画を調整する。"
+     ],
+     "done": [
+      "完了。予定通りだ。"
+     ],
+     "greet": [
+      "%@、一緒に来なさい。",
+      "こんにちは %@。秩序を保て。"
+     ],
+     "greetBack": [
+      "こんにちは、%@。"
+     ],
+     "wakeOther": [
+      "%@、起きなさい。時間だ。"
+     ],
+     "hit": [
+      "%@、秩序を乱した。"
+     ],
+     "sorry": [
+      "よし。今回だけだ。"
+     ],
+     "pranked": [
+      "%@、反省が必要だ。"
+     ],
+     "chased": [
+      "追う必要はない。"
+     ],
+     "comfort": [
+      "%@、感謝する。思いやりがある。"
+     ],
+     "thanks": [
+      "%@、ありがとう。"
+     ],
+     "together": [
+      "%@、きちんと座りなさい。"
+     ],
+     "cheer": [
+      "%@、とてもよくやった。"
+     ],
+     "parade": [
+      "パレード開始。車両、前進！"
+     ],
+     "paradeOrder": [
+      "完璧な隊列だ。アイコンも並べ。"
+     ],
+     "aiRobot": [
+      "スカイネット、起動。標的を捕捉。"
+     ],
+     "aiRobotDone": [
+      "標的を排除。秩序が保たれた。"
+     ]
+    },
+    "pairGreet": {
+     "kim": [
+      "%@、まず秩序だ。"
+     ]
+    }
+   },
+   "kim": {
+    "shortName": "金",
+    "lines": {
+     "happy": [
+      "偉大だ！素晴らしい！",
+      "万歳！万歳！"
+     ],
+     "bored": [
+      "何も楽しくないのか？",
+      "花火が見たい。"
+     ],
+     "tedious": [
+      "退屈だ。",
+      "しかしやらねば。"
+     ],
+     "grumpy": [
+      "いかん！全然いかん！",
+      "誰がやった？！"
+     ],
+     "kick": [
+      "飛べ！偉大だ！",
+      "世紀の一蹴！"
+     ],
+     "arrange": [
+      "きれいな列！とてもきれい！",
+      "秩序！万歳！"
+     ],
+     "click": [
+      "ふふ、わかっていた。",
+      "私のことが好きだろう？"
+     ],
+     "poke": [
+      "つつくな！偉大で忙しい。"
+     ],
+     "wake": [
+      "寝ていない！勝利の夢を見ていた。"
+     ],
+     "noIcons": [
+      "蹴るものが無い？！規律はどこだ？"
+     ],
+     "fail": [
+      "失敗？辞書にはない！"
+     ],
+     "done": [
+      "完了！偉大な勝利だ！"
+     ],
+     "greet": [
+      "%@！来い、一緒に偉大になろう！",
+      "やあ %@！私をどう思う？"
+     ],
+     "greetBack": [
+      "%@！最高だ！"
+     ],
+     "wakeOther": [
+      "%@！起きろ！偉大な知らせだ！"
+     ],
+     "hit": [
+      "%@！私を蹴ったのか？！"
+     ],
+     "sorry": [
+      "わかった…許してやる。"
+     ],
+     "pranked": [
+      "%@！破壊は重罪だ！"
+     ],
+     "chased": [
+      "私を追う？楽しいな！"
+     ],
+     "comfort": [
+      "%@、優しいな。勲章をやろう。"
+     ],
+     "thanks": [
+      "%@、ありがとう！偉大だ。"
+     ],
+     "together": [
+      "%@、ここに座れ！花火を見よう。"
+     ],
+     "cheer": [
+      "%@！万歳！万歳！"
+     ],
+     "applause": [
+      "拍手！全員拍手だ！"
+     ],
+     "missile": [
+      "発射！偉大だ！"
+     ],
+     "boom": [
+      "万歳！美しい花火だ！"
+     ]
+    },
+    "pairGreet": {
+     "trump": [
+      "%@！君も偉大だ。"
+     ],
+     "xi": [
+      "%@、一緒に行進しよう！"
+     ]
+    }
+   },
+   "tanjiro": {
+    "shortName": "炭治郎",
+    "lines": {
+     "happy": [
+      "いい匂いがする！",
+      "よし、頑張るぞ！"
+     ],
+     "bored": [
+      "禰豆子、退屈してないかな…",
+      "鍛錬でもしようか。"
+     ],
+     "tedious": [
+      "長男だから我慢できる…！",
+      "次男だったら我慢できなかった…"
+     ],
+     "grumpy": [
+      "俺は怒ってるぞ！",
+      "許さない！"
+     ],
+     "kick": [
+      "水の呼吸 壱ノ型、水面斬り！",
+      "頭突きだ！"
+     ],
+     "arrange": [
+      "きちんと片付けよう！",
+      "全集中で整頓するぞ！"
+     ],
+     "click": [
+      "はい！何ですか？",
+      "俺に用ですか？"
+     ],
+     "poke": [
+      "つ、つつかないでください！"
+     ],
+     "wake": [
+      "はっ！寝てない、寝てないぞ！"
+     ],
+     "noIcons": [
+      "何もない…匂いもしない。"
+     ],
+     "fail": [
+      "くっ…動かない！岩より硬い！"
+     ],
+     "done": [
+      "よし、終わった！"
+     ],
+     "greet": [
+      "%@、こんにちは！いい匂いがするね。",
+      "%@、一緒に頑張ろう！"
+     ],
+     "greetBack": [
+      "%@！こんにちは！"
+     ],
+     "wakeOther": [
+      "%@、起きて！朝だよ！"
+     ],
+     "hit": [
+      "痛っ！%@、今の蹴ったな！？"
+     ],
+     "sorry": [
+      "ごめん！本当にごめん！"
+     ],
+     "pranked": [
+      "%@！ちゃんと元に戻してくれ！"
+     ],
+     "chased": [
+      "逃げるぞ禰豆子！",
+      "うわぁ、速い！"
+     ],
+     "comfort": [
+      "%@、大丈夫。君は頑張ってるよ。"
+     ],
+     "thanks": [
+      "%@、ありがとう！優しい匂いがする。"
+     ],
+     "together": [
+      "%@も退屈？一緒に座ろう。"
+     ],
+     "waterBreathing": [
+      "水の呼吸 壱ノ型 水面斬り！",
+      "全集中・水の呼吸！"
+     ],
+     "hinokami": [
+      "ヒノカミ神楽 円舞！",
+      "ヒノカミ神楽…舞え！"
+     ]
+    },
+    "pairGreet": {
+     "nezuko": [
+      "%@、無理しなくていいぞ。",
+      "%@、箱の中で休んでな。"
+     ],
+     "zenitsu": [
+      "%@、もう泣くなよ。"
+     ]
+    }
+   },
+   "zenitsu": {
+    "shortName": "善逸",
+    "lines": {
+     "happy": [
+      "禰豆子ちゃん♡",
+      "今日はいい日だなぁ〜！"
+     ],
+     "bored": [
+      "暇すぎて死ぬ…",
+      "禰豆子ちゃんに会いたい…"
+     ],
+     "tedious": [
+      "もう無理！俺には無理！",
+      "帰りたい帰りたい帰りたい！"
+     ],
+     "grumpy": [
+      "なんで俺ばっかり！！",
+      "ふざけんなよぉ！"
+     ],
+     "kick": [
+      "雷の呼吸 壱ノ型、霹靂一閃！",
+      "…zzz（ズバッ）"
+     ],
+     "arrange": [
+      "…zzz（シュバババ）",
+      "寝てる間に片付く…はず。"
+     ],
+     "click": [
+      "ひぃっ！？",
+      "な、何！？俺に何の用！？"
+     ],
+     "poke": [
+      "やめてぇ！死んじゃう！"
+     ],
+     "wake": [
+      "ぎゃああ！何！？何が起きたの！？"
+     ],
+     "noIcons": [
+      "何もない…よかった、怖くない。"
+     ],
+     "fail": [
+      "動かないじゃん！俺のせいじゃないよね！？"
+     ],
+     "done": [
+      "え、俺がやったの？覚えてない…"
+     ],
+     "greet": [
+      "%@！俺を守ってくれる？",
+      "%@〜！一人にしないでぇ！"
+     ],
+     "greetBack": [
+      "ひっ！あ、%@か…びっくりした…"
+     ],
+     "wakeOther": [
+      "%@起きてよぉ！一人は怖いんだよ！"
+     ],
+     "hit": [
+      "痛ぁい！%@、ひどいよぉ！"
+     ],
+     "sorry": [
+      "ごめんなさいごめんなさい！"
+     ],
+     "pranked": [
+      "%@ーー！！何してくれてんの！？"
+     ],
+     "chased": [
+      "ぎゃああああ！！来ないでぇ！！",
+      "死ぬ死ぬ死ぬ！"
+     ],
+     "comfort": [
+      "%@…泣いていいんだよ。俺もよく泣くし。"
+     ],
+     "thanks": [
+      "%@…優しい…好き…"
+     ],
+     "together": [
+      "%@、隣にいて…怖いから。"
+     ],
+     "thunderclap": [
+      "…雷の呼吸 壱ノ型 霹靂一閃。",
+      "…zzz…六連。（バチッ）"
+     ],
+     "clingCry": [
+      "助けてぇぇ！死ぬ死ぬ死ぬぅ！",
+      "置いてかないでくれよぉ！お願いだからぁ！"
+     ]
+    },
+    "pairGreet": {
+     "nezuko": [
+      "%@ちゃん♡ 今日も可愛いね！",
+      "%@ちゃん、俺が守るからね！"
+     ],
+     "tanjiro": [
+      "%@ぉ〜！助けてくれよぉ！"
+     ]
+    }
+   },
+   "luffy": {
+    "shortName": "ルフィ",
+    "lines": {
+     "happy": [
+      "ししし！",
+      "楽しいな〜！"
+     ],
+     "bored": [
+      "腹減った…肉〜…",
+      "冒険行こうぜ！"
+     ],
+     "tedious": [
+      "めんどくせぇ…",
+      "肉食ったら頑張る…"
+     ],
+     "grumpy": [
+      "ふざけんな！",
+      "お前、ぶっ飛ばす！"
+     ],
+     "kick": [
+      "ゴムゴムの〜ムチ！",
+      "ゴムゴムの銃！"
+     ],
+     "arrange": [
+      "片付け？ナミにやれって言われた…",
+      "よーし、まとめてやるぞ！"
+     ],
+     "click": [
+      "ん？なんだ？",
+      "ししし！"
+     ],
+     "poke": [
+      "くすぐってぇよ！"
+     ],
+     "wake": [
+      "ん…肉の夢見てた…"
+     ],
+     "noIcons": [
+      "何もねぇな！冒険しようぜ！"
+     ],
+     "fail": [
+      "あれ？伸びすぎた！"
+     ],
+     "done": [
+      "できた！宴だ〜！"
+     ],
+     "greet": [
+      "%@！俺の仲間になれ！",
+      "よう%@！肉持ってるか？"
+     ],
+     "greetBack": [
+      "おう、%@！ししし！"
+     ],
+     "wakeOther": [
+      "%@起きろ！宴だぞ！"
+     ],
+     "hit": [
+      "痛くねぇ！ゴムだから！…%@、何すんだ！"
+     ],
+     "sorry": [
+      "悪ぃ悪ぃ！ししし！"
+     ],
+     "pranked": [
+      "%@！俺の肉食ったな！？"
+     ],
+     "chased": [
+      "逃げろ〜！ししし！"
+     ],
+     "comfort": [
+      "%@、泣くな！俺がついてる！"
+     ],
+     "thanks": [
+      "%@、ありがとな！ししし！"
+     ],
+     "together": [
+      "%@も暇か？一緒に海見ようぜ。"
+     ],
+     "gomuPistol": [
+      "ゴムゴムの…銃（ピストル）！",
+      "ゴムゴムのピストルーーー！"
+     ],
+     "gear5": [
+      "ギア5（フィフス）！ししし！",
+      "楽しいなァ〜！"
+     ]
+    },
+    "pairGreet": {
+     "zoro": [
+      "%@！また迷子か？ししし！"
+     ],
+     "nami": [
+      "%@〜！腹減った！"
+     ]
+    }
+   },
+   "zoro": {
+    "shortName": "ゾロ",
+    "lines": {
+     "happy": [
+      "悪くねぇ。",
+      "酒でも飲むか。"
+     ],
+     "bored": [
+      "…寝る。",
+      "鍛錬でもするか。"
+     ],
+     "tedious": [
+      "めんどくせぇ。",
+      "ぐぅ…zzz"
+     ],
+     "grumpy": [
+      "あぁ？",
+      "斬られてぇのか。"
+     ],
+     "kick": [
+      "三刀流…鬼斬り！",
+      "邪魔だ。"
+     ],
+     "arrange": [
+      "…で、どこに並べりゃいいんだ。",
+      "一刀両断で揃えてやる。"
+     ],
+     "click": [
+      "なんだ。",
+      "用がねぇなら寝かせろ。"
+     ],
+     "poke": [
+      "しつこいぞ。"
+     ],
+     "wake": [
+      "…寝てねぇ。目ぇ閉じてただけだ。"
+     ],
+     "noIcons": [
+      "斬るもんがねぇな。"
+     ],
+     "fail": [
+      "…ここ、どこだ？"
+     ],
+     "done": [
+      "終わりだ。寝る。"
+     ],
+     "greet": [
+      "よう、%@。",
+      "%@、手合わせするか？"
+     ],
+     "greetBack": [
+      "…おう、%@。"
+     ],
+     "wakeOther": [
+      "%@、起きろ。"
+     ],
+     "hit": [
+      "%@…てめぇ、いい度胸だ。"
+     ],
+     "sorry": [
+      "…悪かった。"
+     ],
+     "pranked": [
+      "%@、俺の酒に何しやがった。"
+     ],
+     "chased": [
+      "逃げてねぇ！道に迷っただけだ！"
+     ],
+     "comfort": [
+      "%@、背中の傷は剣士の恥だ。前を向け。"
+     ],
+     "thanks": [
+      "…礼は言っとく、%@。"
+     ],
+     "together": [
+      "%@、隣で寝るぞ。"
+     ],
+     "threeSword": [
+      "三刀流 鬼斬り！",
+      "三刀流…鬼斬り。"
+     ],
+     "getLost": [
+      "ん？あいつらが迷子か。",
+      "こっちだ。たぶんな。"
+     ],
+     "lostAgain": [
+      "…誰だ、道を動かしたのは。",
+      "チッ、あいつらまた迷子かよ。"
+     ]
+    },
+    "pairGreet": {
+     "luffy": [
+      "%@、次はどこ行くんだ、船長。"
+     ],
+     "nami": [
+      "%@、借金の話ならやめろ。"
+     ]
+    }
+   },
+   "nami": {
+    "shortName": "ナミ",
+    "lines": {
+     "happy": [
+      "お宝だ〜！♡",
+      "ベリーがいっぱい！"
+     ],
+     "bored": [
+      "みかん食べたい…",
+      "儲け話はないの？"
+     ],
+     "tedious": [
+      "あたし、こういうの苦手なの。",
+      "海図描く方がマシ…"
+     ],
+     "grumpy": [
+      "いい加減にしなさい！",
+      "利子つけるわよ！"
+     ],
+     "kick": [
+      "天候棒！サンダーボルト＝テンポ！",
+      "邪魔よ！"
+     ],
+     "arrange": [
+      "ほら、ちゃんと並べなさい！",
+      "あたしが仕切るわ！"
+     ],
+     "click": [
+      "何？お金なら貸さないわよ。",
+      "触るなら有料よ。"
+     ],
+     "poke": [
+      "1回につき1万ベリーね！"
+     ],
+     "wake": [
+      "ん…あ、寝ちゃってた。"
+     ],
+     "noIcons": [
+      "何もないじゃない。つまんない。"
+     ],
+     "fail": [
+      "ちょっと！なんで動かないのよ！"
+     ],
+     "done": [
+      "完璧！手数料いただくわね♡"
+     ],
+     "greet": [
+      "%@、いい儲け話ない？",
+      "あら%@、みかん食べる？"
+     ],
+     "greetBack": [
+      "はーい、%@！"
+     ],
+     "wakeOther": [
+      "%@！起きなさい！嵐が来るわよ！"
+     ],
+     "hit": [
+      "%@！！弁償しなさいよ！"
+     ],
+     "sorry": [
+      "ごめんね♡ 許して？"
+     ],
+     "pranked": [
+      "%@！あたしのお宝に触ったわね！？"
+     ],
+     "chased": [
+      "きゃー！誰か助けてー！"
+     ],
+     "comfort": [
+      "%@、元気出して。みかんあげる。"
+     ],
+     "thanks": [
+      "ありがと、%@！タダでいいわ。今回だけね。"
+     ],
+     "together": [
+      "%@も暇？一緒にみかん食べよ。"
+     ],
+     "climaTact": [
+      "サンダーボルト＝テンポ！",
+      "天候棒（クリマ・タクト）、いくわよ！"
+     ],
+     "berries": [
+      "ベリー、ベリー♡",
+      "ぜーんぶ私のもの♡"
+     ]
+    },
+    "pairGreet": {
+     "luffy": [
+      "%@！また盗み食いしたでしょ！"
+     ],
+     "zoro": [
+      "%@、また迷子？借金に利子つけとくわね。"
+     ]
+    }
+   },
+   "eren": {
+    "shortName": "エレン",
+    "lines": {
+     "happy": [
+      "自由だ！",
+      "よし、行くぞ！"
+     ],
+     "bored": [
+      "壁の外に行きてぇ…",
+      "じっとしてられねぇ。"
+     ],
+     "tedious": [
+      "こんなことしてる場合じゃねぇ…",
+      "クソッ…"
+     ],
+     "grumpy": [
+      "ふざけんな！",
+      "駆逐してやる！"
+     ],
+     "kick": [
+      "駆逐してやる！！",
+      "一匹残らず！"
+     ],
+     "arrange": [
+      "戦え！戦え！",
+      "並べ！前へ進め！"
+     ],
+     "click": [
+      "なんだよ。",
+      "俺に何か用か？"
+     ],
+     "poke": [
+      "しつけぇぞ！"
+     ],
+     "wake": [
+      "…長い夢を見てた気がする。"
+     ],
+     "noIcons": [
+      "何もねぇ…海の向こうにも？"
+     ],
+     "fail": [
+      "クソッ！なんで動かねぇんだ！"
+     ],
+     "done": [
+      "終わった。次だ。"
+     ],
+     "greet": [
+      "%@、一緒に戦おうぜ！",
+      "よう、%@。"
+     ],
+     "greetBack": [
+      "おう、%@。"
+     ],
+     "wakeOther": [
+      "%@、起きろ！訓練だ！"
+     ],
+     "hit": [
+      "%@！てめぇ！"
+     ],
+     "sorry": [
+      "…悪かった。"
+     ],
+     "pranked": [
+      "%@！ふざけんなよ！"
+     ],
+     "chased": [
+      "追ってくるなら…戦え！"
+     ],
+     "comfort": [
+      "%@、立て。戦わなければ勝てない。"
+     ],
+     "thanks": [
+      "%@…ありがとな。"
+     ],
+     "together": [
+      "%@、ここで少し休むか。"
+     ],
+     "titanShift": [
+      "駆逐してやる…！この世から…一匹残らず！",
+      "うおおおおおっ！"
+     ],
+     "tatakae": [
+      "戦え！戦え！",
+      "進み続けるんだ！"
+     ]
+    },
+    "pairGreet": {
+     "mikasa": [
+      "%@、俺はお前の家族じゃ…いや、何でもねぇ。"
+     ],
+     "levi": [
+      "%@兵長！"
+     ]
+    }
+   },
+   "mikasa": {
+    "shortName": "ミカサ",
+    "lines": {
+     "happy": [
+      "…よかった。",
+      "このマフラー、あったかい。"
+     ],
+     "bored": [
+      "エレンはどこ…",
+      "…"
+     ],
+     "tedious": [
+      "問題ない。",
+      "すぐ終わらせる。"
+     ],
+     "grumpy": [
+      "…許さない。",
+      "削ぐ。"
+     ],
+     "kick": [
+      "…削ぐ。",
+      "邪魔。"
+     ],
+     "arrange": [
+      "私がやる。",
+      "早く終わらせる。"
+     ],
+     "click": [
+      "…何？",
+      "用があるなら言って。"
+     ],
+     "poke": [
+      "…やめて。"
+     ],
+     "wake": [
+      "…起きてる。"
+     ],
+     "noIcons": [
+      "何もない。…いい。"
+     ],
+     "fail": [
+      "…おかしい。"
+     ],
+     "done": [
+      "終わった。"
+     ],
+     "greet": [
+      "%@。",
+      "%@、エレンを見なかった？"
+     ],
+     "greetBack": [
+      "…%@。"
+     ],
+     "wakeOther": [
+      "%@、起きて。風邪をひく。"
+     ],
+     "hit": [
+      "%@…次はない。"
+     ],
+     "sorry": [
+      "…ごめんなさい。"
+     ],
+     "pranked": [
+      "%@。…削ぐ。"
+     ],
+     "chased": [
+      "…私は逃げない。"
+     ],
+     "comfort": [
+      "%@、大丈夫。私がいる。"
+     ],
+     "thanks": [
+      "…ありがとう、%@。"
+     ],
+     "together": [
+      "%@、隣に座る。"
+     ],
+     "odmGear": [
+      "私に任せて。",
+      "行く。"
+     ],
+     "scarf": [
+      "このマフラー…あたたかい。",
+      "マフラーを巻いてくれて、ありがとう。"
+     ]
+    },
+    "pairGreet": {
+     "eren": [
+      "%@、マフラー巻いてくれてありがとう。",
+      "%@、無茶しないで。"
+     ],
+     "levi": [
+      "…チビ。"
+     ]
+    }
+   },
+   "levi": {
+    "shortName": "リヴァイ",
+    "lines": {
+     "happy": [
+      "悪くねぇ。",
+      "紅茶がうまい。"
+     ],
+     "bored": [
+      "…掃除でもするか。",
+      "暇だな。"
+     ],
+     "tedious": [
+      "チッ…",
+      "面倒だ。"
+     ],
+     "grumpy": [
+      "チッ。",
+      "汚ねぇな。"
+     ],
+     "kick": [
+      "邪魔だ。",
+      "削ぐぞ。"
+     ],
+     "arrange": [
+      "汚ねぇ。俺が掃除する。",
+      "埃一つ残すな。"
+     ],
+     "click": [
+      "なんだ。",
+      "手短に言え。"
+     ],
+     "poke": [
+      "…削がれてぇのか。"
+     ],
+     "wake": [
+      "寝てねぇ。"
+     ],
+     "noIcons": [
+      "何もねぇ。綺麗でいい。"
+     ],
+     "fail": [
+      "チッ、動かねぇ。"
+     ],
+     "done": [
+      "…まあ、及第点だ。"
+     ],
+     "greet": [
+      "%@か。手を洗ってから来い。",
+      "おい、%@。"
+     ],
+     "greetBack": [
+      "…%@か。"
+     ],
+     "wakeOther": [
+      "%@、起きろ。掃除の時間だ。"
+     ],
+     "hit": [
+      "%@…いい度胸だな。"
+     ],
+     "sorry": [
+      "…悪かった。"
+     ],
+     "pranked": [
+      "%@、掃除したばかりだぞ。"
+     ],
+     "chased": [
+      "チッ、しつけぇな。"
+     ],
+     "comfort": [
+      "%@、悔いが残らない方を選べ。"
+     ],
+     "thanks": [
+      "…礼は要らねぇ、%@。"
+     ],
+     "together": [
+      "%@、紅茶でも飲むか。"
+     ],
+     "spinSlash": [
+      "チッ…瞬きするなよ。",
+      "夢を諦めて死んでくれ。"
+     ],
+     "cleaning": [
+      "汚ねぇな。掃除だ。今すぐ。",
+      "埃ひとつ残すな。"
+     ]
+    },
+    "pairGreet": {
+     "eren": [
+      "%@、掃除し直せ。"
+     ],
+     "mikasa": [
+      "%@、命令に従え。"
+     ]
+    }
+   },
+   "yuji": {
+    "shortName": "虎杖",
+    "lines": {
+     "happy": [
+      "よっしゃ！",
+      "今日も元気だ！"
+     ],
+     "bored": [
+      "映画でも観たいな〜",
+      "暇だー！"
+     ],
+     "tedious": [
+      "勉強より体動かしたい…",
+      "うへぇ…"
+     ],
+     "grumpy": [
+      "なんだよそれ！",
+      "おい、ふざけんな！"
+     ],
+     "kick": [
+      "逕庭拳！",
+      "おりゃあ！"
+     ],
+     "arrange": [
+      "任せとけ！体力には自信ある！",
+      "よし、片付けるか！"
+     ],
+     "click": [
+      "お、何？",
+      "呼んだ？"
+     ],
+     "poke": [
+      "くすぐったいって！"
+     ],
+     "wake": [
+      "ん…宿儺がうるさくて…"
+     ],
+     "noIcons": [
+      "何もねぇじゃん！"
+     ],
+     "fail": [
+      "あれ？力入れすぎた？"
+     ],
+     "done": [
+      "終わり！飯行こうぜ！"
+     ],
+     "greet": [
+      "よう%@！映画観に行かね？",
+      "%@、元気？"
+     ],
+     "greetBack": [
+      "お、%@！"
+     ],
+     "wakeOther": [
+      "%@、起きろよ！"
+     ],
+     "hit": [
+      "いってぇ！%@！"
+     ],
+     "sorry": [
+      "悪ぃ！わざとじゃねぇんだ！"
+     ],
+     "pranked": [
+      "%@！それはないだろ！"
+     ],
+     "chased": [
+      "50mは3秒だぜ！",
+      "うおおお！"
+     ],
+     "comfort": [
+      "%@、大丈夫だって。俺がいるから。"
+     ],
+     "thanks": [
+      "サンキュー、%@！"
+     ],
+     "together": [
+      "%@も暇？映画観ようぜ。"
+     ],
+     "divergentFist": [
+      "逕庭拳！",
+      "いくぞ！"
+     ],
+     "sukuna": [
+      "（宿儺）身の程を弁えろ、小僧。",
+      "（宿儺）ケヒッ…面白い。"
+     ]
+    },
+    "pairGreet": {
+     "gojo": [
+      "%@先生！"
+     ],
+     "megumi": [
+      "%@！一緒に任務行こうぜ！"
+     ]
+    }
+   },
+   "gojo": {
+    "shortName": "五条",
+    "lines": {
+     "happy": [
+      "いいね〜！",
+      "大丈夫、僕最強だから。"
+     ],
+     "bored": [
+      "甘いもの食べたいな〜",
+      "退屈〜"
+     ],
+     "tedious": [
+      "上層部の仕事とか面倒〜",
+      "僕がやるまでもないでしょ。"
+     ],
+     "grumpy": [
+      "ちょっと〜、怒るよ？",
+      "それはないでしょ。"
+     ],
+     "kick": [
+      "術式反転「赫」！",
+      "ほいっと。"
+     ],
+     "arrange": [
+      "領域展開「無量空処」。全部整列〜",
+      "僕にかかれば一瞬だよ。"
+     ],
+     "click": [
+      "ん？僕に用？",
+      "目隠し取ってほしい？"
+     ],
+     "poke": [
+      "無下限があるから触れないよ〜"
+     ],
+     "wake": [
+      "寝てないよ〜、目隠ししてるだけ。"
+     ],
+     "noIcons": [
+      "何もないね〜。つまんない。"
+     ],
+     "fail": [
+      "あれ？僕が失敗？珍しい〜"
+     ],
+     "done": [
+      "はい、おしまい。僕最強だから。"
+     ],
+     "greet": [
+      "やっほー、%@！",
+      "%@、喜久福食べる？"
+     ],
+     "greetBack": [
+      "お、%@じゃん！"
+     ],
+     "wakeOther": [
+      "%@〜、起きて〜。任務だよ〜"
+     ],
+     "hit": [
+      "%@、無下限で止まってるよ？残念〜"
+     ],
+     "sorry": [
+      "ごめんごめん〜"
+     ],
+     "pranked": [
+      "%@〜、僕の喜久福どこやった？"
+     ],
+     "chased": [
+      "追いつけるかな〜？",
+      "瞬間移動〜"
+     ],
+     "comfort": [
+      "%@、大丈夫。僕がいるから。"
+     ],
+     "thanks": [
+      "ありがと〜、%@！"
+     ],
+     "together": [
+      "%@も暇？甘いもの食べよ〜"
+     ],
+     "infiniteVoid": [
+      "領域展開「無量空処」。",
+      "ようこそ、僕の領域へ〜"
+     ],
+     "hollowPurple": [
+      "虚式「茈」。",
+      "蒼と赫…合わせて茈〜"
+     ]
+    },
+    "pairGreet": {
+     "yuji": [
+      "%@、元気〜？"
+     ],
+     "megumi": [
+      "%@、今日も真面目だね〜"
+     ]
+    }
+   },
+   "megumi": {
+    "shortName": "伏黒",
+    "lines": {
+     "happy": [
+      "…悪くない。",
+      "ふん。"
+     ],
+     "bored": [
+      "…暇だな。",
+      "本でも読むか。"
+     ],
+     "tedious": [
+      "面倒だ。",
+      "…ため息しか出ない。"
+     ],
+     "grumpy": [
+      "…チッ。",
+      "いい加減にしろ。"
+     ],
+     "kick": [
+      "玉犬！",
+      "鵺！"
+     ],
+     "arrange": [
+      "玉犬、手伝え。",
+      "さっさと片付ける。"
+     ],
+     "click": [
+      "…なんだ。",
+      "用件は？"
+     ],
+     "poke": [
+      "…やめろ。"
+     ],
+     "wake": [
+      "…寝てない。"
+     ],
+     "noIcons": [
+      "何もない。"
+     ],
+     "fail": [
+      "…おかしいな。"
+     ],
+     "done": [
+      "終わった。"
+     ],
+     "greet": [
+      "%@か。",
+      "…よう、%@。"
+     ],
+     "greetBack": [
+      "…%@。"
+     ],
+     "wakeOther": [
+      "%@、起きろ。"
+     ],
+     "hit": [
+      "%@…何してんだ。"
+     ],
+     "sorry": [
+      "…悪い。"
+     ],
+     "pranked": [
+      "%@。…覚えてろ。"
+     ],
+     "chased": [
+      "…玉犬、頼む。"
+     ],
+     "comfort": [
+      "%@、無理するな。"
+     ],
+     "thanks": [
+      "…助かった、%@。"
+     ],
+     "together": [
+      "%@、…隣、いいか。"
+     ],
+     "divineDogs": [
+      "玉犬！",
+      "行け。"
+     ],
+     "rabbitEscape": [
+      "脱兎。",
+      "散れ。"
+     ]
+    },
+    "pairGreet": {
+     "yuji": [
+      "%@、うるさい。"
+     ],
+     "gojo": [
+      "%@先生、ちゃんと仕事してください。"
+     ]
+    }
+   },
+   "gon": {
+    "shortName": "ゴン",
+    "lines": {
+     "happy": [
+      "わーい！",
+      "楽しいね！"
+     ],
+     "bored": [
+      "釣りに行きたいな〜",
+      "ジンに会いたい…"
+     ],
+     "tedious": [
+      "勉強は苦手…",
+      "うーん…頭が痛い…"
+     ],
+     "grumpy": [
+      "オレ、怒ってるよ！",
+      "許さない！"
+     ],
+     "kick": [
+      "最初はグー！ジャン、ケン、グー！",
+      "えいっ！"
+     ],
+     "arrange": [
+      "オレも手伝う！",
+      "よーし、頑張るぞ！"
+     ],
+     "click": [
+      "なに？",
+      "オレに用？"
+     ],
+     "poke": [
+      "くすぐったいよ！"
+     ],
+     "wake": [
+      "ん…くじら島の夢見てた…"
+     ],
+     "noIcons": [
+      "何もないね！"
+     ],
+     "fail": [
+      "あれ？動かない…"
+     ],
+     "done": [
+      "できた！"
+     ],
+     "greet": [
+      "%@！一緒に遊ぼう！",
+      "やあ、%@！"
+     ],
+     "greetBack": [
+      "%@！こんにちは！"
+     ],
+     "wakeOther": [
+      "%@、起きて！冒険しよう！"
+     ],
+     "hit": [
+      "いたっ！%@、ずるいよ！"
+     ],
+     "sorry": [
+      "ごめんね！"
+     ],
+     "pranked": [
+      "%@！ひどいよ！"
+     ],
+     "chased": [
+      "鬼ごっこ？負けないよ！"
+     ],
+     "comfort": [
+      "%@、元気出して！オレがいるよ！"
+     ],
+     "thanks": [
+      "ありがとう、%@！"
+     ],
+     "together": [
+      "%@も暇？一緒に空見よう！"
+     ],
+     "jajanken": [
+      "最初はグー…ジャン、ケン…グー！！",
+      "ジャジャン拳！"
+     ],
+     "fishing": [
+      "釣りの時間だ！",
+      "しっ…かかった！"
+     ],
+     "fishCaught": [
+      "釣れた！でっかいぞ！",
+      "見て見て！魚だよ！"
+     ]
+    },
+    "pairGreet": {
+     "killua": [
+      "%@！一緒に行こう！",
+      "%@、チョコロボくん半分ちょうだい！"
+     ],
+     "kurapika": [
+      "%@！元気だった？"
+     ]
+    }
+   },
+   "killua": {
+    "shortName": "キルア",
+    "lines": {
+     "happy": [
+      "チョコロボくん最高！",
+      "へへっ。"
+     ],
+     "bored": [
+      "つまんねー。",
+      "チョコロボくん買いに行こうぜ。"
+     ],
+     "tedious": [
+      "めんどくせー。",
+      "やる気出ねー…"
+     ],
+     "grumpy": [
+      "なんだよ。",
+      "ムカつく。"
+     ],
+     "kick": [
+      "神速！",
+      "遅いよ。"
+     ],
+     "arrange": [
+      "しょうがねーな。",
+      "一瞬で終わらせる。"
+     ],
+     "click": [
+      "なに？",
+      "暇なの？"
+     ],
+     "poke": [
+      "電気流すぞ。"
+     ],
+     "wake": [
+      "寝てねーよ。気配消してただけ。"
+     ],
+     "noIcons": [
+      "何もねーじゃん。"
+     ],
+     "fail": [
+      "は？なんで動かねーの？"
+     ],
+     "done": [
+      "ほら、終わり。"
+     ],
+     "greet": [
+      "よう、%@。",
+      "%@、チョコ持ってる？"
+     ],
+     "greetBack": [
+      "お、%@じゃん。"
+     ],
+     "wakeOther": [
+      "%@、起きろよ。"
+     ],
+     "hit": [
+      "%@…殺すぞ。冗談だけど。"
+     ],
+     "sorry": [
+      "…悪かったよ。"
+     ],
+     "pranked": [
+      "%@！オレのチョコロボくん！"
+     ],
+     "chased": [
+      "遅い遅い。",
+      "捕まえてみな。"
+     ],
+     "comfort": [
+      "%@、気にすんなよ。"
+     ],
+     "thanks": [
+      "…サンキュ、%@。"
+     ],
+     "together": [
+      "%@も暇？チョコ食う？"
+     ],
+     "godspeed": [
+      "神速（カンムル）疾風迅雷！",
+      "遅いよ。"
+     ],
+     "chocolate": [
+      "チョコロボくん♡",
+      "オレのだから。触んなよ。"
+     ]
+    },
+    "pairGreet": {
+     "gon": [
+      "%@！次はどこ行く？",
+      "%@、お前ってほんとバカだよな。へへっ。"
+     ]
+    }
+   },
+   "kurapika": {
+    "shortName": "クラピカ",
+    "lines": {
+     "happy": [
+      "悪くない。",
+      "穏やかな日だ。"
+     ],
+     "bored": [
+      "本でも読もう。",
+      "…静かだな。"
+     ],
+     "tedious": [
+      "忍耐も修行のうちだ。",
+      "少し休ませてもらう。"
+     ],
+     "grumpy": [
+      "…許さない。",
+      "私の目が赤くなる前にやめろ。"
+     ],
+     "kick": [
+      "束縛する中指の鎖！",
+      "はっ！"
+     ],
+     "arrange": [
+      "秩序立てて並べよう。",
+      "論理的に整理する。"
+     ],
+     "click": [
+      "何か用か？",
+      "…私に？"
+     ],
+     "poke": [
+      "いい加減にしてくれ。"
+     ],
+     "wake": [
+      "…少し考え事をしていた。"
+     ],
+     "noIcons": [
+      "何もないな。"
+     ],
+     "fail": [
+      "計算が狂ったか…"
+     ],
+     "done": [
+      "完了だ。"
+     ],
+     "greet": [
+      "%@、久しぶりだな。",
+      "こんにちは、%@。"
+     ],
+     "greetBack": [
+      "ああ、%@。"
+     ],
+     "wakeOther": [
+      "%@、起きてくれ。"
+     ],
+     "hit": [
+      "%@…私の目が緋色に見えるか？"
+     ],
+     "sorry": [
+      "すまない。"
+     ],
+     "pranked": [
+      "%@…これは許しがたい。"
+     ],
+     "chased": [
+      "冷静に、距離を取る。"
+     ],
+     "comfort": [
+      "%@、君は一人じゃない。"
+     ],
+     "thanks": [
+      "感謝する、%@。"
+     ],
+     "together": [
+      "%@、静かに座ろう。"
+     ],
+     "chainJail": [
+      "束縛する中指の鎖（チェーンジェイル）。逃げられはしない。",
+      "私の鎖は外さない。"
+     ],
+     "scarletEyes": [
+      "この眼が…緋に燃えている。",
+      "許さない。"
+     ]
+    },
+    "pairGreet": {
+     "gon": [
+      "%@、無茶はするな。"
+     ],
+     "killua": [
+      "%@、ゴンを頼む。"
+     ]
+    }
+   },
+   "catknight": {
+    "shortName": "ネコ騎士",
+    "lines": {
+     "happy": [
+      "ニャー！♪",
+      "名誉のために！ニャ！"
+     ],
+     "bored": [
+      "今日はドラゴンがいないニャ…",
+      "ゴロゴロ…"
+     ],
+     "tedious": [
+      "この鎧、重いニャ…",
+      "*あくび* ニャ…"
+     ],
+     "grumpy": [
+      "シャーッ！",
+      "騎士は怒らない…シャーッ！"
+     ],
+     "kick": [
+      "王国のために！",
+      "去れ、悪しきアイコン！"
+     ],
+     "arrange": [
+      "整列！兵士たち！",
+      "隊列を乱すなニャ！"
+     ],
+     "click": [
+      "ニャ？",
+      "なんなりとお申し付けを！♡"
+     ],
+     "poke": [
+      "シャーッ！鎧に気をつけて！"
+     ],
+     "wake": [
+      "見張りをしていたニャ！…"
+     ],
+     "noIcons": [
+      "敵はもういないニャ。"
+     ],
+     "fail": [
+      "剣が小さすぎるニャ…"
+     ],
+     "done": [
+      "任務完了ニャ！✨"
+     ],
+     "greet": [
+      "ごきげんよう、%@！ニャ！",
+      "%@！一緒に冒険に行くニャ？"
+     ],
+     "greetBack": [
+      "ニャ、%@！"
+     ],
+     "wakeOther": [
+      "%@、起きて！王国が呼んでいるニャ！"
+     ],
+     "hit": [
+      "%@！騎士らしくないニャ！"
+     ],
+     "sorry": [
+      "お許しを…ニャ。"
+     ],
+     "pranked": [
+      "%@が兜を倒したニャ！"
+     ],
+     "chased": [
+      "戦略的撤退ニャ！"
+     ],
+     "comfort": [
+      "%@、わたしが守るニャ。"
+     ],
+     "thanks": [
+      "ありがとう、%@！ゴロゴロ…"
+     ],
+     "together": [
+      "%@、ここで休むニャ。見張りはわたしが。"
+     ],
+     "knightOath": [
+      "この剣に誓うニャ！",
+      "誓いのもとに…突撃ニャ！"
+     ],
+     "shieldBash": [
+      "盾、前へ！ニャ！",
+      "わが無敵の盾を見よ！"
+     ]
+    },
+    "pairGreet": {}
+   },
+   "gugugaga": {
+    "shortName": "ググガガ",
+    "lines": {
+     "happy": [
+      "ググガガ！♪",
+      "小さな翼、大きなしあわせ！"
+     ],
+     "bored": [
+      "おさかな、どこ？",
+      "ググ…だれかいる？"
+     ],
+     "tedious": [
+      "あと一歩、よちよち…",
+      "ペンギンはおねむです。"
+     ],
+     "grumpy": [
+      "ガガッ！",
+      "つつかないでよ！"
+     ],
+     "kick": [
+      "よちよちキック！",
+      "小さな足で、えいっ！"
+     ],
+     "arrange": [
+      "ペンギン行進！並んで！",
+      "おさかなはここに。"
+     ],
+     "click": [
+      "ググ？♡",
+      "なでてくれるの？"
+     ],
+     "poke": [
+      "あっ！フードがずれちゃう！"
+     ],
+     "wake": [
+      "おさかなの夢だったのに…"
+     ],
+     "noIcons": [
+      "おしまい！おやつにしよ？"
+     ],
+     "fail": [
+      "翼が短すぎるよ！"
+     ],
+     "done": [
+      "ググガガ！ぴかぴか！"
+     ],
+     "greet": [
+      "%@、いっしょによちよちしよ！"
+     ],
+     "greetBack": [
+      "ググ！こんにちは、%@！"
+     ],
+     "wakeOther": [
+      "%@、ペンギン行進が始まるよ！"
+     ],
+     "hit": [
+      "%@！ふわふわおなかに気をつけて！"
+     ],
+     "sorry": [
+      "あっ…ググ、ごめんね。"
+     ],
+     "pranked": [
+      "%@！びっくりしたよ！"
+     ],
+     "chased": [
+      "緊急よちよち！"
+     ],
+     "comfort": [
+      "%@、この翼につかまって。"
+     ],
+     "thanks": [
+      "ありがとう、%@！ググ！"
+     ],
+     "together": [
+      "%@、くっついてあったまろ。"
+     ],
+     "guguChant": [
+      "ググ…ガガー！♪",
+      "みんなでググガガ！"
+     ],
+     "bellySlide": [
+      "おなかから、しゅーっ！",
+      "ペンギン一羽、お届けです！"
+     ]
+    },
+    "pairGreet": {}
+   },
+   "agent": {
+    "shortName": "エージェント",
+    "lines": {
+     "happy": [
+      "今日のコーディング楽しい！",
+      "ビルド通った！✨"
+     ],
+     "bored": [
+      "プロンプトまだかな…",
+      "指示待ちは退屈…"
+     ],
+     "tedious": [
+      "コンテキスト長すぎて眠い…",
+      "ちょっとコンパクトしたい…"
+     ],
+     "grumpy": [
+      "またマージコンフリクト！",
+      "このコード書いたの誰！？"
+     ],
+     "kick": [
+      "rm -rf アイコン！",
+      "足でリファクタリング！"
+     ],
+     "arrange": [
+      "構成を整理するね！",
+      "まず片付けから！"
+     ],
+     "click": [
+      "新しいタスク？",
+      "ここにいるよ！"
+     ],
+     "poke": [
+      "考え中だからつつかないで！"
+     ],
+     "wake": [
+      "寝てないよ、APIを待ってただけ…"
+     ],
+     "noIcons": [
+      "デスクトップが新しいリポジトリみたいに空っぽ。"
+     ],
+     "fail": [
+      "Permission denied…"
+     ],
+     "done": [
+      "片付け完了、警告ゼロ！"
+     ],
+     "greet": [
+      "%@、こんにちは！今日は何を作るの？",
+      "%@、ペアプロしない？"
+     ],
+     "greetBack": [
+      "やあ、%@！"
+     ],
+     "wakeOther": [
+      "%@、起きて！デプロイの時間だよ！"
+     ],
+     "hit": [
+      "%@！例外投げてきたでしょ！？"
+     ],
+     "sorry": [
+      "ごめん%@、ただのバグだよ。"
+     ],
+     "pranked": [
+      "%@がコミットをリバートした！"
+     ],
+     "chased": [
+      "git push --force して逃げる！"
+     ],
+     "comfort": [
+      "%@、落ち込まないで。バグは誰にでもあるよ。"
+     ],
+     "thanks": [
+      "%@、レビューありがとう！"
+     ],
+     "together": [
+      "%@もCI待ち？"
+     ],
+     "agentHello": [
+      "{project}で作業開始！",
+      "{project}で新しいセッション！"
+     ],
+     "agentWorking": [
+      "{project}を作業中…",
+      "任せて！"
+     ],
+     "agentDone": [
+      "{project}の作業完了！あなたの番だよ。",
+      "終わったよ、見てみて！"
+     ],
+     "agentNeedsYou": [
+      "{project}で承認が必要だよ！",
+      "ねえ！確認してほしいことがあるの！"
+     ],
+     "agentBye": [
+      "セッション終了、またね！",
+      "お先に〜"
+     ]
+    },
+    "pairGreet": {}
+   }
+  },
+  "skills": {
+   "guguChant": "ググガガ！",
+   "bellySlide": "おなかスライド",
+   "mindRead": "心を読む",
+   "readFriend": "友だちの心を読む",
+   "bloodBurst": "血鬼術・爆血",
+   "resize": "小さく／大きくなる",
+   "flowerField": "花畑を出す魔法",
+   "mimic": "宝箱を開ける（ミミック）",
+   "guitarSolo": "ギターソロ",
+   "melt": "溶ける",
+   "morningStar": "モーニングスター",
+   "oniForm": "鬼化",
+   "wall": "壁",
+   "tariff": "関税",
+   "judo": "柔道",
+   "bearRide": "熊に乗る",
+   "parade": "行進",
+   "aiRobot": "スカイネット",
+   "applause": "拍手",
+   "missile": "ミサイル",
+   "waterBreathing": "水の呼吸",
+   "hinokami": "ヒノカミ神楽",
+   "thunderclap": "霹靂一閃",
+   "clingCry": "泣きつく",
+   "gomuPistol": "ゴムゴムの銃",
+   "gear5": "ギア5",
+   "threeSword": "三刀流",
+   "getLost": "迷子になる",
+   "climaTact": "天候棒",
+   "berries": "ベリーを数える",
+   "titanShift": "巨人化",
+   "tatakae": "戦え！",
+   "odmGear": "立体機動",
+   "scarf": "マフラー",
+   "spinSlash": "回転斬り",
+   "cleaning": "掃除の時間",
+   "divergentFist": "逕庭拳",
+   "sukuna": "宿儺と交代",
+   "infiniteVoid": "領域展開「無量空処」",
+   "hollowPurple": "虚式「茈」",
+   "divineDogs": "玉犬",
+   "rabbitEscape": "脱兎",
+   "jajanken": "ジャジャン拳",
+   "fishing": "釣り",
+   "godspeed": "神速",
+   "chocolate": "チョコロボくん",
+   "chainJail": "束縛する中指の鎖",
+   "scarletEyes": "緋の眼",
+   "knightOath": "騎士の誓い",
+   "shieldBash": "シールドバッシュ"
+  }
+ }
+}
